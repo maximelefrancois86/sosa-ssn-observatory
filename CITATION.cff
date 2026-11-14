@@ -11,11 +11,14 @@ authors:
     affiliation: "Mines Saint-Étienne"
 url: "https://ci.mines-stetienne.fr/sosa-ssn-observatory/"
 repository-code: "https://github.com/maximelefrancois86/sosa-ssn-observatory"
+doi: "10.5281/zenodo.24223888"
 identifiers:
   - type: url
     value: "https://w3id.org/sosa-ssn-observatory"
     description: "The persistent identifier of the observatory"
-# the DOI of the release, minted by Zenodo from the GitHub release, is added once known
+  - type: doi
+    value: "10.5281/zenodo.24223888"
+    description: "The concept DOI of all the releases (Zenodo); each release has its own DOI"
 license:
   - CC-BY-4.0
   - MIT

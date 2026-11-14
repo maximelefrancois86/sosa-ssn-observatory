@@ -1,5 +1,7 @@
 # SOSA/SSN Usage Observatory
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24223888.svg)](https://doi.org/10.5281/zenodo.24223888)
+
 An observatory of how the W3C/OGC Semantic Sensor Network ontology (SSN) and its core, SOSA,
 are used in the scientific literature. It covers every work that cites a publication on
 SOSA/SSN, and every work whose full text writes SOSA/SSN names or namespaces. For each work it
@@ -14,7 +16,7 @@ punning, result form, units, time, hosting, location, grouping…).
   knowledge graph, all in the browser)
 - **Persistent identifier**: https://w3id.org/sosa-ssn-observatory
 - **Repository**: https://github.com/maximelefrancois86/sosa-ssn-observatory
-- **DOI**: Zenodo, one DOI per GitHub release (the concept DOI of all releases is added here once minted)
+- **DOI**: [10.5281/zenodo.24223888](https://doi.org/10.5281/zenodo.24223888) (all releases; each release has its own DOI on Zenodo)
 - **Maintainer**: Maxime Lefrançois, Mines Saint-Étienne
   ([ORCID 0000-0001-9814-8991](https://orcid.org/0000-0001-9814-8991))
 
@@ -308,7 +310,7 @@ Until the DOI of this release is minted, cite the repository and the web applica
 
 > Maxime Lefrançois. *SOSA/SSN Usage Observatory* (release 1.0.0, data of 2026-11-14).
 > Mines Saint-Étienne. https://ci.mines-stetienne.fr/sosa-ssn-observatory/ —
-> DOI: see the Zenodo record of the release.
+> DOI: [10.5281/zenodo.24223888](https://doi.org/10.5281/zenodo.24223888) (concept DOI; cite the DOI of the release you used, given on its Zenodo record).
 
 The paper describing the resource (submitted to the Resources track of ESWC 2027):
 
