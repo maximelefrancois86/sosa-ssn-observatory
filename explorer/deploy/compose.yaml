@@ -1,0 +1,32 @@
+# On ci.mines-stetienne.fr, from /var/www/sosa-ssn-observatory/deploy (`make deploy` does it):
+#
+#     sudo docker compose up -d --build
+#
+# Apache forwards https://ci.mines-stetienne.fr/sosa-ssn-observatory/ to the port below, bound
+# to the loopback only (deploy/sosa-ssn-observatory.conf, in sites-available).
+
+services:
+  observatory:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: sosa-ssn-observatory:latest
+    container_name: sosa-ssn-observatory
+    ports:
+      - "127.0.0.1:8115:8000"
+    volumes:
+      # the public build of slr/explorer (`make public`), sent by `make deploy`
+      - /var/www/sosa-ssn-observatory/site:/site:ro
+    read_only: true
+    tmpfs:
+      - /tmp
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+    restart: unless-stopped
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"

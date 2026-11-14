@@ -1,0 +1,31 @@
+{
+  "stamp": "2026-11-12T1711",
+  "pass": "manual",
+  "pool": 878,
+  "done": 1,
+  "complete": true,
+  "pdfs_read": 1,
+  "works": [
+    {
+      "openalex": "W7149001482",
+      "doi": "10.70675/68ee3402z9524z4848za20fz92d7d980dfab",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "file name",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "W7149001482-KLOTZ_Benjamin_these_2019.pdf",
+          "folder": "fulltext/manual/inbox",
+          "bytes": 8794966,
+          "sha256": "d7f77cebe3293634bc9c5431dfc96b9a926ad43c1c10c0e4af633fb23f51d77b"
+        }
+      ]
+    }
+  ],
+  "outcomes": {
+    "text": 1
+  },
+  "unmatched": []
+}

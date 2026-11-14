@@ -1,0 +1,43 @@
+# Human reading budget of the review, read by scripts/reading_budget.py.
+# The budget is a decision (pilotage review/101); the rates and lengths are estimates
+# with their source, to be replaced by measurements when the review has them.
+
+[budget]
+hours = 100                # all human hours for screening and extraction (Maxime and students)
+reading_share = 0.75       # share of those hours spent reading text
+strata = ["A", "B"]        # the strata screened in full (stratum D is counted apart)
+second_reader_share = 0.2  # share of candidates read again by a second reader (agreement)
+calibration_sample = 100   # candidates drawn from A and B and coded by two readers (protocol § 5)
+blind = ["calibration", "second"]  # queue reasons coded without any recommendation, script or model: the
+                                    # readers' codes then measure the model and the script (pilotage review/105)
+open_access_only = false   # true: the review application presents only the works with an open-access copy
+                           # (screening/open-access.jsonl, scripts/open_access_share.py), filtered when it
+                           # starts; queue.jsonl is not changed, and false gives the others back in their place.
+                           # To decide (pilotage review/104): results/open-access-share.md
+
+[reading_rate]             # words per minute
+who = "readers of English as a second language, scientific text"
+low = 100                  # reading to recall what was read
+mid = 165                  # reading to learn, slowed for a second language
+high = 200                 # ordinary reading of non-fiction, slowed for a second language
+source = """Brysbaert (2019), J. Memory and Language 109:104047, doi:10.1016/j.jml.2019.104047:
+silent reading of English non-fiction by native adults 238 wpm (175-300); reading to
+recall about 100 wpm; Carver's 'learning' gear 200 wpm. Cop, Drieghe and Duyck (2015),
+PLoS ONE 10(8):e0134008: bilingual readers 17 % slower in their second language.
+mid = 200 x 0.83; high = 238 x 0.83, rounded."""
+
+[length]                   # assumptions, used only when results/detection.json is absent:
+full_text_words = 7000     # reading_budget.py takes the measured medians from there
+full_text_source = "assumption, to be measured on the open-access full texts"
+passage_words = 1000
+passage_source = "assumption, to be measured once the term detection script runs"
+
+[per_record]               # minutes per record per reader, measured in other reviews
+title_abstract = 1.0
+full_text_screening = 9.0
+extraction = 60.0
+source = """Title and abstract: 1.0 min (Shemilt et al. 2016, Syst Rev 5:140), 0.9 min (Wang et al.
+2020, PLoS ONE 15(1):e0227742), about 1 min (Haddaway and Westgate 2019, Conservation
+Biology 33:434, preprint table 5: 468 records a day). Full-text screening: 7 min (Wang
+2020) to about 11 min (Haddaway and Westgate, 44 a day). Data extraction: 53 min (Wang
+2020) to about 70 min (Haddaway and Westgate, 6.9 a day). Middle values kept."""

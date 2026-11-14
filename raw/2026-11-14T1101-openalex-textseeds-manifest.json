@@ -1,0 +1,43 @@
+{
+  "stamp": "2026-11-14T1101",
+  "source": "OpenAlex full-text search, strings of the text seeds",
+  "api_key_used": true,
+  "select": "id,doi,display_name,publication_year,publication_date,type,language,primary_location,authorships,cited_by_count,abstract_inverted_index,primary_topic,keywords,open_access,referenced_works_count,ids,is_retracted",
+  "queries": [
+    {
+      "seed": "cox-2020-ssn-ext",
+      "string": "vocab-ssn-ext",
+      "query": "https://api.openalex.org/works?filter=fulltext.search.exact:%22vocab-ssn-ext%22&per-page=200&select=id,doi,display_name,publication_year,publication_date,type,language,primary_location,authorships,cited_by_count,abstract_inverted_index,primary_topic,keywords,open_access,referenced_works_count,ids,is_retracted",
+      "reported": 8,
+      "retrieved": 8
+    },
+    {
+      "seed": "cox-2020-ssn-ext",
+      "string": "Extensions to the Semantic Sensor Network Ontology",
+      "query": "https://api.openalex.org/works?filter=fulltext.search.exact:%22Extensions%20to%20the%20Semantic%20Sensor%20Network%20Ontology%22&per-page=200&select=id,doi,display_name,publication_year,publication_date,type,language,primary_location,authorships,cited_by_count,abstract_inverted_index,primary_topic,keywords,open_access,referenced_works_count,ids,is_retracted",
+      "reported": 8,
+      "retrieved": 8
+    },
+    {
+      "seed": "cox-2020-ssn-ext",
+      "string": "w3.org/ns/ssn/ext",
+      "query": "https://api.openalex.org/works?filter=fulltext.search.exact:%22w3.org%2Fns%2Fssn%2Fext%22&per-page=200&select=id,doi,display_name,publication_year,publication_date,type,language,primary_location,authorships,cited_by_count,abstract_inverted_index,primary_topic,keywords,open_access,referenced_works_count,ids,is_retracted",
+      "reported": 0,
+      "retrieved": 0
+    },
+    {
+      "seed": "cox-2020-ssn-ext",
+      "string": "ssn-ext:",
+      "query": "https://api.openalex.org/works?filter=fulltext.search.exact:%22ssn-ext:%22&per-page=200&select=id,doi,display_name,publication_year,publication_date,type,language,primary_location,authorships,cited_by_count,abstract_inverted_index,primary_topic,keywords,open_access,referenced_works_count,ids,is_retracted",
+      "reported": 10,
+      "retrieved": 10
+    },
+    {
+      "seed": "w3c-ssn-2023",
+      "string": "vocab-ssn-2023",
+      "query": "https://api.openalex.org/works?filter=fulltext.search.exact:%22vocab-ssn-2023%22&per-page=200&select=id,doi,display_name,publication_year,publication_date,type,language,primary_location,authorships,cited_by_count,abstract_inverted_index,primary_topic,keywords,open_access,referenced_works_count,ids,is_retracted",
+      "reported": 4,
+      "retrieved": 4
+    }
+  ]
+}

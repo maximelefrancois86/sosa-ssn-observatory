@@ -1,0 +1,172 @@
+# The questions of the modelling-patterns codebook (patterns-codebook.md, version 1), read by
+# the review application (app/DESIGN.md) as a section of its form, and by scripts/agreement.py.
+# patterns-codebook.md is the reference; this file must say the same thing.
+#
+# The application gives the questions the identifiers `patterns.<id>` (in the decisions and
+# the recommendations), so that they never clash with those of codebook.toml. They are asked
+# when the engagement is E3, E4 or E5, or when the text of the work writes a SOSA/SSN name
+# (the population of scripts/pattern_coding.py prepare). There is no `unknown` here:
+# `not-shown` says that the passages (and the full text, if the reader opens it) do not show
+# the choice, and it goes alone.
+
+[section]
+id = "patterns"
+title = "Modelling choices"
+help = """Which modelling choice the work makes where SOSA/SSN leaves the choice open. Code what the work's own data, ontology, examples, figures or queries show; a sentence that only paraphrases the specification shows nothing. A choice the passages do not show is not-shown: never infer it from what the work is likely to do."""
+when = { engagement = ["E3", "E4", "E5"] }
+or_item = "writes_names"   # or the text of the work writes a SOSA/SSN name (results/usage-patterns.json)
+
+[[question]]
+id = "property_individuals"
+label = "P1. Property individuals: generic or feature-specific"
+kind = "one"
+values = ["generic", "specific", "both", "class", "not-shown"]
+help = "What the objects of sosa:observedProperty, sosa:actsOnProperty, ssn:hasProperty / sosa:hasProperty stand for."
+[question.meaning]
+generic = "one individual per kind of property, shared by all the features of interest (ex:Temperature, quantitykind:Temperature, :airTemperature observed on many rooms)"
+specific = "an individual bound to one feature of interest (<office/1/temperature>, ex:room34LightStatus, a property isPropertyOf a single feature)"
+both = "the work shows both, e.g. specific properties linked to a generic kind (saref:hasPropertyKind, a class and its instances)"
+class = "the property is an OWL class and nothing else: observations point to the class IRI, no individual is shown"
+not-shown = "no property individual or class in the passages"
+
+[[question]]
+id = "property_source"
+label = "P2. Where the properties come from"
+kind = "many"
+values = ["own-classes", "own-individuals", "catalogue", "not-shown"]
+help = "For catalogue, name the vocabulary in the note (QUDT quantity kinds, SWEET, ENVO, OM, I-ADOPT, SAREF, CF standard names, BODC, Wikidata…)."
+[question.meaning]
+own-classes = "the work defines subclasses of sosa:ObservableProperty, sosa:ActuatableProperty or ssn:Property"
+own-individuals = "the work names its own property individuals, from no catalogue"
+catalogue = "the properties come from an external vocabulary"
+not-shown = "the passages do not show where the properties come from"
+
+[[question]]
+id = "punning"
+label = "P3. Punning: one IRI as a class and as an individual"
+kind = "one"
+values = ["yes", "no", "not-shown"]
+[question.meaning]
+yes = "the same IRI is a class (subclass of a SOSA/SSN class, or rdf:type object) and an individual (object of observedProperty, madeBySensor…), which the specification says one SHOULD NOT do"
+no = "classes and individuals are shown, and they are distinct"
+not-shown = "the passages do not show both"
+
+[[question]]
+id = "system_individuals"
+label = "P4. System individuals"
+kind = "one"
+values = ["individual-devices", "generic-individuals", "types-and-instances", "not-shown"]
+help = "What instances of sosa:Sensor, sosa:Actuator, sosa:Sampler, ssn:System / sosa:System, sosa:Platform stand for."
+[question.meaning]
+individual-devices = "each individual is one physical or software device (<sensor/927>, :DHT22_kitchen, a serial number)"
+generic-individuals = "an individual stands for a model or kind of device, shared by observations of many devices (:DHT22 as the sensor of every reading)"
+types-and-instances = "device models or kinds are classes (subclasses of sosa:Sensor or ssn:System), devices are their instances (the pattern the 2023 Edition recommends)"
+not-shown = "no system individual in the passages"
+
+[[question]]
+id = "result_form"
+label = "P5. Form of the results"
+kind = "many"
+values = ["simple-literal", "qudt", "om", "schema-org", "own-result-node", "own-value-property",
+          "structured", "by-reference", "nested", "not-shown"]
+[question.meaning]
+simple-literal = "sosa:hasSimpleResult"
+qudt = "qudt:QuantityValue, qudt:numericValue"
+om = "om:Measure, om:Point"
+schema-org = "schema:QuantitativeValue"
+own-result-node = "a sosa:Result or a class of the work, with the work's own value property"
+own-value-property = "the value hangs on the observation by a property of the work that is not hasSimpleResult (:hasValue, :temperatureValue)"
+structured = "an array, matrix, JSON or CSV literal, an RDF list, a Data Cube"
+by-reference = "a file, image or stream given by IRI"
+nested = "an observation or a collection as the result"
+not-shown = "no result in the passages"
+
+[[question]]
+id = "unit_placement"
+label = "P6. Where the unit is"
+kind = "many"
+values = ["in-literal", "on-result-node", "on-observation", "on-property", "on-sensor-or-collection", "none", "not-shown"]
+[question.meaning]
+in-literal = "a cdt:ucum or other custom datatype literal, or a string with the unit (\"22 °C\")"
+on-result-node = "qudt:unit, qudt:hasUnit, om:hasUnit, schema:unitCode on the result"
+on-observation = "a unit property on the observation"
+on-property = "the unit is attached to the observed property or its class"
+on-sensor-or-collection = "the unit is attached to the sensor or to a collection"
+none = "values are shown without any unit"
+not-shown = "no value in the passages"
+
+[[question]]
+id = "time"
+label = "P7. Time"
+kind = "many"
+values = ["resultTime-literal", "phenomenonTime-owl-time", "phenomenonTime-literal", "own-time-property", "forecast", "none", "not-shown"]
+[question.meaning]
+resultTime-literal = "sosa:resultTime with an xsd:dateTime literal"
+phenomenonTime-owl-time = "sosa:phenomenonTime to a time:Instant or time:Interval"
+phenomenonTime-literal = "sosa:phenomenonTime with a literal"
+own-time-property = "a timestamp property of the work or of another vocabulary"
+forecast = "an observation whose phenomenon time is after its result time (the forecast pattern of the specification)"
+none = "observations are shown without any time"
+not-shown = "no observation time in the passages"
+
+[[question]]
+id = "hosting"
+label = "P8. Hosting and deployment"
+kind = "many"
+values = ["platform", "deployment", "subsystem", "none", "not-shown"]
+[question.meaning]
+platform = "sosa:hosts / sosa:isHostedBy between platforms and systems"
+deployment = "ssn:Deployment, ssn:deployedSystem, ssn:deployedOnPlatform"
+subsystem = "ssn:hasSubSystem"
+none = "systems are described but never hosted"
+not-shown = "no system in the passages"
+
+[[question]]
+id = "location"
+label = "P9. Location: what it is attached to, and how"
+kind = "many"
+values = ["on-system", "on-platform", "on-feature", "on-observation", "geosparql", "wgs84", "schema-org", "own-property", "not-shown"]
+help = "Tick the attachment (on-…) and the encoding."
+[question.meaning]
+on-system = "attached to the sensor or actuator"
+on-platform = "attached to the platform"
+on-feature = "attached to the feature of interest"
+on-observation = "attached to the observation"
+geosparql = "geo:hasGeometry, WKT"
+wgs84 = "geo:lat / geo:long of W3C Basic Geo"
+schema-org = "schema.org terms"
+own-property = "a property of the work"
+not-shown = "no location in the passages"
+
+[[question]]
+id = "grouping"
+label = "P10. Groups of observations"
+kind = "many"
+values = ["one-by-one", "collection-ssn-ext", "collection-sosa", "own-collection", "series-literal", "stream", "not-shown"]
+[question.meaning]
+one-by-one = "each reading is one observation"
+collection-ssn-ext = "ssn-ext:ObservationCollection"
+collection-sosa = "sosa:ObservationCollection"
+own-collection = "a class or property of the work, a named graph, a Data Cube slice"
+series-literal = "a whole series as one literal or file"
+stream = "an RDF stream of observations"
+not-shown = "no observation in the passages"
+
+[[question]]
+id = "feature_typing"
+label = "P11. Features of interest"
+kind = "one"
+values = ["explicit", "subclass", "domain-only", "both", "not-shown"]
+[question.meaning]
+explicit = "individuals typed sosa:FeatureOfInterest"
+subclass = "domain classes declared subclasses of sosa:FeatureOfInterest"
+domain-only = "features typed only by domain classes, linked by hasFeatureOfInterest"
+both = "more than one of the above"
+not-shown = "no feature of interest in the passages"
+
+[[question]]
+id = "other"
+label = "P12. Other idioms (free text, at most three sentences, or none)"
+kind = "text"
+help = "A notable way of using SOSA/SSN that P1 to P11 do not catch: observations subclassed per quantity, an actuation whose result is a command, sample chains, the ultimate feature of interest, procedures described with P-Plan, rules over observations…"
+max_length = 1000

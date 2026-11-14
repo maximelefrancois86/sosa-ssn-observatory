@@ -1,0 +1,247 @@
+{
+ "stamp": "2026-11-14T1117",
+ "seed": "patterns-second-2026-11-14",
+ "n": 60,
+ "works": [
+  {
+   "item": "openalex:W3088317607",
+   "excerpts_sha256": "06085c8f34f0be864c769289ac017bbedb158705ec0bca474324b1a8da5af51c"
+  },
+  {
+   "item": "openalex:W4407933926",
+   "excerpts_sha256": "2a945dcc963faa002bddcbc9e7f061fdd5cc527c7248795275de78a380e934cb"
+  },
+  {
+   "item": "openalex:W3020657355",
+   "excerpts_sha256": "82ebf2ca70bff7f72c1a934ab7eb6ca12bb68961c930a7813fb33ea72892f2a2"
+  },
+  {
+   "item": "s2orc:129943213",
+   "excerpts_sha256": "59f83ff2d57217002468e853766f4a707ade4fc1c4d9f60deb2750f76ce2d39e"
+  },
+  {
+   "item": "openalex:W4210933435",
+   "excerpts_sha256": "3f51a9a82f47b3bb273aa241fca54c523610e119690d5580e643a1d32b7c85a8"
+  },
+  {
+   "item": "openalex:W4413796311",
+   "excerpts_sha256": "ce9d19a349675f1213d71c29417301fc98353ee6ff7634a5c5dbe55fc7fa189b"
+  },
+  {
+   "item": "s2orc:286634853",
+   "excerpts_sha256": "f06d23446f6b8288d6bad9a418b409afe5b1f64cbfbf544fa2bdbae600d32d02"
+  },
+  {
+   "item": "openalex:W7116695360",
+   "excerpts_sha256": "4ee3b9e02cca3cf9149e05a20d352c5576b855e8d8958f975933e16e6de34dfc"
+  },
+  {
+   "item": "s2orc:53094706",
+   "excerpts_sha256": "5948863aeca87c5b8073b6bfb7dddedf44daf3671fd2ea73746c7609c3a6d979"
+  },
+  {
+   "item": "s2orc:292116675",
+   "excerpts_sha256": "dd4468c27139147a9c140bec7d085f79ad744327c62375fa7f1db547fdaf9c26"
+  },
+  {
+   "item": "s2orc:218690779",
+   "excerpts_sha256": "fd7014ccf9b1814236002e8fad998e8539fccd742f920cb62368996969c895cf"
+  },
+  {
+   "item": "openalex:W3032968634",
+   "excerpts_sha256": "2bb363dbaf38640ce19e73497d2128f4b121a455022b482ccba35bfd02f103ff"
+  },
+  {
+   "item": "s2orc:287774152",
+   "excerpts_sha256": "4fa4f6ffb920d2afcb1a378ffad8af354d42385b1636bf5daf9ee872fbe7e3fe"
+  },
+  {
+   "item": "openalex:W3047498279",
+   "excerpts_sha256": "0042c601c8639998aa4d0285aee9ff460f5b0cacdca55cb1aff00d1002ac5ab4"
+  },
+  {
+   "item": "openalex:W7148860605",
+   "excerpts_sha256": "f86bd5497a12b5a5d6d41041e86ce2f03249436d2d16057330a9ecb3a9b9cfaa"
+  },
+  {
+   "item": "openalex:W4415398083",
+   "excerpts_sha256": "1f4a0990a429ed26fc4180973ab5d7b0c1821181e85add3f300c899d83c66fa3"
+  },
+  {
+   "item": "s2orc:265068586",
+   "excerpts_sha256": "6b2919c5f9b5fef93eb800d076e90b567cc819f11d72c2aeaedfd4f035b4f7eb"
+  },
+  {
+   "item": "openalex:W7127082105",
+   "excerpts_sha256": "5e241087f73293681aee2d029dc0394833f35eff97e42fc9e4568ddd0842465d"
+  },
+  {
+   "item": "openalex:W7214739339",
+   "excerpts_sha256": "bad7a4c0566f1d6641b26dfb9fb39eb1cd52edac837c290f864723b0153338a0"
+  },
+  {
+   "item": "s2orc:20807723",
+   "excerpts_sha256": "70f326b06d69389fc6d4810c1b2819e9f4e26d56dad2a7efb14d346f0861d3a2"
+  },
+  {
+   "item": "openalex:W7225115631",
+   "excerpts_sha256": "ec4ee8c77fd1847c746d407fdb5b6acc4511d13537f1f623ea651f36986e8b65"
+  },
+  {
+   "item": "openalex:W4386597545",
+   "excerpts_sha256": "49883164af03b7787fdfa94f90a835f2b767ba84616fc02f9491df87bd767a35"
+  },
+  {
+   "item": "openalex:W3093138486",
+   "excerpts_sha256": "beb22bc5a758f39ada12430f1460c45f4667740bd1b7c51816f692e9d50e9e9b"
+  },
+  {
+   "item": "s2orc:246241789",
+   "excerpts_sha256": "a1806406be09c8dbd3efc1cef2114db9955973266afd4500400ebaa02c232e68"
+  },
+  {
+   "item": "s2orc:272832621",
+   "excerpts_sha256": "f3a4828d5956c776375d4a6ef271cc0bb4f2a618c0705b65cfcd4f43c88976f0"
+  },
+  {
+   "item": "s2orc:247120879",
+   "excerpts_sha256": "ae34a98a55e7e3aa7bf20864c010796604d561492b916cf7c00ac85d2eb87dbd"
+  },
+  {
+   "item": "s2orc:252976593",
+   "excerpts_sha256": "d33a7c7c8bdac9543629422e59ed1f7a5d36bd008634bc98571da4771d7d8e3e"
+  },
+  {
+   "item": "s2orc:286675088",
+   "excerpts_sha256": "f538ecb4ef6773ebe68b3d36094c5269947d94ba10b85702038d4f83b10d78a2"
+  },
+  {
+   "item": "s2orc:221356028",
+   "excerpts_sha256": "ac15768d28a277e8a4b47733a544915d5c8300d01d404db70b8d162aa3230e34"
+  },
+  {
+   "item": "openalex:W4408472960",
+   "excerpts_sha256": "d2c3425a226df75cb49a7c7177a345f7b572840cbdbc9d01a459e570ba4ff2fa"
+  },
+  {
+   "item": "openalex:W7167743913",
+   "excerpts_sha256": "b986ec67dc9797d54636361fc85dd7cf9b5948251dcb4ac70ba9bce97d1a14d7"
+  },
+  {
+   "item": "openalex:W4414930035",
+   "excerpts_sha256": "0aef8b597fc54f1840d97032f6ba895d8c9e6ccf93d5c55d44c9d70bd79a4e14"
+  },
+  {
+   "item": "openalex:W7143478328",
+   "excerpts_sha256": "0c2151f883baa8172e1962bfb63ef3c3a55d223d4ad3d6d497f9673ce30ee217"
+  },
+  {
+   "item": "openalex:W3035072445",
+   "excerpts_sha256": "b8156a1503fbbf5cbc6591a118347b13ad9ea08e3eaf235cc970d39418c783a9"
+  },
+  {
+   "item": "openalex:W4323338757",
+   "excerpts_sha256": "2772f75c7a81122ffbd951f9cd4ce8730c6e3c5ae598e068114eaaab8cb63e46"
+  },
+  {
+   "item": "openalex:W4362474450",
+   "excerpts_sha256": "c04d22b8792ef2e050d9b44bb22593ec2df5856c7d8f7a3a574c43ce077abf32"
+  },
+  {
+   "item": "s2orc:245054521",
+   "excerpts_sha256": "2099b0eb15edfd1925494c0740700a01ce2f43a95a102f6e41b371b401023a36"
+  },
+  {
+   "item": "s2orc:235546428",
+   "excerpts_sha256": "f2c7a896be3b8138102fdf1c671707b74f9545351075cc6b6a95a1ac1ceb0e02"
+  },
+  {
+   "item": "s2orc:256780031",
+   "excerpts_sha256": "c7fd499aeba5d067a0bc8b82d7926de8059638d56eac2e16ddbf4ef1174a246e"
+  },
+  {
+   "item": "s2orc:237489732",
+   "excerpts_sha256": "3addbc8518dbe0fb8947f4b2e3c285434c3ed7af7a19cbdd17eab569f2b0cf94"
+  },
+  {
+   "item": "openalex:W7151995669",
+   "excerpts_sha256": "db76ae199d8c41fa1b2e58723055639dbf776a8a788920ee2c4fdf918bf844d6"
+  },
+  {
+   "item": "s2orc:13793673",
+   "excerpts_sha256": "fb05dd2c06b0a2cb17cbd3275c66248b6c9f0f091c1b8a150ca9b7d4cf531fc4"
+  },
+  {
+   "item": "openalex:W4310896493",
+   "excerpts_sha256": "bd89d1ab820dfe7c58a95013630712600686c541abb58ed1fc441125830f82f4"
+  },
+  {
+   "item": "s2orc:250305863",
+   "excerpts_sha256": "71d314f899ae2d738cf50e41e09750d5a70eabe0222ca61df2463a5522689b6b"
+  },
+  {
+   "item": "s2orc:271489653",
+   "excerpts_sha256": "9a1f7a368edc2b2eafdd41fab106d3e6cd98ceb86e2e5b26d1c76ef2ccb931dd"
+  },
+  {
+   "item": "openalex:W3212945135",
+   "excerpts_sha256": "35e3d122d60c8562374779447a2a81d2b371a88f5e82f7143a7451caaf62ae5f"
+  },
+  {
+   "item": "openalex:W4379800884",
+   "excerpts_sha256": "54c9eca02b72ac4d4af0a84ce75917f1f4b7904249992d861c3cedc1bfd79f27"
+  },
+  {
+   "item": "openalex:W7149001482",
+   "excerpts_sha256": "9d3291682a30f5332cc9cd2926fe372d4b9b5eda2c5cceebff374d87bb743394"
+  },
+  {
+   "item": "s2orc:276955989",
+   "excerpts_sha256": "ec32240ea26ac5b087cc877529eb8ac0f9cd56c8dc7070372e4b8a15f456f45e"
+  },
+  {
+   "item": "s2orc:258755803",
+   "excerpts_sha256": "505895a9c35c9a27f05d7b3bdc90bb7dd07e26b005195b940f7e4bec95867719"
+  },
+  {
+   "item": "openalex:W7152014930",
+   "excerpts_sha256": "f0087f554c370823515df0419c88879d6f0160ebc8fb59b287c8a31de2f0bac5"
+  },
+  {
+   "item": "openalex:W7152396788",
+   "excerpts_sha256": "32bd353361d419c09d41822e149fdf92a2df83ed534322021572ec3a647d5f19"
+  },
+  {
+   "item": "s2orc:282443533",
+   "excerpts_sha256": "d7314d1385945ba4e40782bc383fe03cc77f41a46241a5b6b33895f9ac7997cd"
+  },
+  {
+   "item": "openalex:W4390098492",
+   "excerpts_sha256": "eca31814a95960faecd0689021e4aa44a353c43dd8439f3e154ad34b05531783"
+  },
+  {
+   "item": "openalex:W4405283898",
+   "excerpts_sha256": "ffe7d2cacb43c8708f04e69ca7796c46e6a5b9f7ae3a10fea4cc7852a815ad3e"
+  },
+  {
+   "item": "openalex:W4407919415",
+   "excerpts_sha256": "f71fc7989e3504d9368a4add7401f05b6ce60f845283a97cf421a300521bb316"
+  },
+  {
+   "item": "openalex:W3094822300",
+   "excerpts_sha256": "808bc1843ac7233d59beab6b8e1f808e97f82f01c41f94347bdff9d8986c36c6"
+  },
+  {
+   "item": "s2orc:202767588",
+   "excerpts_sha256": "f516f2f80bb9dad8117df3c12b11ababaf64dcd9c824c68a2342b3e9615d6252"
+  },
+  {
+   "item": "s2orc:279301474",
+   "excerpts_sha256": "8834d089c2048675c1299cdd69f7b5c7d18206eb8715a480b8590176018ab974"
+  },
+  {
+   "item": "openalex:W7148571504",
+   "excerpts_sha256": "b3ab4f64d5cf25cfe62820dbcc9fdec0a18e5330cbc817b29917116dd2255147"
+  }
+ ]
+}

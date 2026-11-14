@@ -1,0 +1,110 @@
+{
+ "against_script": {
+  "E0": {
+   "E0": 126,
+   "E1": 7,
+   "E3": 1,
+   "E4": 1
+  },
+  "E1": {
+   "E0": 1,
+   "E1": 34,
+   "E2": 6,
+   "E4": 2
+  }
+ },
+ "dollars": 56.99,
+ "engagement": {
+  "A": {
+   "E0": 136,
+   "E1": 192,
+   "E2": 129,
+   "E3": 121,
+   "E4": 240,
+   "E5": 4
+  },
+  "B": {
+   "E0": 146,
+   "E1": 193,
+   "E2": 88,
+   "E3": 40,
+   "E4": 83,
+   "E5": 1
+  },
+  "D": {
+   "E0": 22,
+   "E1": 12,
+   "E2": 10,
+   "E3": 37,
+   "E4": 39
+  }
+ },
+ "failed": {
+  "refusal": 1
+ },
+ "not_the_work": [
+  [
+   "openalex:W2945277624",
+   "unsure"
+  ],
+  [
+   "openalex:W3162839248",
+   "unsure"
+  ],
+  [
+   "openalex:W4206701980",
+   "no"
+  ],
+  [
+   "openalex:W4212764240",
+   "no"
+  ],
+  [
+   "openalex:W4226148669",
+   "unsure"
+  ],
+  [
+   "openalex:W4254403118",
+   "no"
+  ],
+  [
+   "openalex:W4383499536",
+   "no"
+  ],
+  [
+   "openalex:W4396874574",
+   "unsure"
+  ],
+  [
+   "s2orc:208086021",
+   "unsure"
+  ]
+ ],
+ "problems": {
+  "domain: value outside the codebook": 1,
+  "extensions.how: value outside the codebook": 7,
+  "question missing": 1
+ },
+ "quotes": {
+  "all": 10674,
+  "found": 10516
+ },
+ "runs": [
+  "2026-11-13T1830",
+  "2026-11-13T1837",
+  "2026-11-13T1857",
+  "2026-11-13T1907",
+  "2026-11-13T1916",
+  "2026-11-14T1241",
+  "2026-11-14T1356",
+  "2026-11-13T1830b",
+  "2026-11-13T1837b"
+ ],
+ "usage": {
+  "cache_creation_input_tokens": 59295,
+  "cache_read_input_tokens": 19508055,
+  "input_tokens": 35232533,
+  "output_tokens": 2138071
+ },
+ "works": 1493
+}

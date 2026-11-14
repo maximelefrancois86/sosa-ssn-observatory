@@ -1,0 +1,37 @@
+# When terms entered the `sosa:` namespace (http://www.w3.org/ns/sosa/), read by
+# scripts/usage_patterns.py and scripts/namespace_history.py. Evidence gathered on
+# 2026-11-14 from the issues, pull requests and commits of w3c/sdw-sosa-ssn
+# (raw/2026-11-14T1059-sdw-sosa-ssn-threads.jsonl.gz) and the drafts of the Extensions.
+# A work published before the date at which a name existed in `sosa:` and that writes it
+# with the `sosa:` prefix or namespace makes a namespace error (S1) or uses a term that did
+# not exist (S2): it does not anticipate the 2023 Edition.
+
+[decision]
+all_terms_in_sosa = "2023-09-21"
+evidence = """The SOSA subgroup discussed the move in its meeting of 2023-09-21 (review of PR #97 by
+R. Atkinson: "Discussed in meeting 21/09/2023") and merged PR #97 "Mirror ssn resources in sosa"
+("All SSN classes and properties cloned into SOSA namespace and graph … Fixes #48") the same day,
+2023-09-21T22:43Z, merge commit a43e70b2; issue #48 ("Should we merge SSN and SOSA into a single
+namespace?", opened 2023-05-04) was closed that day. No W3C-hosted minutes exist for that meeting.
+The ssn: copies were deprecated and the specification text switched to sosa: by PR #133,
+2023-12-11. First publication on /TR/: FPWD of 2025-09-16. The namespace document at
+http://www.w3.org/ns/sosa/ still served the 2017 graph on 2026-11-14 (w3c/ns#41 open)."""
+earlier_resolution = """SDWIG, TPAC Lyon, 2018-10-23: "add an hasProperty property to the SOSA namespace …
+as errata change" (https://www.w3.org/2018/10/23-sdw-minutes.html#x05); never implemented as an
+erratum. The 2017 Recommendation itself writes sosa:hasProperty in example B.10 (reported in #81,
+2017-12-09, not in the errata)."""
+
+# Terms of the Extensions to SSN, which put them in sosa: from their first public draft.
+[introduced_by_ssn_ext]
+date = "2018-11-22"   # FPWD of https://www.w3.org/TR/vocab-ssn-ext/ (WD 2020-01-16)
+terms = ["ObservationCollection", "hasMember", "hasUltimateFeatureOfInterest", "hasOriginalSample",
+         "hasSampledFeature"]
+
+# Dates at which a term entered sosa: when it differs from the decision above (merge of the
+# pull request that declared it in the RDF of gh-pages).
+[moved_to_sosa]
+isSubSystemOf = "2024-07-11"          # PR #228
+hasSystemCapability = "2025-08-07"    # PR #334: the System Capabilities terms go into sosa:
+hasValidityContext = "2025-08-07"
+hasOperatingConditions = "2025-08-07"
+Execution = "2024-01-30"              # PR #173 (from ProcedureExecution, #164)

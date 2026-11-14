@@ -1,0 +1,14 @@
+form,works
+query variable,28
+bare number,6
+xsd:float,4
+plain string,3
+"plain string, unit inside",2
+xsd:integer,2
+xsd:decimal,1
+cdt:ucum (IRI cut),1
+xsd:int,1
+xsd:string,1
+"rdfs:Literal, unit inside",1
+cdt: other,1
+cdt:ucum,1

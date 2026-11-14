@@ -1,0 +1,93 @@
+{
+  "stamp": "2026-11-11T1339-p0of8",
+  "source": "Semantic Scholar S2ORC (s2orc_v2)",
+  "release": "2026-11-03",
+  "shards_in_release": 330,
+  "candidates_from_s2_harvest": "2026-11-07T1353",
+  "candidate_corpus_ids": 2396,
+  "candidate_dois": 2412,
+  "shards": [
+    {
+      "index": 288,
+      "file": "20261106_115907_00079_54abm_dec43c03-53ce-41bd-ae4a-1fae168c1450.gz",
+      "records": 61679,
+      "uncompressed bytes": 3943727692,
+      "kept": 2,
+      "kept as candidates": 2,
+      "kept by strings in the body": 1,
+      "kept by strings, not candidates": 0,
+      "compressed bytes": 1073806790,
+      "seconds": 150,
+      "attempts": 1
+    },
+    {
+      "index": 296,
+      "file": "20261106_115907_00079_54abm_e416c505-264a-45d6-9ddc-e2a034ff2ac9.gz",
+      "records": 61913,
+      "uncompressed bytes": 3942664621,
+      "kept": 1,
+      "kept as candidates": 1,
+      "kept by strings in the body": 0,
+      "kept by strings, not candidates": 0,
+      "compressed bytes": 1073830467,
+      "seconds": 563,
+      "attempts": 1
+    },
+    {
+      "index": 304,
+      "file": "20261106_115907_00079_54abm_e9e8c209-71dd-4f3a-b23e-7b5afcbab8a3.gz",
+      "records": 4783,
+      "uncompressed bytes": 306356694,
+      "compressed bytes": 83543294,
+      "seconds": 91,
+      "attempts": 1
+    },
+    {
+      "index": 320,
+      "file": "20261106_115907_00079_54abm_f882a602-24b2-410d-992b-9fe269f6ad60.gz",
+      "records": 61505,
+      "uncompressed bytes": 3943095490,
+      "kept": 3,
+      "kept as candidates": 2,
+      "kept by strings in the body": 1,
+      "kept by strings, not candidates": 1,
+      "compressed bytes": 1073771463,
+      "seconds": 164,
+      "attempts": 1
+    },
+    {
+      "index": 328,
+      "file": "20261106_115907_00079_54abm_fb71585e-76ae-46b1-a63f-e9113fdbb25c.gz",
+      "records": 61635,
+      "uncompressed bytes": 3946284407,
+      "kept": 3,
+      "kept as candidates": 2,
+      "kept by strings in the body": 1,
+      "kept by strings, not candidates": 1,
+      "compressed bytes": 1073762294,
+      "seconds": 147,
+      "attempts": 1
+    }
+  ],
+  "total": {
+    "records": 251515,
+    "uncompressed bytes": 16082128904,
+    "kept": 9,
+    "kept as candidates": 7,
+    "kept by strings in the body": 3,
+    "kept by strings, not candidates": 2,
+    "compressed bytes": 4378714308
+  },
+  "hits_per_string": {
+    "sosa:FeatureOfInterest": 2,
+    "sosa:hasFeatureOfInterest": 1,
+    "sosa:isFeatureOfInterestOf": 1,
+    "sosa:Procedure": 1,
+    "sosa:ObservableProperty": 1,
+    "sosa:Sensor": 1,
+    "sosa:Observation": 1,
+    "ssn:hasProperty": 1,
+    "ssn:implementedBy": 1,
+    "sosa:Result": 1
+  }
+}

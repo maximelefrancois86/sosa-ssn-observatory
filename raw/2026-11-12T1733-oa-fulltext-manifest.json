@@ -1,0 +1,1400 @@
+{
+  "stamp": "2026-11-12T1733",
+  "pass": "manual",
+  "pool": 878,
+  "done": 81,
+  "complete": true,
+  "pdfs_read": 89,
+  "works": [
+    {
+      "openalex": "W4296879500",
+      "doi": "10.2298/csis220118046k",
+      "stratum": "A",
+      "oa_status": "diamond",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1820-02142200046K.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 845795,
+          "sha256": "d2c54bf3d62cc28e2cdab01ee4763c19bfc9707f9655850fe55beed194bdaf3a"
+        }
+      ]
+    },
+    {
+      "openalex": "W7148860605",
+      "doi": "10.70675/58b04318z5f14z4274z888bz9bac67ced4dd",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "2019_out_loukil_f.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 10512632,
+          "sha256": "186af130c69e580d7d88ae3f9bd5da39905e40e71af3209f0910344042a7b08d"
+        }
+      ]
+    },
+    {
+      "openalex": "W3015957260",
+      "doi": "10.1108/rmj-09-2019-0050",
+      "stratum": "B",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "2020-02-25-rmj-iot-record-keeping (1).pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 385042,
+          "sha256": "6ed8457a357e7ebd78f2c0ddb2d7f37e41d08f65836e4cddbdb62f21183f721e"
+        }
+      ]
+    },
+    {
+      "openalex": "W4387960519",
+      "doi": "10.1007/978-3-031-47112-4_30",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "2023_SmartFoodER__CoffeeWKG.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 616158,
+          "sha256": "a35effc875da5901cc332becc578363c019223198d02f4e88e93fcfe9d31ccb6"
+        }
+      ]
+    },
+    {
+      "openalex": "W7151840622",
+      "doi": "10.70675/712925dbz58e0z433azacd0z264d4da15476",
+      "stratum": "B",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": true,
+      "tried": [
+        {
+          "file": "2024ORLE1072_va (1).pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 12395790,
+          "sha256": "169446a02798a34d6e4e9684c00e7a5d15c780b57e22c707547df018b8a73102"
+        }
+      ]
+    },
+    {
+      "openalex": "W3046424363",
+      "doi": "10.1142/s0218194020400082",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "2040008.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 2295376,
+          "sha256": "a578a5bc6e1db9dd5fd8b13492062a0a5425e230de568f66fca763cb65244a83"
+        }
+      ]
+    },
+    {
+      "openalex": "W4392211947",
+      "doi": "10.36253/10.36253/979-12-215-0289-3.75",
+      "stratum": "A",
+      "oa_status": "hybrid",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "39623.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 975357,
+          "sha256": "47dbab6ad02b686ca05508f27319820341acbdb054f3a3229058d8ee9aaf41fa"
+        }
+      ]
+    },
+    {
+      "openalex": "W3177319477",
+      "doi": "10.1007/978-3-030-79157-5_30",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "517424_1_En_30_Chapter.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 486916,
+          "sha256": "5e2b874e323f39a3846a285fbb3829915aebd54db3c5eb3bce8c5ab47ec7b29a"
+        }
+      ]
+    },
+    {
+      "openalex": "W7148658401",
+      "doi": "10.70675/b5332666zab0ez4cafza4ffz41baec494c16",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "69941_RAAD_2018_archivage.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 4321996,
+          "sha256": "97fb2966b5fe0e81b5ce9129e666cd7bc7514b731b9cae4f0c19ee5347b071d1"
+        }
+      ]
+    },
+    {
+      "openalex": "W3108367018",
+      "doi": "10.1002/bapi.202000027",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "805243.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 770409,
+          "sha256": "9cccd1660f37dde0c55dfe77dfab82433102548caa7bdb1b63c7a13f3da3d48b"
+        }
+      ]
+    },
+    {
+      "openalex": "W4403584302",
+      "doi": "10.1007/978-3-031-39650-2_16",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "978-3-031-39650-2_16.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 1652402,
+          "sha256": "de8a9ed159587de01a1283778d7c7b14d9d54bfbdc9edcfebd765c03d7f792b3"
+        }
+      ]
+    },
+    {
+      "openalex": "W4387769623",
+      "doi": "10.1007/978-3-031-46587-1_5",
+      "stratum": "B",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "978-3-031-46587-1_5.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 1054847,
+          "sha256": "e2c46084db9a167021f50565d5901b85c8c3401c131b4234391840042ae836a3"
+        }
+      ]
+    },
+    {
+      "openalex": "W2913340327",
+      "doi": "10.4995/thesis/10251/107928",
+      "stratum": "A",
+      "oa_status": "gold",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "ALVEAR - Mobile Sensing Architecture for Air Pollution Monitoring.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 26446148,
+          "sha256": "9861e878a5e412e49dca7e663f955022316e5ffdd8629413a88c780a6b253bd0"
+        }
+      ]
+    },
+    {
+      "openalex": "W4388759861",
+      "doi": "10.3233/ais-220482",
+      "stratum": "B",
+      "oa_status": "bronze",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "An_Automated_Energy_Management_Framework_for_Smart_Homes.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 3272500,
+          "sha256": "a318ef65c446018ec608e29a3e2f06a1e9d69bd701d1a799edf1ff71ba21d97b"
+        }
+      ]
+    },
+    {
+      "openalex": "W4400510312",
+      "doi": "10.1007/978-3-031-65411-4_22",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "CLF2024_GiovannaMartinezArellano_final.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 613938,
+          "sha256": "3477077fe33c5784b53cbbef3890a7ebe89a0be360604e349c5647c555884af9"
+        }
+      ]
+    },
+    {
+      "openalex": "W7151043122",
+      "doi": "10.70675/4639f1b2ze5acz4071zb8a1za8a4277da882",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "CONDE_SALAZAR_2021_archivage.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 30942406,
+          "sha256": "8d1f8209a507a308f4e104fa96c44e8d2a76ac7289bde069dd17dfd71fb02798"
+        }
+      ]
+    },
+    {
+      "openalex": "W4410189209",
+      "doi": "10.21248/gups.91076",
+      "stratum": "A",
+      "oa_status": "gold",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "Dissertation_Koschowoj_online.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 3387045,
+          "sha256": "d09a067760a1dda8f840ce64bf7ef3303bf924b2ce46f76dee492b600faaad4d"
+        }
+      ]
+    },
+    {
+      "openalex": "W3094728100",
+      "doi": "10.1007/978-3-030-61244-3_12",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "EKAW2020.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 447781,
+          "sha256": "a6166269221ad8cd1954a6063da0cedc0879cbf7693d10423677cfcfeefd23a2"
+        }
+      ]
+    },
+    {
+      "openalex": "W4242054492",
+      "doi": "10.31237/osf.io/fs48a",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "Ein_Metadatenlabel_fuer_das_semantische_Sensorweb.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 3420898,
+          "sha256": "f4c8aeba50f2f5c44576131ffa4eda2eda032cd5ad92ad549e795383c79f529c"
+        }
+      ]
+    },
+    {
+      "openalex": "W2886849005",
+      "doi": "10.3233/sw-180303",
+      "stratum": "B",
+      "oa_status": "bronze",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "FULLTEXT01 (1).pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 861424,
+          "sha256": "e6c70db0bc5897fc449a1ce7027afd65ef083b52e568c13e8142a9e271180829"
+        }
+      ]
+    },
+    {
+      "openalex": "W2981278439",
+      "doi": "10.1007/978-3-030-30796-7_9",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "FULLTEXT01.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 1182392,
+          "sha256": "b6f05f676b77d2f82c8a244c16a0c9d5467e90ced68ee602af3e780a7b5fe9e3"
+        }
+      ]
+    },
+    {
+      "openalex": "W1182789037",
+      "doi": "10.15368/theses.2015.75",
+      "stratum": "A",
+      "oa_status": "gold",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "Fog Protocol and FogKit_ A JSON-Based Protocol and Framework for.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 3144789,
+          "sha256": "d1af78caf67011914f0a2db9b8f0de9e773cf0903a90059c8840349f3eec9643"
+        }
+      ]
+    },
+    {
+      "openalex": "W4399235608",
+      "doi": "10.4995/thesis/10251/204584",
+      "stratum": "A",
+      "oa_status": "gold",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "Franco - A Framework for Conceptual Characterization of Ontologies and its Application in the Cyb... (1).pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 7670102,
+          "sha256": "9332ea5024b22a3ea21f130460468145529e17884b2512ac1c1a4efd59425d4a"
+        }
+      ]
+    },
+    {
+      "openalex": "W4404206332",
+      "doi": "10.1007/s12136-024-00619-x",
+      "stratum": "B",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "FumagalliEtAl2024_post_print_compressed.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 424948,
+          "sha256": "3a2684e15e703a1eb6f6b4fc5d51c31c7ab6f7b1b91ee3230d8efe9cafb0a58a"
+        }
+      ]
+    },
+    {
+      "openalex": "W4285112131",
+      "doi": "10.1007/978-3-031-09917-5_19",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "ICWE_2022_WeKG-FV.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 3144226,
+          "sha256": "1a87ee75573d1af16c07f7a40665c03379d614da2bd7d65e09c480d7fae09b19"
+        }
+      ]
+    },
+    {
+      "openalex": "W4389223288",
+      "doi": "10.1504/ijmso.2023.10060807",
+      "stratum": "A",
+      "oa_status": "bronze",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "IJMSO_Semantics4FAIR_final.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 1874188,
+          "sha256": "dffe0ad90bf3146c5d62448fc49dce1367390fbb5b44d59f7b5336cf63e45253"
+        }
+      ]
+    },
+    {
+      "openalex": "W3047794960",
+      "doi": "10.1007/s11277-020-07691-7",
+      "stratum": "B",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "Javadpour2020_Article_ResourceManagementInAPeerToPee.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 2695341,
+          "sha256": "5b091c402b9d2f51dcc77e1217f4b3ec3b5cc026df4ed9c67743b746efdd680d"
+        }
+      ]
+    },
+    {
+      "openalex": "W7148694183",
+      "doi": "10.70675/7a6cdd79zf3f8z4c00z94c9z2e36bda0a1ed",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "LE_Kim_Hung_2019.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 2696784,
+          "sha256": "efdc6c9901a12591ea7f4f46eed5ec7c6cb35be6cc195ba406053963621f015a"
+        }
+      ]
+    },
+    {
+      "openalex": "W4411959433",
+      "doi": "10.1007/978-3-031-85316-6_8",
+      "stratum": "B",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "LISPEN_SOHOMA_2024_GERIN.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 757934,
+          "sha256": "0f5fdf4342140d680399d5aaba3397f58b679bff45b332d9df53bd31ba725644"
+        }
+      ]
+    },
+    {
+      "openalex": "W4390308294",
+      "doi": "10.1007/978-3-031-74633-8_29",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "MACLEAN_paper.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 661698,
+          "sha256": "7b038ddc9e25fe3a598638af9732f4ff2fa6523205c899bd209bffecaa322b41"
+        }
+      ]
+    },
+    {
+      "openalex": "W7149550705",
+      "doi": "10.70675/16bdad1fz301bz4772z968ezaaa45d758528",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "MASMOUDI_Maroua.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 11221678,
+          "sha256": "539b5336e0403711ff8380746a1453cdf6e70c493bd5531398eafd10cce24363"
+        }
+      ]
+    },
+    {
+      "openalex": "W4310265456",
+      "doi": "10.1007/978-3-031-39141-5_14",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "MTSR_2022_Semantics4FAIR_final.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 533035,
+          "sha256": "902c23cf16699dfff009efb109ffa2701bde4566e9e711cc5942cd8d1155701b"
+        }
+      ]
+    },
+    {
+      "openalex": "W4407933926",
+      "doi": "10.1007/978-3-031-81974-2_4",
+      "stratum": "B",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "MTSR_2024_Weerdt_RepresentationLearning.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 423032,
+          "sha256": "4d721957f7ce992dac73b3d8c0ada390b5897b16cc2158a6acb44eebe12e898b"
+        }
+      ]
+    },
+    {
+      "openalex": "W4226271820",
+      "doi": "10.1007/978-3-030-98876-0_7",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "MTSR_ER_FAIR_2021_final.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 1186090,
+          "sha256": "c6098d491130252b4327d86668252593cfb67f624fd4a78b0c5073137830bf7a"
+        }
+      ]
+    },
+    {
+      "openalex": "W4312275281",
+      "doi": "10.1504/ijmso.2021.10050927",
+      "stratum": "A",
+      "oa_status": "bronze",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "Making_heterogeneous_smart_home_data_interoperable_with_the_SAREF_ontology.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 1333364,
+          "sha256": "f2638987844d5fc45410d547211ff59ab11e2c571e9a3f1944fe9f0b5d2b3116"
+        }
+      ]
+    },
+    {
+      "openalex": "W4379800884",
+      "doi": "10.1007/978-3-031-34560-9_5",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "Modeling+Context-Aware+Events+and+Responses+in+an+IoT+Environment.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 1039063,
+          "sha256": "4141852feb88c13f01c220047db8d34423dcadd25802c78690a2a80ad8c46bf9"
+        }
+      ]
+    },
+    {
+      "openalex": "W4404611367",
+      "doi": "10.1007/978-3-031-77792-9_19",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "ORKA-An_Ontology_for_Robotic_Knowledge_Acquisition.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 1136796,
+          "sha256": "587101237ec850f8c374e898683eb6ec5e9529bfb252b4b902bc1fafdcdf101e"
+        }
+      ]
+    },
+    {
+      "openalex": "W4397048914",
+      "doi": "10.1007/978-3-031-60635-9_6",
+      "stratum": "B",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "OfficeGraph_A_Knowledge_Graph_of_Office_Building_IoT_Measurements.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 663864,
+          "sha256": "682cff6d9a48c8460331fa7a7f2f1c9194ac8ce6d1629c7216a3dc5af7d3f10d"
+        }
+      ]
+    },
+    {
+      "openalex": "W3011615594",
+      "doi": "10.1108/jedt-10-2019-0284",
+      "stratum": "B",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "PDF_Proof.PDF",
+          "folder": "~/Téléchargements",
+          "bytes": 787970,
+          "sha256": "dde93220de6bfdcdca9d580490d2084caf76e460f160cb1a64f9932dc102dd35"
+        }
+      ]
+    },
+    {
+      "openalex": "W4377098706",
+      "doi": "10.20868/upm.thesis.73105",
+      "stratum": "A",
+      "oa_status": "gold",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "SERGIO_MUNOZ_LOPEZ (1).pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 4497939,
+          "sha256": "ffb273a28da1582a82a7734d06d6ef5f409d689178180d790e98bff9c966befa"
+        }
+      ]
+    },
+    {
+      "openalex": "W3082400013",
+      "doi": "10.3233/sw-200379",
+      "stratum": "A",
+      "oa_status": "hybrid",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "SWJ2020_Editorial.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 479656,
+          "sha256": "afba34dc9882f511951deb8bbaa562d0782fee272c401e6d2febc36fb7c8493f"
+        }
+      ]
+    },
+    {
+      "openalex": "W3094822300",
+      "doi": "10.1007/978-3-030-60067-9_4",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "Stream_Reasoning__From_Theory_to_Practice.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 1231991,
+          "sha256": "8c585452a89ca0ed08fb6135900824a7a07f1100213108669fe7f6a7d59e8d93"
+        }
+      ]
+    },
+    {
+      "openalex": "W4404610891",
+      "doi": "10.1007/978-3-031-77792-9_9",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "Structured_Representations_for_Narratives.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 714869,
+          "sha256": "72794a4444bc427b07421fb21e9cb8fdfd09a22d5baaa64c15e63bf3477ccc32"
+        }
+      ]
+    },
+    {
+      "openalex": "W7149436738",
+      "doi": "10.70675/8737c5e7z7153z4a94zb7daz4c9e2c921ece",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "TH2021PESC0045.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 2129689,
+          "sha256": "5d1f3550f6cb146620e9f9cd9097d0ea3e696ee8c69f5b57c34c1dd26b7bda14"
+        }
+      ]
+    },
+    {
+      "openalex": "W3208421707",
+      "doi": "10.4119/unibi/2948662",
+      "stratum": "B",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": true,
+      "tried": [
+        {
+          "file": "Thesis_NormanKoester_2020.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 10480548,
+          "sha256": "c1712bb3a8ea3f9fac200e06ef4f163d96fa417b59d36c41ffe9c423d7f8a5d1"
+        }
+      ]
+    },
+    {
+      "openalex": "W2951091155",
+      "doi": "10.1111/tgis.12538",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "Transactions_in_GIS_-_2019_-_Mai_-_Deeply_integrating_Linked_Data_with_Geographic_Information_Systems.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 2373084,
+          "sha256": "ddb185628418adcdeb6d90651fec39e4eefd83706111efcc63f47527760e2624"
+        }
+      ]
+    },
+    {
+      "openalex": "W4396753210",
+      "doi": "10.1007/978-3-031-60796-7_5",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "W2GIS__After_feedback_-11.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 7453025,
+          "sha256": "48cc2704f791495f800e480f00ca6d64e2423aefb52bf132ca46fad19e97f03d"
+        }
+      ]
+    },
+    {
+      "openalex": "W4283319002",
+      "doi": "10.1007/978-3-031-11609-4_19",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "WeKG-MF-Poster-ESWC-2022.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 1554190,
+          "sha256": "4bc41ae3eee650614824342a4226057545f19d19cb1769294e46c18ee5c1e9b8"
+        }
+      ]
+    },
+    {
+      "openalex": "W4383500592",
+      "doi": "10.1002/9781119863663.ch22",
+      "stratum": "A",
+      "oa_status": "bronze",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "Wiley_handbook_chapter_FARUFFINI_VICTORINO_ABEL_last_v2.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 994070,
+          "sha256": "b19b5d86e72bbbc15fcf9352088342bcbf24bd631693292c6e5cea434ffe7125"
+        }
+      ]
+    },
+    {
+      "openalex": "W2878704706",
+      "doi": "10.1002/asi.24039",
+      "stratum": "B",
+      "oa_status": "bronze",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "asi24039.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 421793,
+          "sha256": "53721c6218aff06b3fb942e71c93686cfdcb8cf9e066fcc93cb945bfa4c7edb5"
+        }
+      ]
+    },
+    {
+      "openalex": "W4402409505",
+      "doi": "10.1515/auto-2024-0006",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "at_Paper_Wissensmodellierung (1).pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 1603723,
+          "sha256": "9ca83e8a1fde39e08541fba6e27704a5bdbfc67f30a6e46e972f309ebb9e7c82"
+        }
+      ]
+    },
+    {
+      "openalex": "W2945425130",
+      "doi": "10.3233/sw-190352",
+      "stratum": "B",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "bandara-rabhi-2019-semantic-modeling-for-engineering-data-analytics-solutions.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 312663,
+          "sha256": "e6fa4e530efdaa237d535a123006135060372fc75af69c32783ca12049a431cb"
+        }
+      ]
+    },
+    {
+      "openalex": "W4321383995",
+      "doi": "10.26868/29761662.2022.41",
+      "stratum": "A",
+      "oa_status": "bronze",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": true,
+      "tried": [
+        {
+          "file": "bausim2022_Ihlenburg_Moritz.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 785063,
+          "sha256": "853184e021a30676c78f5eda4b448b6bad7fb6729d14a0ab258de85673c291a4"
+        }
+      ]
+    },
+    {
+      "openalex": "W7221564856",
+      "doi": "10.3390/electronics15204631",
+      "stratum": "A",
+      "oa_status": "gold",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "electronics-15-04631-v3 (1).pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 509982,
+          "sha256": "18bc8a80cc00880b32288cee6988740351ed40b91d1cf7b88812b5e5d996d059"
+        }
+      ]
+    },
+    {
+      "openalex": "W7203467107",
+      "doi": "10.3390/en19163828",
+      "stratum": "B",
+      "oa_status": "gold",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "energies-19-03828-v2.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 3970054,
+          "sha256": "2acff751e4689b5af21f9689a1994b2efc7b6b986b1be3c2b7bbccda6140216a"
+        }
+      ]
+    },
+    {
+      "openalex": "W7212260997",
+      "doi": "10.3390/en19204862",
+      "stratum": "A",
+      "oa_status": "gold",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "energies-19-04862-v2.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 780610,
+          "sha256": "de8f447ff2bdba93b282960e256689a7afb99558aa7e252e9b76d028d7584bf9"
+        }
+      ]
+    },
+    {
+      "openalex": "W7225347783",
+      "doi": "10.3390/engproc2026163076",
+      "stratum": "A",
+      "oa_status": "hybrid",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "engproc-163-00076.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 1705752,
+          "sha256": "74247f82c0d4187bb245ff368629302a619715dd3973441b07b65a2bc311c3be"
+        }
+      ]
+    },
+    {
+      "openalex": "W7203686988",
+      "doi": "10.3390/ijgi15080372",
+      "stratum": "A",
+      "oa_status": "gold",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "ijgi-15-00372-v3.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 1685304,
+          "sha256": "1a98e1ce224f7f9939fac5bc0d0f9e2b283c02f4f0aead7ba29aa860b53c8404"
+        }
+      ]
+    },
+    {
+      "openalex": "W4313350992",
+      "doi": "10.1007/978-3-031-18176-4_4",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "main (1).pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 541292,
+          "sha256": "4de495f50ce3d63064a3e0b6c2a09f54017e71bbeecc98e5dac3ad8e6444641d"
+        }
+      ]
+    },
+    {
+      "openalex": "W4232965248",
+      "doi": "10.17760/d20385566",
+      "stratum": "A",
+      "oa_status": "gold",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "neu_m046v321j (1).pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 2454765,
+          "sha256": "eeb029ad7587ffe733f906d52cc4c825cfe860dfecb51210606487b37621c7fd"
+        }
+      ]
+    },
+    {
+      "openalex": "W4417325079",
+      "doi": "10.1177/15705838251401450",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "porello-et-al-2025-AO_DOLCE_in_OWL.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 3490638,
+          "sha256": "fed4d1895a3f19844468c3051013c4e7b4e9eb3122b9e01a03fe2f0120e2a77c"
+        }
+      ]
+    },
+    {
+      "openalex": "W7224750454",
+      "doi": "10.3390/rs18213737",
+      "stratum": "A",
+      "oa_status": "gold",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "remotesensing-18-03737.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 2773548,
+          "sha256": "f6c55904e40e138d254a748af114822a11a863fa1d447717ba3b9231c18be77b"
+        }
+      ]
+    },
+    {
+      "openalex": "W3088317607",
+      "doi": "10.1111/exsy.12629",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": true,
+      "tried": [
+        {
+          "file": "revised Manuscript-3.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 1621656,
+          "sha256": "1381f0702e2cc7e35064f7262d1481bf09d35560bb0f3b3e43a17efa19278d57"
+        }
+      ]
+    },
+    {
+      "openalex": "W2886925707",
+      "doi": "10.3166/rig.2018.00055",
+      "stratum": "B",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "revueGeomatiqueSPKdata-final (1).pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 1179051,
+          "sha256": "49b3c8649c6f3c4bd6f68a1cfa767b6754971a14f397a599bd53f1fa76e045dd"
+        }
+      ]
+    },
+    {
+      "openalex": "W4376277274",
+      "doi": "10.3990/1.9789036556187",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "ronzhin.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 8263452,
+          "sha256": "c41c77becc8ac8f192fcd041c5a4cf4217976113580cad573e408ac4c71b0fe7"
+        }
+      ]
+    },
+    {
+      "openalex": "W7164838172",
+      "doi": "10.3390/s26123807",
+      "stratum": "A",
+      "oa_status": "gold",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "sensors-26-03807.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 11327823,
+          "sha256": "d749fb3f67610f445f01c66538d53d1bf520fd6fff9b2bda3872d885a7e4d431"
+        }
+      ]
+    },
+    {
+      "openalex": "W7213781562",
+      "doi": "10.3390/s26216684",
+      "stratum": "A",
+      "oa_status": "gold",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "sensors-26-06684-v3.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 8996754,
+          "sha256": "6363fe816e326ddc1503e1ce61487dc935e2fae6b19af5755a0854a135b21197"
+        }
+      ]
+    },
+    {
+      "openalex": "W3138997164",
+      "doi": "10.2139/ssrn.3198985",
+      "stratum": "B",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "ssrn-3198985.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 7653908,
+          "sha256": "460c5cc070ec9902a9406675249e1a0eff395d8624a10f88d653c0428cd32abc"
+        }
+      ]
+    },
+    {
+      "openalex": "W3169145163",
+      "doi": "10.2139/ssrn.3248499",
+      "stratum": "B",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "ssrn-3248499.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 809154,
+          "sha256": "9c963872d3bcbcf27d641ac818699f3816db856a97b92e86fe062bb503ebf433"
+        }
+      ]
+    },
+    {
+      "openalex": "W3208720461",
+      "doi": "10.2139/ssrn.3945440",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "ssrn-3945440.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 3293259,
+          "sha256": "bafa22cacadbbd1e0cd3756337b5a5f16f3d341dfec797ca83f0a689f8f9dcf6"
+        }
+      ]
+    },
+    {
+      "openalex": "W4407082150",
+      "doi": "10.2139/ssrn.5050054",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "ssrn-5050054.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 502590,
+          "sha256": "284f62af2cba72dd14cabb11e80e46e06010164aff93c55639e59080f98a8b03"
+        }
+      ]
+    },
+    {
+      "openalex": "W4412609842",
+      "doi": "10.2139/ssrn.5355833",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title pairs 0.91",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "ssrn-5355833.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 4475738,
+          "sha256": "1eca2b33dece2f30dcd9cabc6203774c462978a04fea96b182969a1e27bd5a08"
+        }
+      ]
+    },
+    {
+      "openalex": "W4414854058",
+      "doi": "10.2139/ssrn.5570494",
+      "stratum": "B",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "ssrn-5570494.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 40530197,
+          "sha256": "81130e62832ae65cf8fb1ed6fd2468b99da93f3ecf2bbe42662113b15e9e0fec"
+        }
+      ]
+    },
+    {
+      "openalex": "W4415443436",
+      "doi": "10.2139/ssrn.5643520",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "ssrn-5643520.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 704203,
+          "sha256": "cace54096c39b6ffb29698cbd4a5c9fd69fd1c5bf3d4534f64897ec278bc0f92"
+        }
+      ]
+    },
+    {
+      "openalex": "W7171356570",
+      "doi": "10.2139/ssrn.7194446",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "ssrn-7194446.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 387731,
+          "sha256": "7b2dd2f578754338d91d6f326632cea1f3f3fdaf2b81f3aa195c23867880c1e3"
+        }
+      ]
+    },
+    {
+      "openalex": "W7202278642",
+      "doi": "10.2139/ssrn.7273378",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "ssrn-7273378.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 2771663,
+          "sha256": "c83eb0cfc2c25544f10a6c1672f1386c8c3c3d9fa3d8163d9a8b533d17ba5c78"
+        }
+      ]
+    },
+    {
+      "openalex": "W4400286707",
+      "doi": "10.3390/su16135677",
+      "stratum": "A",
+      "oa_status": "gold",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "sustainability-16-05677.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 2740820,
+          "sha256": "0613d330717f9c3004208d9143c40e6bf70fd738f2e292473fcce29b9be8452d"
+        }
+      ]
+    },
+    {
+      "openalex": "W4400484626",
+      "doi": "10.3390/su16145873",
+      "stratum": "A",
+      "oa_status": "gold",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "sustainability-16-05873-v2.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 1061323,
+          "sha256": "36eda2c33b595eb5251c9dd1565f4b0fe32ca05acebbd64a794a5f9b3bc0329f"
+        }
+      ]
+    },
+    {
+      "openalex": "W2889161681",
+      "doi": "10.3233/sw-180320",
+      "stratum": "A",
+      "oa_status": "hybrid",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "swj1878.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 818588,
+          "sha256": "fabbb26c52bb28c66346fa5707090893deb6937a1bab78a1d90afd49a0b3aa54"
+        }
+      ]
+    },
+    {
+      "openalex": "W4409191336",
+      "doi": "10.5463/thesis.1144",
+      "stratum": "A",
+      "oa_status": "gold",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "thesisinhoudfinalrvdw - 67ef8da182dfb (1).pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 5486710,
+          "sha256": "416eab5f483faf587988ee60c3fbf3131850dab80c9c3c6a14811f85499fe812"
+        }
+      ]
+    },
+    {
+      "openalex": "W3035029867",
+      "doi": "10.1007/s12652-020-02136-2",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "zgheib2020.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 1190531,
+          "sha256": "c27dac2aefdc1eb956117baf86d651ffd12b278d1d9e06c699acbb6e0f5d4e68"
+        }
+      ]
+    }
+  ],
+  "outcomes": {
+    "text": 81
+  },
+  "unmatched": [
+    "2020-02-25-rmj-iot-record-keeping.pdf: second PDF of W3015957260",
+    "Franco - A Framework for Conceptual Characterization of Ontologies and its Application in the Cyb....pdf: second PDF of W4399235608",
+    "SERGIO_MUNOZ_LOPEZ.pdf: second PDF of W4377098706",
+    "asi24039_am.pdf: second PDF of W2878704706",
+    "at_Paper_Wissensmodellierung.pdf: second PDF of W4402409505",
+    "electronics-15-04631-v3.pdf: second PDF of W7221564856",
+    "neu_m046v321j.pdf: second PDF of W4232965248",
+    "thesisinhoudfinalrvdw - 67ef8da182dfb.pdf: second PDF of W4409191336"
+  ]
+}

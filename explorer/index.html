@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SOSA/SSN Usage Observatory</title>
+<meta name="description" content="How the W3C/OGC SOSA/SSN ontology is used: the works that cite it or write its names, their codes, key figures, a glossary, and the knowledge graph in SPARQL and Sparklis.">
+<meta name="color-scheme" content="light dark">
+<link rel="stylesheet" href="style.css">
+<script type="module" src="app.js"></script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="top">
+  <p class="brand"><a href="#/">SOSA/SSN Usage Observatory</a></p>
+  <nav aria-label="Views">
+    <a href="#/" data-view="overview">Overview</a>
+    <a href="#/works" data-view="works">Works</a>
+    <a href="#/figures" data-view="figures">Key figures</a>
+    <a href="#/terms" data-view="terms">Terms</a>
+    <a href="#/methodology" data-view="methodology">Methodology</a>
+    <a href="#/sparql" data-view="sparql">SPARQL</a>
+  </nav>
+</header>
+<main id="main" tabindex="-1">
+  <p class="muted" id="boot">Loading the data…</p>
+</main>
+<footer class="site" id="site-footer"></footer>
+<div id="live" class="visually-hidden" aria-live="polite"></div>
+<noscript><p class="wrap">This observatory needs JavaScript. The data are in <a href="data/works.json">works.json</a>, <a href="data/figures.json">figures.json</a>, <a href="data/method.json">method.json</a> and <a href="data/kg.ttl.gz">kg.ttl.gz</a> (licence <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>).</p></noscript>
+</body>
+</html>

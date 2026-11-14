@@ -1,0 +1,75 @@
+{
+ "type": "object",
+ "additionalProperties": false,
+ "required": [
+  "text_is_the_work",
+  "answers",
+  "uncertain"
+ ],
+ "properties": {
+  "text_is_the_work": {
+   "type": "string",
+   "enum": [
+    "yes",
+    "no",
+    "unsure"
+   ]
+  },
+  "answers": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+     "question",
+     "justification",
+     "evidence",
+     "values"
+    ],
+    "properties": {
+     "question": {
+      "type": "string",
+      "enum": [
+       "study_type",
+       "engagement",
+       "engagement_also",
+       "version_used",
+       "modules",
+       "terms",
+       "extensions",
+       "result_pattern",
+       "value_properties",
+       "errors",
+       "domain",
+       "subdomain",
+       "companions",
+       "artefacts",
+       "gaps"
+      ]
+     },
+     "justification": {
+      "type": "string"
+     },
+     "evidence": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      }
+     },
+     "values": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      }
+     }
+    }
+   }
+  },
+  "uncertain": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   }
+  }
+ }
+}

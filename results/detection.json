@@ -1,0 +1,112 @@
+{
+ "shard_files": 331,
+ "full_texts": 700,
+ "with_occurrences": 616,
+ "with_terms": 256,
+ "by_stratum": {
+  "A": {
+   "full_texts": 289,
+   "naming": 261,
+   "with_terms": 123
+  },
+  "B": {
+   "full_texts": 198,
+   "naming": 171,
+   "with_terms": 41
+  },
+  "C": {
+   "full_texts": 148,
+   "naming": 119,
+   "with_terms": 27
+  },
+  "D": {
+   "full_texts": 65,
+   "naming": 65,
+   "with_terms": 65
+  }
+ },
+ "body_words": {
+  "q1": 3965.25,
+  "median": 6224.0,
+  "q3": 9124.0,
+  "mean": 6899.9857142857145
+ },
+ "passage_words": {
+  "q1": 181.25,
+  "median": 363.0,
+  "q3": 701.75,
+  "mean": 602.2727272727273
+ },
+ "oa_pdf": {
+  "stamp": "2026-11-11T1451, 2026-11-11T1519, 2026-11-11T1531, 2026-11-12T1332, 2026-11-12T1615, 2026-11-12T1633, 2026-11-12T1651, 2026-11-12T1653, 2026-11-12T1654, 2026-11-12T1707, 2026-11-12T1711, 2026-11-12T1733, 2026-11-12T1748, 2026-11-13T1640, 2026-11-13T1707, 2026-11-13T1804, 2026-11-14T1052",
+  "works": 794,
+  "refs_cut": 750,
+  "by_stratum": {
+   "A": {
+    "full_texts": 462,
+    "naming": 424,
+    "with_terms": 216
+   },
+   "B": {
+    "full_texts": 276,
+    "naming": 242,
+    "with_terms": 75
+   },
+   "D": {
+    "full_texts": 56,
+    "naming": 48,
+    "with_terms": 27
+   }
+  },
+  "body_words": {
+   "q1": 4468.5,
+   "median": 6699.0,
+   "q3": 11633.5,
+   "mean": 11163.350125944584
+  },
+  "passage_words": {
+   "q1": 379.0,
+   "median": 721.0,
+   "q3": 1418.5,
+   "mean": 1143.7296918767506
+  },
+  "cut_at": {
+   "q1": 0.8087905917722522,
+   "median": 0.8556852584743282,
+   "q3": 0.898198058181715,
+   "mean": 0.8478272081161201
+  },
+  "stratum_d_by_signal": {
+   "strong": {
+    "texts": 36,
+    "naming": 34,
+    "with terms": 26
+   },
+   "weak": {
+    "texts": 20,
+    "naming": 14,
+    "with terms": 1
+   }
+  },
+  "cut_before_half": 2
+ },
+ "to_retrieve": {
+  "A": {
+   "s2orc": 235,
+   "open_access": 352,
+   "oa_pdf_text": 462,
+   "closed": 278,
+   "no_doi": 21
+  },
+  "B": {
+   "s2orc": 171,
+   "open_access": 160,
+   "oa_pdf_text": 276,
+   "closed": 279,
+   "no_doi": 16
+  }
+ },
+ "stratum_d_named": 65,
+ "stratum_d_new": 43,
+ "stratum_d_new_with_terms": 43
+}

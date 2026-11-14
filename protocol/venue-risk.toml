@@ -1,0 +1,46 @@
+# How the review flags candidates published by a questionable publisher or journal,
+# read by scripts/venue_risk.py (pilotage review/101, biblio/401).
+#
+# Flagged works are NOT excluded: the review describes the literature as it is and reports
+# the share of flagged works, by stratum and by publisher. The flag is the opinion of one
+# list, dated by its snapshot in raw/; it is reported as such, never as a judgement of the
+# review on a given work.
+
+[list]
+name = "predatoryjournals.org"
+harvest = "2026-11-07T1342"     # raw/<harvest>-predatoryjournals-{publishers,journals}.csv
+
+# A second, documented signal: the level of the journal in the Norwegian Register for
+# Scientific Journals in the year of publication (0: not scientific, X: under discussion),
+# matched by ISSN. Reported beside the first, not merged with it.
+[register]
+name = "Norwegian Register for Scientific Journals"
+harvest = "2026-11-07T1858"     # raw/<harvest>-nsd-journals.csv
+
+# Names are compared after normalisation (accents, case, punctuation and parenthesised
+# parts removed). A publisher name of OpenAlex that differs from the list entry for the
+# same organisation is mapped here, after checking by hand that both name one organisation.
+[publisher_alias]
+"Hindawi Publishing Corporation" = "Hindawi"
+"Frontiers Media" = "Frontiers"
+"OPAST GROUP" = "OPAST"
+
+# DOI prefixes of listed publishers, for works whose publisher OpenAlex does not give.
+# Each prefix is registered to the publisher named (checked on api.crossref.org/prefixes,
+# 2026-11-07: MDPI AG, Hindawi Limited, Frontiers Media SA, IGI Global Scientific
+# Publishing, Inderscience Publishers).
+[doi_prefix]
+"10.3390" = "Multidisciplinary Digital Publishing Institute (MDPI)"
+"10.1155" = "Hindawi"
+"10.3389" = "Frontiers"
+"10.4018" = "IGI Global"
+"10.1504" = "Inderscience Publishers (also here)"
+
+# Similar names checked by hand and found to be different organisations: never mapped.
+# IOS Press (publisher of the Semantic Web journal) ≠ "IOS Publishing (Institute of Science
+# Publishing)"; Copernicus Publications (EGU journals) ≠ "Copernicus Publishing"; Bentham
+# Science Publishers ≠ "Bentham Open" (an imprint, listed alone).
+
+# A journal name of the list matches a venue only by its whole normalised name. A match
+# whose publisher is known and not listed is reported apart, for checking, and not counted
+# in the flag: names such as "Data" or "Information" are not unique.

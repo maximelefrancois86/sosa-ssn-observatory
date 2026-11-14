@@ -1,0 +1,10 @@
+{
+ "macros": {
+  "triples": "242,358",
+  "works": "3,067",
+  "key-figures": "171",
+  "public-triples": "205,715"
+ },
+ "generated_by": "slr/scripts/build_kg.py",
+ "date": "2026-11-14"
+}

@@ -1,0 +1,15 @@
+{
+ "pool": 512,
+ "sample": 30,
+ "seed": 20261111,
+ "outcomes": {
+  "no PDF URL": 9,
+  "error": 4,
+  "not a PDF": 5,
+  "pdf": 12
+ },
+ "texts": 12,
+ "refs_cut": 11,
+ "naming": 10,
+ "with_terms": 3
+}

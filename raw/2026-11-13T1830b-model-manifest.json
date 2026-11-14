@@ -1,0 +1,127 @@
+{
+ "stamp": "2026-11-13T1830b",
+ "script": "model_code.py 1",
+ "set": "all",
+ "sample": {
+  "n": 10,
+  "seed": "model-ladder-2026-11-13"
+ },
+ "model": {
+  "id": "claude-opus-5-5",
+  "api": "Anthropic Message Batches API, anthropic-version 2023-06-01",
+  "max_tokens": 32000,
+  "effort": "medium",
+  "prompt": "protocol/model-prompt.md"
+ },
+ "price": {
+  "input": 2.0,
+  "output": 10.0,
+  "cache_write": 2.5,
+  "cache_read": 0.1,
+  "source": "platform.claude.com/docs/en/about-claude/pricing (read on 2026-11-13): Opus 5.5 4 / 20 dollars per million input / output tokens, 5-minute cache writes 5, cache hits 0.20, batch 2 / 10; the full 1M context at standard price"
+ },
+ "system_sha256": "7845223beedc24befb7dd3500cfe109b75b9240562472417207b7c2365250db1",
+ "schema_sha256": "ecdd14ce8ab0e541a38515db269f8fa3616445648accc44c032bdbb9b3427a1f",
+ "system_words": 3178,
+ "requests": 10,
+ "estimate": {
+  "input_tokens": 179893,
+  "system_tokens": 5562,
+  "output_tokens": 60000,
+  "dollars": 0.98,
+  "long_prompt_tokens": 94896,
+  "how": "1.75 tokens per word, 6,000 output tokens per work (thinking included)"
+ },
+ "works": [
+  {
+   "item": "s2orc:245133959",
+   "custom_id": "s2orc-245133959",
+   "stratum": "B",
+   "source": "s2orc",
+   "words": 3026,
+   "basis": "full text",
+   "body_sha256": "8d2f85b0d41a913402a915f2b7ed054d68d6b0c0d497328ea764b354dceca2f4"
+  },
+  {
+   "item": "s2orc:271679617",
+   "custom_id": "s2orc-271679617",
+   "stratum": "B",
+   "source": "s2orc",
+   "words": 7388,
+   "basis": "full text",
+   "body_sha256": "bcf282f4d7c90d4e6bf0ee9216be220f7835c9ac12244844c23389d4ab426536"
+  },
+  {
+   "item": "openalex:W7149348416",
+   "custom_id": "openalex-W7149348416",
+   "stratum": "A",
+   "source": "oa-pdf",
+   "words": 54226,
+   "basis": "full text",
+   "body_sha256": "a33b67711df0d50196dbaae6df606749bbc281ca75f50e30e4f6d10b7c9719f4"
+  },
+  {
+   "item": "s2orc:290852569",
+   "custom_id": "s2orc-290852569",
+   "stratum": "A",
+   "source": "s2orc",
+   "words": 9299,
+   "basis": "full text",
+   "body_sha256": "6b1d47ac8aab4d6089fd6af65cbf72c986cbca009819bf59e3d95424e576fc68"
+  },
+  {
+   "item": "s2orc:283346864",
+   "custom_id": "s2orc-283346864",
+   "stratum": "B",
+   "source": "s2orc",
+   "words": 2394,
+   "basis": "full text",
+   "body_sha256": "529ae06cc394e7745734e110789b0489bd7db25976827472dd16947ae0d0fcaa"
+  },
+  {
+   "item": "s2orc:247358657",
+   "custom_id": "s2orc-247358657",
+   "stratum": "D",
+   "source": "s2orc",
+   "words": 9811,
+   "basis": "full text",
+   "body_sha256": "c158c44a7c3c0306377ab859c658e82e1a67fbcecbec2eda4eb62c2a5fa03cc6"
+  },
+  {
+   "item": "s2orc:246336409",
+   "custom_id": "s2orc-246336409",
+   "stratum": "B",
+   "source": "s2orc",
+   "words": 2928,
+   "basis": "full text",
+   "body_sha256": "5f126bb3a0d75827326192ba186c22bfa65e1fa30cb2e21e5b86c4ea9407c78f"
+  },
+  {
+   "item": "openalex:W2809896811",
+   "custom_id": "openalex-W2809896811",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 3964,
+   "basis": "full text",
+   "body_sha256": "203dcd7edea76698ee51b41b4cc4610de06cd986fe67eac59318258f40972822"
+  },
+  {
+   "item": "s2orc:235497709",
+   "custom_id": "s2orc-235497709",
+   "stratum": "A",
+   "source": "s2orc",
+   "words": 7156,
+   "basis": "full text",
+   "body_sha256": "e85833e3d23e348c82c121dc66d2d1072453d946b885123ba5b1f9d446df28a4"
+  },
+  {
+   "item": "openalex:W4297791362",
+   "custom_id": "openalex-W4297791362",
+   "stratum": "A",
+   "source": "oa-pdf",
+   "words": 2604,
+   "basis": "full text",
+   "body_sha256": "96f87d2838a693c720dca8f4fc123453d6b92a4e80f3f50456d986faf040a930"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+  "stamp": "2026-11-12T1653",
+  "pass": "manual",
+  "pool": 656,
+  "done": 2,
+  "complete": true,
+  "pdfs_read": 6,
+  "works": [
+    {
+      "openalex": "W3003347746",
+      "doi": "10.1109/telfor48224.2019.8971386",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": true,
+      "tried": [
+        {
+          "file": "Semantic_Internet_of_Things_Platforms-Examples_of_Two_Different_Approaches_for_Cloud_Environment.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 1222995,
+          "sha256": "f92a4534771735f59743e1d121d114c37347aadf345449c69f0de8f55c98a59c"
+        }
+      ]
+    },
+    {
+      "openalex": "W2969401343",
+      "doi": "10.1109/dcoss.2019.00069",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": true,
+      "tried": [
+        {
+          "file": "Smart_Interconnected_Infrastructure_for_Security_and_Safety_in_Public_Places.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 274462,
+          "sha256": "2d3692004964003a36e2fa70b9b45e4090aafaccf84e94636eec9ea5ccf0a2bc"
+        }
+      ]
+    }
+  ],
+  "outcomes": {
+    "text": 2
+  },
+  "unmatched": [
+    "A_Unified_Validation_Framework_for_Heterogeneous_IoT_Data_Models.pdf: no work still without a text (already taken in, or not a candidate)",
+    "ITO_Intelligent_Traceability_Ontology.pdf: no work still without a text (already taken in, or not a candidate)",
+    "Predict_soil_moisture_into_the_future_on_the_integration_of_CRITERIA-1D_into_ZENTRA_cloud.pdf: no work still without a text (already taken in, or not a candidate)",
+    "RAISO_RAilway_Infrastructures_and_Signaling_Ontology_for_Configuration_Management_Verification_and_Validation.pdf: no work still without a text (already taken in, or not a candidate)"
+  ]
+}

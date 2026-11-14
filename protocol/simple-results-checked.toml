@@ -1,0 +1,35 @@
+# Simple results whose form the rules of scripts/usage_patterns.py read wrong, checked by an
+# agent against the quotation (2026-11-14). The script replaces its own reading of these
+# works by `forms` (the same labels as its table: a datatype as a prefixed name, or "plain
+# string", "plain string, unit inside", "bare number", "bare boolean"; an empty list when the
+# text shows no value), and says that the row was corrected. Not a decision of the readers.
+
+[[work]]
+item = "openalex:W7149554352"
+forms = ["xsd:integer", "bare number"]
+why = "Java code builds the literal: v + \"^^http://www.w3.org/2001/XMLSchema#integer\"; a figure shows bare numbers (55, 62)"
+
+[[work]]
+item = "openalex:W7149348416"
+forms = ["rdfs:Literal, unit inside"]
+why = "a figure whose columns the extraction merged: the simple results are \"0.0 mm\"^^rdfs:Literal and \"780.0 millibar\"^^rdfs:Literal; the xsd:dateTime literals are result times"
+
+[[work]]
+item = "s2orc:255799616"
+forms = ["cdt:ucum (IRI cut)"]
+why = "the literal is printed \"9 \"^^cdt: with no local name; the record it is made from says 'cdt_type': 'ucum'"
+
+[[work]]
+item = "openalex:W7167743913"
+forms = ["xsd:float"]
+why = "“17.4800 ˆˆxsd : f loat: the closing quote was lost by the extraction"
+
+[[work]]
+item = "s2orc:245225276"
+forms = ["xsd:float"]
+why = "JSON-LD: the value is the string \"40.0528125\", typed xsd:float by the @context of the term"
+
+[[work]]
+item = "s2orc:211044727"
+forms = []
+why = "a JSON-LD @context that maps hasSimpleResult to its IRI: no value"

@@ -1,0 +1,37 @@
+{
+ "harvest": "2026-11-07T1627",
+ "queries": 282,
+ "found": 856,
+ "in_corpus": 213,
+ "in_corpus_by_stratum": {
+  "A": 150,
+  "B": 28,
+  "C": 35
+ },
+ "corpus_by_stratum": {
+  "A": 886,
+  "B": 626,
+  "C": 792
+ },
+ "s2_only": 28,
+ "stratum_d": 615,
+ "signal": {
+  "strong": 104,
+  "weak": 468,
+  "early": 43
+ },
+ "semweb_term": {
+  "strong": {
+   "with": 80,
+   "without": 24
+  },
+  "weak": {
+   "with": 79,
+   "without": 389
+  },
+  "early": {
+   "with": 2,
+   "without": 41
+  }
+ }
+}

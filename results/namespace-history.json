@@ -1,0 +1,425 @@
+{
+ "repo_rev": "gh-pages c629fa7",
+ "terms": {
+  "ActuatingProcedure": {
+   "date": "2024-02-02",
+   "source": "commit 202098e1"
+  },
+  "ActuationCollection": {
+   "date": "2024-01-31",
+   "source": "commit 1b95656d"
+  },
+  "Asset": {
+   "date": "2026-02-25",
+   "source": "commit 5e7a8b89"
+  },
+  "Battery": {
+   "date": "2025-08-07",
+   "source": "commit 82e2b97f"
+  },
+  "Deployment": {
+   "date": "2023-09-22",
+   "source": "commit a43e70b2"
+  },
+  "Execution": {
+   "date": "2024-01-30",
+   "source": "protocol/namespace-history.toml"
+  },
+  "ExecutionCollection": {
+   "date": "2024-09-24",
+   "source": "commit b3db2cfd"
+  },
+  "MaterialSample": {
+   "date": "2023-04-13",
+   "source": "w3c/sdw commit b9d7ae9 (a draft before the 2023 repository)"
+  },
+  "NormalOperatingConditions": {
+   "date": "2025-08-07",
+   "source": "commit 82e2b97f"
+  },
+  "ObservationCollection": {
+   "date": "2018-11-22",
+   "source": "Extensions to SSN, FPWD"
+  },
+  "ObservingProcedure": {
+   "date": "2023-04-13",
+   "source": "w3c/sdw commit c13055f (a draft before the 2023 repository)"
+  },
+  "OperatingConditions": {
+   "date": "2025-08-07",
+   "source": "commit 82e2b97f"
+  },
+  "PreparationProcedure": {
+   "date": "2023-04-13",
+   "source": "w3c/sdw commit 5da9316 (a draft before the 2023 repository)"
+  },
+  "PreparationStep": {
+   "date": "2023-04-13",
+   "source": "w3c/sdw commit 5da9316 (a draft before the 2023 repository)"
+  },
+  "Property": {
+   "date": "2023-09-22",
+   "source": "commit a43e70b2"
+  },
+  "RelationshipNature": {
+   "date": "2026-10-27",
+   "source": "commit c629fa77"
+  },
+  "SampleCollection": {
+   "date": "2023-04-13",
+   "source": "w3c/sdw commit b9d7ae9 (a draft before the 2023 repository)"
+  },
+  "SampleRelationship": {
+   "date": "2026-10-27",
+   "source": "commit c629fa77"
+  },
+  "SamplingCollection": {
+   "date": "2024-07-11",
+   "source": "commit cb15eec4"
+  },
+  "SamplingProcedure": {
+   "date": "2016-12-06",
+   "source": "w3c/sdw commit 03bd09a (a draft before the 2023 repository)"
+  },
+  "SpatialSample": {
+   "date": "2023-04-13",
+   "source": "w3c/sdw commit b9d7ae9 (a draft before the 2023 repository)"
+  },
+  "StatisticalSample": {
+   "date": "2023-04-13",
+   "source": "w3c/sdw commit b9d7ae9 (a draft before the 2023 repository)"
+  },
+  "Stimulus": {
+   "date": "2023-09-22",
+   "source": "commit a43e70b2"
+  },
+  "SuboptimalOperatingConditions": {
+   "date": "2025-08-07",
+   "source": "commit 82e2b97f"
+  },
+  "SurvivableConditions": {
+   "date": "2025-08-07",
+   "source": "commit 82e2b97f"
+  },
+  "System": {
+   "date": "2023-09-22",
+   "source": "commit a43e70b2"
+  },
+  "actsOn": {
+   "date": "2024-07-11",
+   "source": "commit cb15eec4"
+  },
+  "classification": {
+   "date": "2026-10-27",
+   "source": "commit c629fa77"
+  },
+  "deployedAsset": {
+   "date": "2023-09-22",
+   "source": "commit a43e70b2"
+  },
+  "deployedOnPlatform": {
+   "date": "2023-09-22",
+   "source": "commit a43e70b2"
+  },
+  "deployedSystem": {
+   "date": "2023-09-22",
+   "source": "commit a43e70b2"
+  },
+  "detects": {
+   "date": "2023-09-22",
+   "source": "commit a43e70b2"
+  },
+  "endTime": {
+   "date": "2024-11-27",
+   "source": "commit 74fa8d49"
+  },
+  "featureHasUltimateSample": {
+   "date": "2025-07-21",
+   "source": "commit e1cf0bc4"
+  },
+  "forProperty": {
+   "date": "2023-09-22",
+   "source": "commit a43e70b2"
+  },
+  "hasDeployment": {
+   "date": "2023-09-22",
+   "source": "commit a43e70b2"
+  },
+  "hasInput": {
+   "date": "2023-09-22",
+   "source": "commit a43e70b2"
+  },
+  "hasInputValue": {
+   "date": "2024-01-31",
+   "source": "commit 15bae7b1"
+  },
+  "hasMember": {
+   "date": "2018-11-22",
+   "source": "Extensions to SSN, FPWD"
+  },
+  "hasOperatingConditions": {
+   "date": "2025-08-07",
+   "source": "protocol/namespace-history.toml"
+  },
+  "hasOriginalSample": {
+   "date": "2018-11-22",
+   "source": "Extensions to SSN, FPWD"
+  },
+  "hasOutput": {
+   "date": "2023-09-22",
+   "source": "commit a43e70b2"
+  },
+  "hasPreparationStep": {
+   "date": "2023-04-13",
+   "source": "w3c/sdw commit 5da9316 (a draft before the 2023 repository)"
+  },
+  "hasProcedure": {
+   "date": "2024-05-31",
+   "source": "commit 4e7e93e6"
+  },
+  "hasProperty": {
+   "date": "2023-08-10",
+   "source": "commit 5af06bc6"
+  },
+  "hasProxy": {
+   "date": "2024-07-11",
+   "source": "commit cb15eec4"
+  },
+  "hasSampleRelationship": {
+   "date": "2026-10-27",
+   "source": "commit c629fa77"
+  },
+  "hasSubSystem": {
+   "date": "2023-09-22",
+   "source": "commit a43e70b2"
+  },
+  "hasSystemCapability": {
+   "date": "2025-08-07",
+   "source": "protocol/namespace-history.toml"
+  },
+  "hasUltimateFeatureOfInterest": {
+   "date": "2018-11-22",
+   "source": "Extensions to SSN, FPWD"
+  },
+  "hasValidityContext": {
+   "date": "2025-08-07",
+   "source": "protocol/namespace-history.toml"
+  },
+  "horizontalPositionalAccuracy": {
+   "date": "2026-10-27",
+   "source": "commit c629fa77"
+  },
+  "implementedBy": {
+   "date": "2023-09-22",
+   "source": "commit a43e70b2"
+  },
+  "implements": {
+   "date": "2023-09-22",
+   "source": "commit a43e70b2"
+  },
+  "inDeployment": {
+   "date": "2023-09-22",
+   "source": "commit a43e70b2"
+  },
+  "inputFor": {
+   "date": "2024-07-11",
+   "source": "commit cb15eec4"
+  },
+  "inputValueForExecution": {
+   "date": "2024-07-11",
+   "source": "commit cb15eec4"
+  },
+  "isDetectedBy": {
+   "date": "2024-07-11",
+   "source": "commit cb15eec4"
+  },
+  "isMemberOf": {
+   "date": "2024-07-11",
+   "source": "commit cb15eec4"
+  },
+  "isOriginalSampleOf": {
+   "date": "2024-07-11",
+   "source": "commit cb15eec4"
+  },
+  "isProcedureFor": {
+   "date": "2025-12-17",
+   "source": "commit 78fbdaf8"
+  },
+  "isPropertyOf": {
+   "date": "2023-08-10",
+   "source": "commit 5af06bc6"
+  },
+  "isProxyFor": {
+   "date": "2023-09-22",
+   "source": "commit a43e70b2"
+  },
+  "isResultOfMadeBySampler": {
+   "date": "2023-12-15",
+   "source": "commit 98ecc48e"
+  },
+  "isResultOfUsedProcedure": {
+   "date": "2023-12-15",
+   "source": "commit 98ecc48e"
+  },
+  "isSampleOfUltimateFOI": {
+   "date": "2025-07-21",
+   "source": "commit e1cf0bc4"
+  },
+  "isSubSystemOf": {
+   "date": "2024-07-11",
+   "source": "protocol/namespace-history.toml"
+  },
+  "isUltimateFeatureOfInterestOf": {
+   "date": "2024-07-11",
+   "source": "commit cb15eec4"
+  },
+  "madeBySystem": {
+   "date": "2024-07-31",
+   "source": "commit 0067a67e"
+  },
+  "madeExecution": {
+   "date": "2024-07-31",
+   "source": "commit 0067a67e"
+  },
+  "madeOnPlatform": {
+   "date": "2023-10-03",
+   "source": "commit d5430d0c"
+  },
+  "madeSamplingHasResult": {
+   "date": "2024-07-11",
+   "source": "commit cb15eec4"
+  },
+  "makesObservationCollection": {
+   "date": "2026-10-27",
+   "source": "commit c629fa77"
+  },
+  "metadata": {
+   "date": "2023-11-07",
+   "source": "commit be176561"
+  },
+  "natureOfRelationship": {
+   "date": "2026-10-27",
+   "source": "commit c629fa77"
+  },
+  "observationRelatedTo": {
+   "date": "2024-07-11",
+   "source": "commit cb15eec4"
+  },
+  "observationType": {
+   "date": "2026-10-27",
+   "source": "commit c629fa77"
+  },
+  "originated": {
+   "date": "2024-07-11",
+   "source": "commit cb15eec4"
+  },
+  "outputFor": {
+   "date": "2024-07-11",
+   "source": "commit cb15eec4"
+  },
+  "parameter": {
+   "date": "2026-10-27",
+   "source": "commit c629fa77"
+  },
+  "phenomenonOccurred": {
+   "date": "2024-07-11",
+   "source": "commit cb15eec4"
+  },
+  "preparedSample": {
+   "date": "2023-04-13",
+   "source": "w3c/sdw commit 5da9316 (a draft before the 2023 repository)"
+  },
+  "processingDetails": {
+   "date": "2023-11-07",
+   "source": "commit be176561"
+  },
+  "propertyFor": {
+   "date": "2024-07-11",
+   "source": "commit cb15eec4"
+  },
+  "qualityOf": {
+   "date": "2024-07-11",
+   "source": "commit cb15eec4"
+  },
+  "relatedObservation": {
+   "date": "2023-11-07",
+   "source": "commit be176561"
+  },
+  "relatedSample": {
+   "date": "2026-10-27",
+   "source": "commit c629fa77"
+  },
+  "relatedSampling": {
+   "date": "2023-11-07",
+   "source": "commit be176561"
+  },
+  "resultQuality": {
+   "date": "2024-02-02",
+   "source": "commit 202098e1"
+  },
+  "samplePreparationStep": {
+   "date": "2023-11-07",
+   "source": "commit be176561"
+  },
+  "samplingLocation": {
+   "date": "2026-10-27",
+   "source": "commit c629fa77"
+  },
+  "samplingTime": {
+   "date": "2026-10-27",
+   "source": "commit c629fa77"
+  },
+  "shape": {
+   "date": "2026-10-27",
+   "source": "commit c629fa77"
+  },
+  "size": {
+   "date": "2026-10-27",
+   "source": "commit c629fa77"
+  },
+  "sourceLocation": {
+   "date": "2026-10-27",
+   "source": "commit c629fa77"
+  },
+  "startTime": {
+   "date": "2024-01-31",
+   "source": "commit 1b95656d"
+  },
+  "storageLocation": {
+   "date": "2026-10-27",
+   "source": "commit c629fa77"
+  },
+  "systemDeployment": {
+   "date": "2025-12-17",
+   "source": "commit 78fbdaf8"
+  },
+  "usedForExecution": {
+   "date": "2024-07-11",
+   "source": "commit cb15eec4"
+  },
+  "usedForExecutionHasResult": {
+   "date": "2024-07-11",
+   "source": "commit cb15eec4"
+  },
+  "validTime": {
+   "date": "2023-11-07",
+   "source": "commit be176561"
+  },
+  "verticalPositionalAccuracy": {
+   "date": "2026-10-27",
+   "source": "commit c629fa77"
+  },
+  "wasActedOnBy": {
+   "date": "2024-07-11",
+   "source": "commit cb15eec4"
+  },
+  "wasObservedBy": {
+   "date": "2024-07-11",
+   "source": "commit cb15eec4"
+  },
+  "wasOriginatedBy": {
+   "date": "2023-09-22",
+   "source": "commit a43e70b2"
+  }
+ }
+}

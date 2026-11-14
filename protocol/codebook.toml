@@ -1,0 +1,170 @@
+# The questions of the codebook (codebook.md, version 1), read by the review application
+# (app/DESIGN.md). codebook.md is the reference; this file must say the same thing.
+#
+# kind: one (one value), many (several values), text (free text), terms (prefixed names),
+# entries (a list of structured entries). `when` makes a question depend on an earlier
+# answer. `unknown` is always allowed; a blank is an error. `[question.meaning]` gives the
+# meaning of each value, shown one per line in the application; `meaning_from` reuses the
+# meanings of another question.
+
+[[question]]
+id = "study_type"
+label = "Is the work primary or secondary?"
+kind = "one"
+values = ["primary", "secondary"]
+[question.meaning]
+primary = "the work proposes or applies something (an ontology, a dataset, a system, a method)"
+secondary = "a survey, review or mapping study: coded for engagement and version only"
+
+[[question]]
+id = "engagement"
+label = "Deepest engagement with SOSA/SSN"
+kind = "one"
+values = ["E0", "E1", "E2", "E3", "E4", "E5"]
+help = "One value: the deepest level that applies."
+[question.meaning]
+E0 = "not about SOSA/SSN: the citation supports another point, or is a list of ontologies"
+E1 = "mention: SOSA/SSN is named in the background or related work, without further use"
+E2 = "discussion: SOSA/SSN is described, compared, evaluated or criticised"
+E3 = "data: the work describes data (dataset, knowledge graph, stream, application) with SOSA/SSN terms"
+E4 = "ontology reuse: an ontology imports, specialises or aligns SOSA/SSN terms"
+E5 = "contribution: an extension, pattern, alignment or tool proposed for SOSA/SSN itself"
+
+[[question]]
+id = "engagement_also"
+label = "Other engagement codes that apply"
+kind = "many"
+values = ["E1", "E2", "E3", "E4", "E5"]
+meaning_from = "engagement"
+
+[[question]]
+id = "version_used"
+label = "Version used, as namespace IRIs and term names show it"
+kind = "one"
+values = ["ssn-xg", "sosa-ssn-2017", "ssn-2023", "mixed", "unknown"]
+when = { engagement = ["E3", "E4", "E5"] }
+[question.meaning]
+ssn-xg = "the SSN-XG ontology: namespace purl.oclc.org/NET/ssnx/ssn"
+sosa-ssn-2017 = "the 2017 Recommendation: namespaces www.w3.org/ns/sosa/ and www.w3.org/ns/ssn/"
+ssn-2023 = "a term or module of the 2023 Edition"
+mixed = "terms of several versions"
+unknown = "neither the passages nor the full text show it"
+
+[[question]]
+id = "modules"
+label = "Modules used"
+kind = "many"
+values = ["sosa-observation", "sosa-actuation", "sosa-sampling", "ssn", "ssn-system",
+          "2023-execution", "2023-collections", "2023-sample-relations", "2023-oms",
+          "2023-systems", "alignments"]
+when = { engagement = ["E3", "E4", "E5"] }
+[question.meaning]
+sosa-observation = "SOSA core, observations: sosa:Observation, sosa:Sensor, sosa:observes, sosa:hasResult…"
+sosa-actuation = "SOSA core, actuations: sosa:Actuation, sosa:Actuator, sosa:ActuatableProperty…"
+sosa-sampling = "SOSA core, samplings: sosa:Sampling, sosa:Sample, sosa:Sampler, sosa:isSampleOf…"
+ssn = "SSN: ssn:System, ssn:hasSubSystem, ssn:Deployment, ssn:Input, ssn:Output…"
+ssn-system = "SSN System: capabilities, operating and survival ranges, deployment"
+2023-execution = "2023 Edition: the common pattern of executions (sosa:Execution)"
+2023-collections = "2023 Edition: collections of observations and of samples"
+2023-sample-relations = "2023 Edition: relations between samples"
+2023-oms = "2023 Edition: the RDF implementation of ISO 19156:2023 (OMS)"
+2023-systems = "2023 Edition: the reworked description of systems"
+alignments = "the alignment modules: DUL, BFO, IDO, OBOE, PROV, SAREF, OGC SensorThings…"
+
+[[question]]
+id = "terms"
+label = "SOSA/SSN terms used (prefixed names)"
+kind = "terms"
+when = { engagement = ["E3", "E4", "E5"] }
+
+[[question]]
+id = "extensions"
+label = "Terms the work defines on top of SOSA/SSN: new term, SOSA/SSN term it builds on, how"
+kind = "entries"
+fields = { new_term = "text", builds_on = "terms", how = ["subClassOf", "subPropertyOf", "instanceOf", "equivalentTo", "alignment"] }
+when = { engagement = ["E4", "E5"] }
+
+[[question]]
+id = "result_pattern"
+label = "How results are represented"
+kind = "many"
+values = ["simple-literal", "quantity-value", "custom-result-class", "structured",
+          "by-reference", "time-series", "coverage", "nested", "none", "unknown"]
+when = { engagement = ["E3", "E4", "E5"] }
+[question.meaning]
+simple-literal = "a literal with sosa:hasSimpleResult"
+quantity-value = "a quantity value of QUDT, OM or schema.org"
+custom-result-class = "a result class defined by the work"
+structured = "an array, matrix, table, RDF list, JSON literal or RDF Data Cube"
+by-reference = "an image, file or stream given by its IRI"
+time-series = "a time series"
+coverage = "a coverage"
+nested = "an observation or a collection as the result"
+none = "no result is represented"
+unknown = "the passages and the full text do not show it"
+
+[[question]]
+id = "value_properties"
+label = "Properties attached to values"
+kind = "many"
+values = ["unit", "uncertainty", "quality", "time", "none"]
+when = { engagement = ["E3", "E4", "E5"] }
+[question.meaning]
+unit = "a unit, with its vocabulary (QUDT, OM, a UCUM literal…)"
+uncertainty = "an uncertainty"
+quality = "a quality, including sosa:resultQuality"
+time = "phenomenon and result time, with OWL-Time or literals"
+none = "no property is attached to the values"
+
+[[question]]
+id = "errors"
+label = "Errors in the use of SOSA/SSN: code, term, evidence"
+kind = "entries"
+fields = { code = ["S1", "S2", "S3", "M1", "M2", "M3", "M4", "G1", "G2", "G3"], term = "terms", evidence = "text" }
+when = { engagement = ["E3", "E4", "E5"] }
+[question.meaning]
+S1 = "syntactic: wrong or mixed namespace IRI (a SOSA term in ssn:, https, missing / or #)"
+S2 = "syntactic: a term that no version declares"
+S3 = "syntactic: misspelt name (case, plural, typo)"
+M1 = "semantic: domain or range violated"
+M2 = "semantic: class used as an individual, or the converse"
+M3 = "semantic: a term used against its definition"
+M4 = "semantic: a deprecated or superseded term, for the version the work claims"
+G1 = "structural: an observation, actuation or sampling without a link its pattern expects (feature of interest, property, result, procedure)"
+G2 = "structural: a link attached to the wrong node (a result on the sensor, a property on the platform…)"
+G3 = "structural: another departure from the patterns of the specification, described"
+
+[[question]]
+id = "domain"
+label = "Application domain"
+kind = "one"
+values = ["environment and earth observation", "agriculture and food", "buildings",
+          "cities and mobility", "energy", "manufacturing and industry", "health",
+          "water and oceans", "robotics and autonomous systems", "generic IoT and Web of Things",
+          "science and laboratories", "other"]
+when = { engagement = ["E2", "E3", "E4", "E5"] }
+
+[[question]]
+id = "subdomain"
+label = "Subdomain (free text)"
+kind = "text"
+when = { engagement = ["E2", "E3", "E4", "E5"] }
+
+[[question]]
+id = "companions"
+label = "Other vocabularies used with SOSA/SSN"
+kind = "text"
+when = { engagement = ["E3", "E4", "E5"] }
+
+[[question]]
+id = "artefacts"
+label = "Artefacts published with the work: kind and IRI or URL"
+kind = "entries"
+fields = { kind = ["ontology", "dataset", "alignment", "shacl-shapes", "jsonld-context", "json-schema", "sparql-queries", "mapping", "design-pattern", "software"], url = "text" }
+when = { engagement = ["E3", "E4", "E5"] }
+
+[[question]]
+id = "gaps"
+label = "Requirements, extensions or criticisms reported (free text)"
+kind = "text"
+when = { engagement = ["E2", "E3", "E4", "E5"] }

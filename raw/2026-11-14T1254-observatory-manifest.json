@@ -1,0 +1,102 @@
+{
+ "stamp": "2026-11-14T1254",
+ "source": "OpenAlex",
+ "api_key_used": true,
+ "queries": [
+  {
+   "seed": "ssn-xg-report-2011",
+   "query": "https://api.openalex.org/works?filter=cites:W2729989548&per-page=200&select=id,doi,display_name,publication_year,publication_date,type,language,primary_location,authorships,cited_by_count,abstract_inverted_index,primary_topic,keywords,open_access,referenced_works_count,ids,is_retracted",
+   "reported": 142,
+   "retrieved": 142
+  },
+  {
+   "seed": "sso-2010",
+   "query": "https://api.openalex.org/works?filter=cites:W2407444278&per-page=200&select=id,doi,display_name,publication_year,publication_date,type,language,primary_location,authorships,cited_by_count,abstract_inverted_index,primary_topic,keywords,open_access,referenced_works_count,ids,is_retracted",
+   "reported": 131,
+   "retrieved": 131
+  },
+  {
+   "seed": "compton-2012",
+   "query": "https://api.openalex.org/works?filter=cites:W2102802363&per-page=200&select=id,doi,display_name,publication_year,publication_date,type,language,primary_location,authorships,cited_by_count,abstract_inverted_index,primary_topic,keywords,open_access,referenced_works_count,ids,is_retracted",
+   "reported": 1464,
+   "retrieved": 1464
+  },
+  {
+   "seed": "cox-2017-oosf",
+   "query": "https://api.openalex.org/works?filter=cites:W2290162994&per-page=200&select=id,doi,display_name,publication_year,publication_date,type,language,primary_location,authorships,cited_by_count,abstract_inverted_index,primary_topic,keywords,open_access,referenced_works_count,ids,is_retracted",
+   "reported": 46,
+   "retrieved": 46
+  },
+  {
+   "seed": "w3c-rec-2017",
+   "query": "https://api.openalex.org/works?filter=cites:W2782275617&per-page=200&select=id,doi,display_name,publication_year,publication_date,type,language,primary_location,authorships,cited_by_count,abstract_inverted_index,primary_topic,keywords,open_access,referenced_works_count,ids,is_retracted",
+   "reported": 148,
+   "retrieved": 148
+  },
+  {
+   "seed": "w3c-rec-2017-hal",
+   "query": "https://api.openalex.org/works?filter=cites:W4311835140&per-page=200&select=id,doi,display_name,publication_year,publication_date,type,language,primary_location,authorships,cited_by_count,abstract_inverted_index,primary_topic,keywords,open_access,referenced_works_count,ids,is_retracted",
+   "reported": 0,
+   "retrieved": 0
+  },
+  {
+   "seed": "janowicz-2019",
+   "query": "https://api.openalex.org/works?filter=cites:W2803689195&per-page=200&select=id,doi,display_name,publication_year,publication_date,type,language,primary_location,authorships,cited_by_count,abstract_inverted_index,primary_topic,keywords,open_access,referenced_works_count,ids,is_retracted",
+   "reported": 561,
+   "retrieved": 561
+  },
+  {
+   "seed": "janowicz-2018-ssrn",
+   "query": "https://api.openalex.org/works?filter=cites:W3169145163&per-page=200&select=id,doi,display_name,publication_year,publication_date,type,language,primary_location,authorships,cited_by_count,abstract_inverted_index,primary_topic,keywords,open_access,referenced_works_count,ids,is_retracted",
+   "reported": 37,
+   "retrieved": 37
+  },
+  {
+   "seed": "haller-2019",
+   "query": "https://api.openalex.org/works?filter=cites:W2889161681&per-page=200&select=id,doi,display_name,publication_year,publication_date,type,language,primary_location,authorships,cited_by_count,abstract_inverted_index,primary_topic,keywords,open_access,referenced_works_count,ids,is_retracted",
+   "reported": 296,
+   "retrieved": 296
+  },
+  {
+   "seed": "taylor-2019-revamped",
+   "query": "https://api.openalex.org/works?filter=cites:W3013413982&per-page=200&select=id,doi,display_name,publication_year,publication_date,type,language,primary_location,authorships,cited_by_count,abstract_inverted_index,primary_topic,keywords,open_access,referenced_works_count,ids,is_retracted",
+   "reported": 10,
+   "retrieved": 10
+  },
+  {
+   "text_seed": "cox-2020-ssn-ext",
+   "string": "vocab-ssn-ext",
+   "query": "https://api.openalex.org/works?filter=fulltext.search.exact:%22vocab-ssn-ext%22&per-page=200&select=id,doi,display_name,publication_year,publication_date,type,language,primary_location,authorships,cited_by_count,abstract_inverted_index,primary_topic,keywords,open_access,referenced_works_count,ids,is_retracted",
+   "reported": 8,
+   "retrieved": 8
+  },
+  {
+   "text_seed": "cox-2020-ssn-ext",
+   "string": "Extensions to the Semantic Sensor Network Ontology",
+   "query": "https://api.openalex.org/works?filter=fulltext.search.exact:%22Extensions%20to%20the%20Semantic%20Sensor%20Network%20Ontology%22&per-page=200&select=id,doi,display_name,publication_year,publication_date,type,language,primary_location,authorships,cited_by_count,abstract_inverted_index,primary_topic,keywords,open_access,referenced_works_count,ids,is_retracted",
+   "reported": 8,
+   "retrieved": 8
+  },
+  {
+   "text_seed": "cox-2020-ssn-ext",
+   "string": "w3.org/ns/ssn/ext",
+   "query": "https://api.openalex.org/works?filter=fulltext.search.exact:%22w3.org%2Fns%2Fssn%2Fext%22&per-page=200&select=id,doi,display_name,publication_year,publication_date,type,language,primary_location,authorships,cited_by_count,abstract_inverted_index,primary_topic,keywords,open_access,referenced_works_count,ids,is_retracted",
+   "reported": 0,
+   "retrieved": 0
+  },
+  {
+   "text_seed": "cox-2020-ssn-ext",
+   "string": "ssn-ext:",
+   "query": "https://api.openalex.org/works?filter=fulltext.search.exact:%22ssn-ext:%22&per-page=200&select=id,doi,display_name,publication_year,publication_date,type,language,primary_location,authorships,cited_by_count,abstract_inverted_index,primary_topic,keywords,open_access,referenced_works_count,ids,is_retracted",
+   "reported": 10,
+   "retrieved": 10
+  },
+  {
+   "text_seed": "w3c-ssn-2023",
+   "string": "vocab-ssn-2023",
+   "query": "https://api.openalex.org/works?filter=fulltext.search.exact:%22vocab-ssn-2023%22&per-page=200&select=id,doi,display_name,publication_year,publication_date,type,language,primary_location,authorships,cited_by_count,abstract_inverted_index,primary_topic,keywords,open_access,referenced_works_count,ids,is_retracted",
+   "reported": 4,
+   "retrieved": 4
+  }
+ ]
+}

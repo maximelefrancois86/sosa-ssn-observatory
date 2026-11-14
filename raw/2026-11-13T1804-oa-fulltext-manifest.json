@@ -1,0 +1,65 @@
+{
+  "stamp": "2026-11-13T1804",
+  "pass": "manual",
+  "pool": 3,
+  "done": 3,
+  "complete": true,
+  "pdfs_read": 3,
+  "works": [
+    {
+      "openalex": "W3122945518",
+      "doi": "10.1109/cic50333.2020.00012",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": true,
+      "ocr_again_of": "2026-11-12T1651",
+      "tried": [
+        {
+          "file": "SenShaMart_A_Trusted_loT_Marketplace_for_Sensor_Sharing.pdf",
+          "bytes": 442277,
+          "sha256": "63937ae22ee86578ab203ec5b2b19bc91b1f2046a0df98d163ac0e1fe1d72dcf"
+        }
+      ]
+    },
+    {
+      "openalex": "W3212446860",
+      "doi": "10.1109/scc53864.2021.00047",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": true,
+      "ocr_again_of": "2026-11-12T1651",
+      "tried": [
+        {
+          "file": "A_Framework_for_Enabling_Cyber-Twins_based_Industry_4.0_Application_Development.pdf",
+          "bytes": 1266502,
+          "sha256": "c0bb07e143dc6441f283149185f0925739813691adfad2b14af89e9c6ed2d9c8"
+        }
+      ]
+    },
+    {
+      "openalex": "W3199909248",
+      "doi": "10.1109/icsecs52883.2021.00011",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title pairs 1.00",
+      "ocr": true,
+      "ocr_again_of": "2026-11-12T1651",
+      "tried": [
+        {
+          "file": "Existing_Semantic_Ontology_and_its_Challenges_for_Enhancing_Interoperability_in_IoT_Environment.pdf",
+          "bytes": 943590,
+          "sha256": "350a6f14d0fbbe57da069af0fa81b633b83376c101cc969b553c7deb44f7dc43"
+        }
+      ]
+    }
+  ],
+  "outcomes": {
+    "text": 3
+  },
+  "unmatched": []
+}

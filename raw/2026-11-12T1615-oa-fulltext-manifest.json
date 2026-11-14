@@ -1,0 +1,121 @@
+{
+  "stamp": "2026-11-12T1615",
+  "pass": "manual",
+  "pool": 878,
+  "done": 7,
+  "complete": true,
+  "pdfs_read": 8,
+  "works": [
+    {
+      "openalex": "W2906596461",
+      "doi": "10.1109/saconet.2018.8585679",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "A_Semantic_Model_for_Service_Description_in_the_Internet_of_Things.pdf",
+          "bytes": 423763,
+          "sha256": "9ac2d13c287c62220245103aa2a1de3e9bc04ab6a1ce91016f21f376782f98c9"
+        }
+      ]
+    },
+    {
+      "openalex": "W3047500995",
+      "doi": "10.1109/percomworkshops48775.2020.9156158",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "Delivering_IoT_Smart_Services_through_Collective_Awareness_Mobile_Crowdsensing_and_Open_Data.pdf",
+          "bytes": 2781218,
+          "sha256": "b05643a52d3b2da374ca7c0bcdef81c532698d8613d2fd118a12ebe76f48a8f9"
+        }
+      ]
+    },
+    {
+      "openalex": "W3020657355",
+      "doi": "10.29019/enfoqueute.v9n1.239",
+      "stratum": "B",
+      "oa_status": "diamond",
+      "outcome": "text",
+      "matched_by": "title pairs 0.88",
+      "tried": [
+        {
+          "file": "Draft_Content_371880018-239-4387-document.pdf",
+          "bytes": 702375,
+          "sha256": "0fea57e3f0f2ffb315bbfb2e8c26948eb59467005cc9c0abdd802bec3a5917b6"
+        }
+      ]
+    },
+    {
+      "openalex": "W7148776462",
+      "doi": "10.70675/63d78e2ez0a62z4ce8zbcd2zf04dfc497541",
+      "stratum": "B",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "E_MALEKI.pdf",
+          "bytes": 11323119,
+          "sha256": "d1072eb0696f6324a7bf30c5ec28145809c3ff6c3254f2801b2765f072f3dd3f"
+        }
+      ]
+    },
+    {
+      "openalex": "W4321107447",
+      "doi": "10.4995/thesis/10251/191878",
+      "stratum": "A",
+      "oa_status": "gold",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "Jabla - Towards an approach for intelligent adaptation decision-making of pervasive middleware (1).pdf",
+          "bytes": 8414732,
+          "sha256": "bb1898588f3e86105486108f24340c080a4fcdb91e5722b6c7c44ffa4744351b"
+        }
+      ]
+    },
+    {
+      "openalex": "W2913752378",
+      "doi": "10.1109/telfor.2018.8611925",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "Semantic-Driven_Secured_Data_Access_in_Distributed_IoT_Systems.pdf",
+          "bytes": 703200,
+          "sha256": "90ee48ad56be20d5799cd2741c006b26b6deab77b94c994209627c47d47caf7d"
+        }
+      ]
+    },
+    {
+      "openalex": "W2908101791",
+      "doi": "10.5821/dissertation-2117-125024",
+      "stratum": "B",
+      "oa_status": "gold",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "TFSBDM1de1.pdf",
+          "bytes": 4178503,
+          "sha256": "0921928a770717278e7832fd66396e4df187733548881c20a6f2254679d25e69"
+        }
+      ]
+    }
+  ],
+  "outcomes": {
+    "text": 7
+  },
+  "unmatched": [
+    "Jabla - Towards an approach for intelligent adaptation decision-making of pervasive middleware.pdf: second PDF of W4321107447"
+  ]
+}

@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use the SOSA/SSN Usage Observatory, please cite it as below."
+type: dataset
+title: "SOSA/SSN Usage Observatory"
+version: "1.0.0"
+date-released: "2026-11-14"
+authors:
+  - family-names: "Lefrançois"
+    given-names: "Maxime"
+    orcid: "https://orcid.org/0000-0001-9814-8991"
+    affiliation: "Mines Saint-Étienne"
+url: "https://ci.mines-stetienne.fr/sosa-ssn-observatory/"
+repository-code: "https://github.com/maximelefrancois86/sosa-ssn-observatory"
+identifiers:
+  - type: url
+    value: "https://w3id.org/sosa-ssn-observatory"
+    description: "The persistent identifier of the observatory"
+# the DOI of the release, minted by Zenodo from the GitHub release, is added once known
+license:
+  - CC-BY-4.0
+  - MIT
+abstract: >-
+  An observatory of how the W3C/OGC Semantic Sensor Network ontology (SSN) and its core,
+  SOSA, are used in the scientific literature: every work that cites a publication on
+  SOSA/SSN or writes its names in its full text, with how it uses SOSA/SSN (engagement,
+  version, modules, terms, results and values, errors, domain, companion vocabularies,
+  published artefacts, reported gaps, modelling patterns), coded by language models, agents
+  and scripts; a knowledge graph (FaBiO, CiTO, MOD, PROV-O) and a static web application to
+  browse and query it. Data under CC BY 4.0, code under MIT. No full text is included.
+keywords:
+  - SOSA
+  - SSN
+  - Semantic Sensor Network ontology
+  - ontology usage
+  - knowledge graph
+  - scholarly knowledge graph
+  - systematic mapping
+  - W3C
+  - OGC
+  - Linked Data
+# preferred-citation: the ESWC 2027 resource paper, once accepted

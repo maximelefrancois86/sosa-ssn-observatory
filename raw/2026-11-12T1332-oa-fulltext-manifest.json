@@ -1,0 +1,3610 @@
+{
+  "stamp": "2026-11-12T1332",
+  "pass": "retry",
+  "after": [
+    "2026-11-11T1451",
+    "2026-11-11T1519"
+  ],
+  "pool": 178,
+  "done": 178,
+  "complete": true,
+  "s2_api_key_used": true,
+  "works": [
+    {
+      "openalex": "W1182789037",
+      "doi": "10.15368/theses.2015.75",
+      "stratum": "A",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=2547&context=theses",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W2082670328",
+      "doi": "10.1109/ntms.2014.6814015",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://arodes.hes-so.ch/record/12032/files/Hennebert_2014_distributed_semantic_discovery_web-of-things_enabled_smart_buildings.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 202,
+          "content_type": "text/html; charset=UTF-8",
+          "bytes": 0,
+          "final": "https://arodes.hes-so.ch/youraccount/login?action=5ddc875ac615c90a5d727be60e85c790ebef11&ln=fr&referer=https%3A%2F%2Farodes.hes-so.ch%2Frecord%2F12032%2Ffiles%2FHennebert_2014_distributed_semantic_discovery_web-of-things_enabled_smart_buildings.pdf%3F"
+        },
+        {
+          "url": "https://hal.science/hal-00973506",
+          "source": "semantic scholar",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://hal.science/hal-00973506"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2761349571",
+      "doi": "10.20868/upm.thesis.48050",
+      "stratum": "A",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "http://oa.upm.es/48050/1/IVAN_CORREDOR_PEREZ.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://oa.upm.es/.within.website/?redir=https%3A%2F%2Foa.upm.es%2F48050%2F1%2FIVAN_CORREDOR_PEREZ.pdf"
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W2771744075",
+      "doi": "10.1145/3166070",
+      "stratum": "B",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://laas.hal.science/hal-01651945v1/file/ACM-TOIT-2017.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://laas.hal.science/hal-01651945v1/file/ACM-TOIT-2017.pdf"
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W2782870000",
+      "doi": "10.20868/upm.thesis.49151",
+      "stratum": "A",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "http://oa.upm.es/49151/1/JIE_SONG.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://oa.upm.es/.within.website/?redir=https%3A%2F%2Foa.upm.es%2F49151%2F1%2FJIE_SONG.pdf"
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W2792190805",
+      "doi": "10.1007/978-3-319-78102-0_6",
+      "stratum": "B",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-78102-0_6.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 320320,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-319-78102-0_6?error=cookies_not_supported&code=1c8d839d-2854-4c35-9a70-8e3554159f35"
+        },
+        {
+          "url": "https://doi.org/10.1007/978-3-319-78102-0_6",
+          "source": "semantic scholar",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 320319,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-319-78102-0_6?error=cookies_not_supported&code=6d0df2b1-1f49-4a9c-8570-9c11cf442e60"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2800790195",
+      "doi": "10.1109/wf-iot.2018.8355113",
+      "stratum": "B",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://univ-pau.hal.science/hal-02433568v1/document",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://univ-pau.hal.science/hal-02433568v1/document"
+        },
+        {
+          "url": "http://oatao.univ-toulouse.fr/19275/1/Auger_19275.pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "URLError(TimeoutError('timed out'))"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2809352893",
+      "doi": "10.11606/t.3.2018.tde-22052018-145404",
+      "stratum": "B",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "http://www.teses.usp.br/teses/disponiveis/3/3142/tde-22052018-145404/publico/AndreLuisMenesesSilvaCorr18.pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "URLError(TimeoutError('timed out'))"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2844117170",
+      "doi": "10.1088/1361-6501/aad1d4",
+      "stratum": "A",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://iopscience.iop.org/article/10.1088/1361-6501/aad1d4/pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html;charset=UTF-8",
+          "bytes": 179317,
+          "final": "https://iopscience.iop.org/article/10.1088/1361-6501/aad1d4/pdf"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2878704706",
+      "doi": "10.1002/asi.24039",
+      "stratum": "B",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/asi.24039",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        },
+        {
+          "url": "https://hdl.handle.net/2027.42/146402",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 500"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2883270747",
+      "doi": "10.1016/j.procs.2018.07.009",
+      "stratum": "B",
+      "oa_status": "diamond",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S1877050918309530/pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 403"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2886849005",
+      "doi": "10.3233/sw-180303",
+      "stratum": "B",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://content.iospress.com:443/download/semantic-web/sw303?id=semantic-web%2Fsw303",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W2889161681",
+      "doi": "10.3233/sw-180320",
+      "stratum": "A",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://content.iospress.com:443/download/semantic-web/sw320?id=semantic-web%2Fsw320",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W2892374075",
+      "doi": "10.1109/cybermatics_2018.2018.00049",
+      "stratum": "B",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://re.public.polimi.it/bitstream/11311/1062372/1/6iG0lQZwJ2sfZddNK9oAXx.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W2899977328",
+      "doi": "10.1016/j.future.2018.10.058",
+      "stratum": "B",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S0167739X18314031",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 403"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2906464847",
+      "doi": "10.1016/j.autcon.2018.12.010",
+      "stratum": "B",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "http://hdl.handle.net/10197/10993",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 405"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2908101791",
+      "doi": "10.5821/dissertation-2117-125024",
+      "stratum": "B",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://upcommons.upc.edu/bitstream/2117/125024/1/TFSBDM1de1.pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 418"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2912402120",
+      "doi": "10.3233/ao-190205",
+      "stratum": "B",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://content.iospress.com:443/download/applied-ontology/ao190205?id=applied-ontology%2Fao190205",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W2913340327",
+      "doi": "10.4995/thesis/10251/107928",
+      "stratum": "A",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://riunet.upv.es/bitstream/10251/107928/4/ALVEAR%20-%20Mobile%20Sensing%20Architecture%20for%20Air%20Pollution%20Monitoring.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://riunet.upv.es/bitstream/10251/107928/4/ALVEAR%20-%20Mobile%20Sensing%20Architecture%20for%20Air%20Pollution%20Monitoring.pdf"
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W2915041889",
+      "doi": "10.1145/3284316",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://orbilu.uni.lu/bitstream/10993/37518/1/vrt-survey-authorversion.pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)'))"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2944355366",
+      "doi": "10.1016/j.cageo.2019.04.009",
+      "stratum": "B",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/am/pii/S0098300417310622",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 403"
+        },
+        {
+          "url": "https://hal.science/hal-02125207/document",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://hal.science/hal-02125207/document"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2945125411",
+      "doi": "10.1109/jiot.2019.2918327",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8524393/pdf/nihms-1541168.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 1817,
+          "final": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8524393/pdf/nihms-1541168.pdf"
+        },
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8524393/",
+          "source": "semantic scholar",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 201944,
+          "final": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8524393/"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2961933199",
+      "doi": "10.1016/j.cirpj.2019.04.007",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://re.public.polimi.it/bitstream/11311/1096332/5/11311_1096332.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W2963091000",
+      "doi": "10.1145/3331076.3331103",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://hal.science/hal-02390620v1/file/EQLCE.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://hal.science/hal-02390620v1/file/EQLCE.pdf"
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W2970970031",
+      "doi": "10.1109/iotsms48152.2019.8939250",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "http://hdl.handle.net/2164/13075",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://aura.abdn.ac.uk/items/aab6e10b-a4fc-4297-88b1-85e5dc380ab1"
+        },
+        {
+          "url": "http://localhost:4000/bitstreams/80a4ef26-1c2b-4e45-89c7-d674d982bd4f/download",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "URLError(ConnectionRefusedError(111, 'Connection refused'))"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2981278439",
+      "doi": "10.1007/978-3-030-30796-7_9",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-30796-7_9.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 316682,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-030-30796-7_9?error=cookies_not_supported&code=89382cf6-146e-4731-8a5d-a6ab331aeac2"
+        },
+        {
+          "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:hj:diva-46606",
+          "source": "semantic scholar",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://hj.diva-portal.org/smash/record.jsf?pid=diva2:1362356"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2985807578",
+      "doi": "10.1016/j.future.2019.10.024",
+      "stratum": "B",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/am/pii/S0167739X18317035",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 403"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2991754680",
+      "doi": "10.1007/s10707-019-00384-9",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/s10707-019-00384-9.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 359644,
+          "final": "https://link.springer.com/article/10.1007/s10707-019-00384-9?error=cookies_not_supported&code=81f0c639-429e-48a9-9187-4eea0c755c42"
+        },
+        {
+          "url": "http://mediatum.ub.tum.de/node?id=1536138",
+          "source": "semantic scholar",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://mediatum.ub.tum.de/node?id=1536138"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W3001254279",
+      "doi": "10.1016/j.websem.2020.100548",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://cris.unibo.it/bitstream/11585/725883/4/The%20Internet%20of%20Musical%20Things%20Ontology.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        },
+        {
+          "url": "https://doi.org/10.2139/ssrn.3526362",
+          "source": "semantic scholar",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W3003933818",
+      "doi": "10.1016/j.ijinfomgt.2020.102074",
+      "stratum": "A",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S0268401219302968/pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 403"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W3005460304",
+      "doi": "10.1016/j.comcom.2020.02.006",
+      "stratum": "B",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S0140366419318912/pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 403"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W3007519747",
+      "doi": "10.20944/preprints202002.0326.v2",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://www.preprints.org/manuscript/202002.0326/v2/download",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html",
+          "bytes": 2710,
+          "final": "https://www.preprints.org/manuscript/202002.0326/v2/download"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W3011615594",
+      "doi": "10.1108/jedt-10-2019-0284",
+      "stratum": "B",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://uwe-repository.worktribe.com/file/5685678/1/PDF%20Proof",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W3013120860",
+      "doi": "10.1016/j.autcon.2020.103179",
+      "stratum": "B",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://ars.els-cdn.com/content/image/1-s2.0-S0926580519314785-ga1_lrg.jpg",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "image/jpeg",
+          "bytes": 308931,
+          "final": "https://ars.els-cdn.com/content/image/1-s2.0-S0926580519314785-ga1_lrg.jpg"
+        },
+        {
+          "url": "https://orca.cardiff.ac.uk/id/eprint/130694/1/Calin%20et%20al%20Digital%20Twin%20paper.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W3020657355",
+      "doi": "10.29019/enfoqueute.v9n1.239",
+      "stratum": "B",
+      "oa_status": "diamond",
+      "tried": [
+        {
+          "url": "http://ingenieria.ute.edu.ec/enfoqueute/index.php/revista/article/download/239/196",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://ingenieria.ute.edu.ec/challenge?next=%2Fenfoqueute%2Findex.php%2Frevista%2Farticle%2Fdownload%2F239%2F196"
+        },
+        {
+          "url": "https://www.scipedia.com/public/Veintimilla-Reyes_et_al_2018a",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=UTF-8",
+          "bytes": 27484,
+          "final": "https://www.scipedia.com/public/Veintimilla-Reyes_et_al_2018a"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W3028856548",
+      "doi": "10.1515/9783110628517",
+      "stratum": "B",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://www.degruyter.com/document/doi/10.1515/9783110628517/pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 202,
+          "content_type": "text/html; charset=UTF-8",
+          "bytes": 0,
+          "final": "https://www.degruyterbrill.com:443/document/doi/10.1515/9783110628517/pdf"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W3033485003",
+      "doi": "10.4316/aece.2020.02002",
+      "stratum": "A",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "http://dx.doi.org/10.4316/AECE.2020.02002",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://www.aece.ro/abstractplus.php?year=2020&number=2&article=2"
+        },
+        {
+          "url": "https://doi.org/10.4316/aece.2020.02002",
+          "source": "semantic scholar",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://www.aece.ro/abstractplus.php?year=2020&number=2&article=2"
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W3033986444",
+      "doi": "10.1016/j.ecoinf.2020.101115",
+      "stratum": "B",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S1574954120300650/pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 403"
+        },
+        {
+          "url": "https://research.thea.ie/bitstream/20.500.12065/3407/1/Tray%2c%20Elizabeth%2c%20et%20al.%20-%20Open%20source%20database%20model%2c%20etc.%2c%202020.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://research.thea.ie/bitstream/20.500.12065/3407/1/Tray%2c%20Elizabeth%2c%20et%20al.%20-%20Open%20source%20database%20model%2c%20etc.%2c%202020.pdf"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W3035029867",
+      "doi": "10.1007/s12652-020-02136-2",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/s12652-020-02136-2.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 362254,
+          "final": "https://link.springer.com/article/10.1007/s12652-020-02136-2?error=cookies_not_supported&code=0d60139d-64a7-4c2d-a988-68828053f11c"
+        },
+        {
+          "url": "https://hal.science/hal-03695152",
+          "source": "semantic scholar",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://hal.science/hal-03695152"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W3046424363",
+      "doi": "10.1142/s0218194020400082",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://cris.unibo.it/bitstream/11585/767707/5/2040008.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W3047794960",
+      "doi": "10.1007/s11277-020-07691-7",
+      "stratum": "B",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/s11277-020-07691-7.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 364953,
+          "final": "https://link.springer.com/article/10.1007/s11277-020-07691-7?error=cookies_not_supported&code=048347c7-c113-44cb-ae8d-0f287725b21f"
+        },
+        {
+          "url": "https://research.rug.nl/files/159031499/Javadpour2020_Article_ResourceManagementInAPeerToPee.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        },
+        {
+          "url": "https://research.rug.nl/en/publications/ee46a551-5a58-4725-af9d-15944b98cf62",
+          "source": "semantic scholar",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html;charset=UTF-8",
+          "bytes": 57177,
+          "final": "https://research.rug.nl/en/publications/resource-management-in-a-peer-to-peer-cloud-network-for-iot/"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W3047956152",
+      "doi": "10.1016/j.procs.2020.07.030",
+      "stratum": "B",
+      "oa_status": "diamond",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S1877050920317105/pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 403"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W3082400013",
+      "doi": "10.3233/sw-200379",
+      "stratum": "A",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://content.iospress.com:443/download/semantic-web/sw200379?id=semantic-web%2Fsw200379",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        },
+        {
+          "url": "https://iris.unito.it/bitstream/2318/1743259/2/SWJ2020_Editorial.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W3083324460",
+      "doi": "10.1145/3411170.3411261",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://cris.unibo.it/bitstream/11585/854401/1/GOODTECHS.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W3094728100",
+      "doi": "10.1007/978-3-030-61244-3_12",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-61244-3_12.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 309191,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-030-61244-3_12?error=cookies_not_supported&code=a991e6b1-a697-463a-ad5b-7d9783176c0a"
+        },
+        {
+          "url": "https://hal.archives-ouvertes.fr/hal-02986555",
+          "source": "semantic scholar",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://hal.archives-ouvertes.fr/hal-02986555"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W3094822300",
+      "doi": "10.1007/978-3-030-60067-9_4",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://re.public.polimi.it/bitstream/11311/1146324/1/Stream_Reasoning__From_Theory_to_Practice.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        },
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-60067-9_4.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 327240,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-030-60067-9_4?error=cookies_not_supported&code=04627b8a-f7fe-40a9-98b2-8a2389cba6bf"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W3108524880",
+      "doi": "10.3233/ais-200578",
+      "stratum": "B",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://content.iospress.com:443/download/journal-of-ambient-intelligence-and-smart-environments/ais200578?id=journal-of-ambient-intelligence-and-smart-environments%2Fais200578",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        },
+        {
+          "url": "https://doi.org/10.3233/ais-200578",
+          "source": "semantic scholar",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W3131429741",
+      "doi": "10.1016/j.procs.2021.01.215",
+      "stratum": "A",
+      "oa_status": "diamond",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S1877050921002581/pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 403"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W3136428157",
+      "doi": "10.1155/2021/5594553",
+      "stratum": "A",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://downloads.hindawi.com/journals/wcmc/2021/5594553.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W3163463292",
+      "doi": "10.20944/preprints202105.0377.v1",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://www.preprints.org/manuscript/202105.0377/v1/download",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html",
+          "bytes": 2711,
+          "final": "https://www.preprints.org/manuscript/202105.0377/v1/download"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W3163654715",
+      "doi": "10.1016/j.jksuci.2021.04.015",
+      "stratum": "B",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S1319157821001014/pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 403"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W3164837021",
+      "doi": "10.1561/9781680836837",
+      "stratum": "B",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://nowpublishers.com/article/DownloadEBook/9781680836820?format=pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W3177319477",
+      "doi": "10.1007/978-3-030-79157-5_30",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-79157-5_30.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 328244,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-030-79157-5_30?error=cookies_not_supported&code=04f69b3f-cc63-420f-9269-7a33df657bac"
+        },
+        {
+          "url": "https://inria.hal.science/hal-03789019",
+          "source": "semantic scholar",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://inria.hal.science/hal-03789019"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W3180800754",
+      "doi": "10.1016/j.dcan.2021.06.005",
+      "stratum": "B",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S235286482100033X/pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 403"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W3192052288",
+      "doi": "10.1145/3459930.3469562",
+      "stratum": "A",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://dl.acm.org/doi/pdf/10.1145/3459930.3469562",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W3201971413",
+      "doi": "10.1016/j.procs.2021.08.052",
+      "stratum": "A",
+      "oa_status": "diamond",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S1877050921015398/pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 403"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W3203836759",
+      "doi": "10.1016/j.measen.2021.100263",
+      "stratum": "A",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S2665917421002269/pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 403"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W3205282433",
+      "doi": "10.1016/j.jksuci.2021.09.024",
+      "stratum": "A",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S1319157821002755/pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 403"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W3208421707",
+      "doi": "10.4119/unibi/2948662",
+      "stratum": "B",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://pub.uni-bielefeld.de/download/2948662/2948675",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://pub.uni-bielefeld.de/download/2948662/2948675"
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W3215419106",
+      "doi": "10.1016/j.procir.2021.11.164",
+      "stratum": "B",
+      "oa_status": "diamond",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S2212827121010623/pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 403"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W3216349317",
+      "doi": "10.1016/j.websem.2021.100687",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://iris.unitn.it/bitstream/11572/328749/5/The_SMIs_Ontology_PREPRINT.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W4200035707",
+      "doi": "10.1109/edocw52865.2021.00051",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://univ-pau.hal.science/hal-03468281/document",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://univ-pau.hal.science/hal-03468281/document"
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W4200455613",
+      "doi": "10.1109/metroagrifor52389.2021.9628475",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://cris.unibo.it/bitstream/11585/875663/4/2021_53_Predict_soil_moisture_into_the_future_on_the_integration_of_CRITERIA-1D_into_ZENTRA_cloud_preprint.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W4210913894",
+      "doi": "10.1155/2022/2207252",
+      "stratum": "A",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://downloads.hindawi.com/journals/misy/2022/2207252.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W4220790666",
+      "doi": "10.4995/thesis/10251/181643",
+      "stratum": "A",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://riunet.upv.es/bitstream/10251/181643/1/Gonzalez%20-%20DISENO%20ESPECIFICACION%20IMPLEMENTACION%20Y%20VALIDACION%20DE%20HABILITADORES%20DIGITALES%20PARA%20LA%20I....pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 500"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4220865897",
+      "doi": "10.1016/j.eng.2022.02.008",
+      "stratum": "A",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S2095809922001461/pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 403"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4224282622",
+      "doi": "10.1016/j.gsf.2022.101400",
+      "stratum": "A",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S1674987122000536/pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 403"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4225099659",
+      "doi": "10.1016/j.jmsy.2022.04.003",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://re.public.polimi.it/bitstream/11311/1214849/2/0A%20learning%20workflow%20based%20on%20an%20integrated%20digital%20toolkit%20to%20support%20education%20in%20manufacturing%20system%20engineering.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W4226271820",
+      "doi": "10.1007/978-3-030-98876-0_7",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-98876-0_7.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 326967,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-030-98876-0_7?error=cookies_not_supported&code=0d57c847-a701-48f0-a208-be6b1c1cf002"
+        },
+        {
+          "url": "https://hal.science/hal-03683695",
+          "source": "semantic scholar",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://hal.science/hal-03683695"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4226481803",
+      "doi": "10.1145/3512716.3512719",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://www.preprints.org/manuscript/202108.0163/v1/download",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html",
+          "bytes": 2710,
+          "final": "https://www.preprints.org/manuscript/202108.0163/v1/download"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4229052159",
+      "doi": "10.1016/j.eswa.2022.117406",
+      "stratum": "A",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/am/pii/S0957417422007485",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 403"
+        },
+        {
+          "url": "https://hal.science/hal-03662183/document",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://hal.science/hal-03662183/document"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4232965248",
+      "doi": "10.17760/d20385566",
+      "stratum": "A",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://repository.library.northeastern.edu/files/neu:m046v319h/fulltext.pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 403"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4283319002",
+      "doi": "10.1007/978-3-031-11609-4_19",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-031-11609-4_19.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 306836,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-031-11609-4_19?error=cookies_not_supported&code=4dce9e8c-408c-4f15-a365-51c41457a7f7"
+        },
+        {
+          "url": "https://hal.inria.fr/hal-03657694",
+          "source": "semantic scholar",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://hal.inria.fr/hal-03657694"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4285112131",
+      "doi": "10.1007/978-3-031-09917-5_19",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://inria.hal.science/hal-03619869/document",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://inria.hal.science/hal-03619869/document"
+        },
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-031-09917-5_19.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 314477,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-031-09917-5_19?error=cookies_not_supported&code=fb014c0a-9930-4205-9826-73eb11a300fb"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4293149060",
+      "doi": "10.1016/j.procs.2022.03.070",
+      "stratum": "A",
+      "oa_status": "diamond",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S1877050922004835/pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 403"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4296202958",
+      "doi": "10.1016/j.measen.2022.100442",
+      "stratum": "B",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S2665917422000769/pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 403"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4296879500",
+      "doi": "10.2298/csis220118046k",
+      "stratum": "A",
+      "oa_status": "diamond",
+      "tried": [
+        {
+          "url": "http://www.doiserbia.nb.rs/ft.aspx?id=1820-02142200046K",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "URLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.doiserbia.nb.rs'. (_ssl.c:1000)\"))"
+        },
+        {
+          "url": "http://localhost:4000/bitstreams/ef65ebb5-a3d1-447c-b11c-862ca74e6098/download",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "URLError(ConnectionRefusedError(111, 'Connection refused'))"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4296913163",
+      "doi": "10.1109/icws55610.2022.00050",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://hal.science/hal-03782626v2/file/Web_Resource_Model__Final_Version_%20%283%29.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://hal.science/hal-03782626v2/file/Web_Resource_Model__Final_Version_%20%283%29.pdf"
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W4303183291",
+      "doi": "10.1016/j.future.2022.10.003",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://iris.univpm.it/bitstream/11566/306821/3/IoT_e_semantica__Secondo_Invio_%20%283%29.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W4310265456",
+      "doi": "10.1007/978-3-031-39141-5_14",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-031-39141-5_14.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 329355,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-031-39141-5_14?error=cookies_not_supported&code=6be10569-006d-4aa8-b935-ad6405c67313"
+        },
+        {
+          "url": "https://hal.science/hal-03872638",
+          "source": "semantic scholar",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://hal.science/hal-03872638"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4310896493",
+      "doi": "10.1145/3508397.3564825",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://univ-pau.hal.science/hal-04206735v1/file/paper_406.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://univ-pau.hal.science/hal-04206735v1/file/paper_406.pdf"
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W4311348022",
+      "doi": "10.4995/thesis/10251/190634",
+      "stratum": "B",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://riunet.upv.es/bitstream/10251/190634/1/Lacalle%20-%20Diseno%20y%20desarrollo%20de%20una%20arquitectura%20de%20Internet%20de%20las%20Cosas%20de%20Nueva%20Generacion%20or....pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 500"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4312275281",
+      "doi": "10.1504/ijmso.2021.10050927",
+      "stratum": "A",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://www.inderscienceonline.com/doi/epdf/10.1504/IJMSO.2021.125893",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        },
+        {
+          "url": "https://www.inderscienceonline.com/doi/full/10.1504/IJMSO.2021.125893",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        },
+        {
+          "url": "https://research.vu.nl/files/220562700/Making_heterogeneous_smart_home_data_interoperable_with_the_SAREF_ontology.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W4312422594",
+      "doi": "10.1016/j.procs.2022.09.245",
+      "stratum": "A",
+      "oa_status": "diamond",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S1877050922011310/pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 403"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4312692005",
+      "doi": "10.1201/9781003337454-7",
+      "stratum": "B",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://api.taylorfrancis.com/content/chapters/oa-edit/download?identifierName=doi&identifierValue=10.1201/9781003337454-7&type=chapterpdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W4313012909",
+      "doi": "10.1016/j.procs.2022.09.341",
+      "stratum": "B",
+      "oa_status": "diamond",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S1877050922012303/pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 403"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4313350992",
+      "doi": "10.1007/978-3-031-18176-4_4",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-031-18176-4_4.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 417318,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-031-18176-4_4?error=cookies_not_supported&code=8c90da7d-1e76-4b7f-a03a-251c80a9a853"
+        },
+        {
+          "url": "https://hal.science/hal-03920430",
+          "source": "semantic scholar",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://hal.science/hal-03920430"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4313651584",
+      "doi": "10.1145/3567445.3571103",
+      "stratum": "B",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://dl.acm.org/doi/pdf/10.1145/3567445.3571103",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        },
+        {
+          "url": "https://keele-repository.worktribe.com/preview/461182/3567445.3571103.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W4318482858",
+      "doi": "10.52866/ijcsm.2023.01.01.0016",
+      "stratum": "B",
+      "oa_status": "diamond",
+      "tried": [
+        {
+          "url": "https://journal.esj.edu.iq/index.php/IJCM/article/download/492/269",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 404"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4320488768",
+      "doi": "10.1016/j.aei.2023.101903",
+      "stratum": "A",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://ars.els-cdn.com/content/image/1-s2.0-S1474034623000319-ga1_lrg.jpg",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "image/jpeg",
+          "bytes": 194411,
+          "final": "https://ars.els-cdn.com/content/image/1-s2.0-S1474034623000319-ga1_lrg.jpg"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4321107447",
+      "doi": "10.4995/thesis/10251/191878",
+      "stratum": "A",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://riunet.upv.es/bitstreams/4e0ae059-978c-40c4-bd2f-48ce8f83f3a1/download",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://riunet.upv.es/bitstreams/4e0ae059-978c-40c4-bd2f-48ce8f83f3a1/download"
+        },
+        {
+          "url": "https://riunet.upv.es/bitstream/10251/191878/4/Jabla%20-%20Towards%20an%20approach%20for%20intelligent%20adaptation%20decision-making%20of%20pervasive%20middleware.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://riunet.upv.es/bitstream/10251/191878/4/Jabla%20-%20Towards%20an%20approach%20for%20intelligent%20adaptation%20decision-making%20of%20pervasive%20middleware.pdf"
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W4321383995",
+      "doi": "10.26868/29761662.2022.41",
+      "stratum": "A",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://publications.ibpsa.org/proceedings/bausim/2022/papers/bausim2022_Ihlenburg_Moritz.pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 403"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4322766180",
+      "doi": "10.1016/j.ins.2023.02.078",
+      "stratum": "A",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/am/pii/S0020025523002748",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 403"
+        },
+        {
+          "url": "https://hal.u-pec.fr/hal-04030417v1/file/S0020025523002748.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://hal.u-pec.fr/hal-04030417v1/file/S0020025523002748.pdf"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4327917721",
+      "doi": "10.20944/preprints202303.0331.v1",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://www.preprints.org/manuscript/202303.0331/v1/download",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html",
+          "bytes": 2711,
+          "final": "https://www.preprints.org/manuscript/202303.0331/v1/download"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4367319156",
+      "doi": "10.1145/3543873.3587357",
+      "stratum": "A",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://dl.acm.org/doi/pdf/10.1145/3543873.3587357",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        },
+        {
+          "url": "https://hal.science/hal-04230234v1/document",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://hal.science/hal-04230234v1/document"
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W4376277274",
+      "doi": "10.3990/1.9789036556187",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://research.utwente.nl/files/304435731/ronzhin.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        },
+        {
+          "url": "https://research.utwente.nl/en/publications/4538c741-29c5-4bb3-ad22-b234653f8f87",
+          "source": "semantic scholar",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html;charset=UTF-8",
+          "bytes": 85710,
+          "final": "https://research.utwente.nl/en/publications/semantic-enrichment-and-exploratory-search-of-spatiotemporal-data/"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4377098706",
+      "doi": "10.20868/upm.thesis.73105",
+      "stratum": "A",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://oa.upm.es/73105/1/SERGIO_MUNOZ_LOPEZ.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://oa.upm.es/.within.website/?redir=https%3A%2F%2Foa.upm.es%2F73105%2F1%2FSERGIO_MUNOZ_LOPEZ.pdf"
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W4378211293",
+      "doi": "10.1016/j.iot.2023.100834",
+      "stratum": "B",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://flore.unifi.it/bitstream/2158/1323733/1/MngMultipleDataModelsBrokers-v2-1_ipla-pn2-clean.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        },
+        {
+          "url": "https://doi.org/10.1016/j.iot.2023.100834",
+          "source": "semantic scholar",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html;charset=UTF-8",
+          "bytes": 2720,
+          "final": "https://linkinghub.elsevier.com/retrieve/pii/S2542660523001579"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4379800884",
+      "doi": "10.1007/978-3-031-34560-9_5",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://upcommons.upc.edu/bitstream/2117/391792/3/Modeling%2bContext-Aware%2bEvents%2band%2bResponses%2bin%2ban%2bIoT%2bEnvironment.pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 418"
+        },
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-031-34560-9_5.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 331544,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-031-34560-9_5?error=cookies_not_supported&code=dac099b0-dfad-4de3-bcdc-ee890a19f8f5"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4381786701",
+      "doi": "10.1109/wf-iot54382.2022.10152138",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://cris.unibo.it/bitstream/11585/935993/3/wf_121.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W4382358393",
+      "doi": "10.1016/j.iot.2023.100855",
+      "stratum": "A",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://upcommons.upc.edu/bitstreams/120ef532-9af8-4c70-a38e-c671e9143a1a/download",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 418"
+        },
+        {
+          "url": "https://doi.org/10.1016/j.iot.2023.100855",
+          "source": "semantic scholar",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html;charset=UTF-8",
+          "bytes": 2675,
+          "final": "https://linkinghub.elsevier.com/retrieve/pii/S2542660523001786"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4383500592",
+      "doi": "10.1002/9781119863663.ch22",
+      "stratum": "A",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/9781119863663.ch22",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        },
+        {
+          "url": "https://hal.science/hal-04390046v1/file/Wiley_handbook_chapter_FARUFFINI_VICTORINO_ABEL_last_v2.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://hal.science/hal-04390046v1/file/Wiley_handbook_chapter_FARUFFINI_VICTORINO_ABEL_last_v2.pdf"
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W4383682557",
+      "doi": "10.35490/ec3.2023.262",
+      "stratum": "A",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://ec-3.org/publications/conferences/EC32023/papers/EC32023_262.pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 404"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4384695933",
+      "doi": "10.1145/3609336",
+      "stratum": "A",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://dl.acm.org/doi/pdf/10.1145/3609336",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        },
+        {
+          "url": "https://orca.cardiff.ac.uk/id/eprint/161148/1/IOT_Data_Marketplaces_V4.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W4386597545",
+      "doi": "10.11834/jrs.20233111",
+      "stratum": "A",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://www.ygxb.ac.cn/rc-pub/front/front-article/download/41791977/lowqualitypdf/湿地监测背景下的语义虚拟地理环境初探.pdf",
+          "source": "earlier",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 7521318,
+          "sha256": "a5e135c41971cf0ed561f5322aa0f7231833b26fa061995c9f1936bc1f955520"
+        }
+      ],
+      "outcome": "text"
+    },
+    {
+      "openalex": "W4387769623",
+      "doi": "10.1007/978-3-031-46587-1_5",
+      "stratum": "B",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-031-46587-1_5.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 384511,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-031-46587-1_5?error=cookies_not_supported&code=705f1bff-f00e-4b31-939b-f9767d383510"
+        },
+        {
+          "url": "https://research.utwente.nl/files/524636462/978-3-031-46587-1_5.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        },
+        {
+          "url": "https://research.utwente.nl/en/publications/dde5e4ee-75f9-494d-b3c6-d976cd6e90a2",
+          "source": "semantic scholar",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html;charset=UTF-8",
+          "bytes": 74683,
+          "final": "https://research.utwente.nl/en/publications/building-anontological-bridge-between-supply-chain-resilience-and/"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4387960519",
+      "doi": "10.1007/978-3-031-47112-4_30",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://hal.science/hal-04714781v1/file/2023_SmartFoodER__CoffeeWKG.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://hal.science/hal-04714781v1/file/2023_SmartFoodER__CoffeeWKG.pdf"
+        },
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-031-47112-4_30.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 327156,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-031-47112-4_30?error=cookies_not_supported&code=4dc17020-359b-45db-bd71-06b76a2f7fc9"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4388759861",
+      "doi": "10.3233/ais-220482",
+      "stratum": "B",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://content.iospress.com:443/download/journal-of-ambient-intelligence-and-smart-environments/ais220482?id=journal-of-ambient-intelligence-and-smart-environments%2Fais220482",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        },
+        {
+          "url": "https://hal.science/hal-04396046v1/document",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://hal.science/hal-04396046v1/document"
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W4389069639",
+      "doi": "10.1002/9783433611494.ch11",
+      "stratum": "A",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/9783433611494.ch11",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W4389223288",
+      "doi": "10.1504/ijmso.2023.10060807",
+      "stratum": "A",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://doi.org/10.1504/ijmso.2023.135332",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html",
+          "bytes": 959,
+          "final": "https://www.inderscience.com/filter.php?id=135332"
+        },
+        {
+          "url": "http://dx.doi.org/10.1504/ijmso.2023.10060807",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html",
+          "bytes": 956,
+          "final": "https://www.inderscience.com/filter.php?id=10060807"
+        },
+        {
+          "url": "https://hal.science/hal-04420766/document",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://hal.science/hal-04420766/document"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4389299321",
+      "doi": "10.1016/j.knosys.2023.111252",
+      "stratum": "A",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://hal.inrae.fr/hal-04374989v1/file/1-s2.0-S0950705123010018-main.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://hal.inrae.fr/hal-04374989v1/file/1-s2.0-S0950705123010018-main.pdf"
+        },
+        {
+          "url": "https://doi.org/10.1016/j.knosys.2023.111252",
+          "source": "semantic scholar",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html;charset=UTF-8",
+          "bytes": 2708,
+          "final": "https://linkinghub.elsevier.com/retrieve/pii/S0950705123010018"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4389358654",
+      "doi": "10.1016/j.jag.2023.103601",
+      "stratum": "A",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://upcommons.upc.edu/bitstreams/96c98491-ac36-4d22-a8ce-1197a13b8e04/download",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 418"
+        },
+        {
+          "url": "https://doi.org/10.1016/j.jag.2023.103601",
+          "source": "semantic scholar",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html;charset=UTF-8",
+          "bytes": 2729,
+          "final": "https://linkinghub.elsevier.com/retrieve/pii/S1569843223004259"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4389621977",
+      "doi": "10.1016/j.iot.2023.101030",
+      "stratum": "B",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://oa.upm.es/81568/1/10148374.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://oa.upm.es/.within.website/?redir=https%3A%2F%2Foa.upm.es%2F81568%2F1%2F10148374.pdf"
+        },
+        {
+          "url": "https://doi.org/10.1016/j.iot.2023.101030",
+          "source": "semantic scholar",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html;charset=UTF-8",
+          "bytes": 2725,
+          "final": "https://linkinghub.elsevier.com/retrieve/pii/S2542660523003530"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4390308294",
+      "doi": "10.1007/978-3-031-74633-8_29",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://hal.science/hal-04357877v1/document",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://hal.science/hal-04357877v1/document"
+        },
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-031-74633-8_29.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 310036,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-031-74633-8_29?error=cookies_not_supported&code=86004a86-731a-4b7b-b736-c3474b36aa4e"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4390980880",
+      "doi": "10.20944/preprints202401.1331.v1",
+      "stratum": "B",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://www.preprints.org/manuscript/202401.1331/v1/download",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html",
+          "bytes": 2710,
+          "final": "https://www.preprints.org/manuscript/202401.1331/v1/download"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4392211947",
+      "doi": "10.36253/10.36253/979-12-215-0289-3.75",
+      "stratum": "A",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://research.aalto.fi/files/147900570/39623.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W4392860515",
+      "doi": "10.11834/jrs.20222302",
+      "stratum": "A",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://www.ygxb.ac.cn/rc-pub/front/front-article/download/32870544/lowqualitypdf/å°çè§æµç¥è¯æ¢çº½ï¼åæ¶µãå³é®ææ¯ä¸å±æ.pdf",
+          "source": "earlier",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 13184361,
+          "sha256": "1386aadb736bd43921b7816a6a53d9da61576aa29896b2b15e36f8bd8a355543"
+        }
+      ],
+      "outcome": "text"
+    },
+    {
+      "openalex": "W4393067627",
+      "doi": "10.1145/3627050.3627060",
+      "stratum": "A",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://dl.acm.org/doi/pdf/10.1145/3627050.3627060",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W4393080496",
+      "doi": "10.1145/3627050.3630731",
+      "stratum": "A",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://dl.acm.org/doi/pdf/10.1145/3627050.3630731",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        },
+        {
+          "url": "https://hal-emse.ccsd.cnrs.fr/emse-04316312/file/IoT_conference-1.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://hal-emse.ccsd.cnrs.fr/emse-04316312/file/IoT_conference-1.pdf"
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W4396753210",
+      "doi": "10.1007/978-3-031-60796-7_5",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://hal.science/hal-04703071/document",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://hal.science/hal-04703071/document"
+        },
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-031-60796-7_5.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 350705,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-031-60796-7_5?error=cookies_not_supported&code=34e3ef88-6cec-459a-892f-eb82e177bb50"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4397048914",
+      "doi": "10.1007/978-3-031-60635-9_6",
+      "stratum": "B",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-031-60635-9_6.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 321819,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-031-60635-9_6?error=cookies_not_supported&code=d46ce861-38bc-480a-9a72-98f3627b88c7"
+        },
+        {
+          "url": "https://research.vu.nl/files/367793623/OfficeGraph_A_Knowledge_Graph_of_Office_Building_IoT_Measurements.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        },
+        {
+          "url": "https://research.vu.nl/en/publications/3a7f0e77-7041-4642-9ead-88d87c3080e1",
+          "source": "semantic scholar",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html;charset=UTF-8",
+          "bytes": 65873,
+          "final": "https://research.vu.nl/en/publications/officegraph-a-knowledge-graph-ofoffice-building-iot-measurements/"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4397048916",
+      "doi": "10.1007/978-3-031-60635-9_14",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://biblio.vub.ac.be/vubirfiles/110248782/vanDeWynckel_ESWC2024.pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 503"
+        },
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-031-60635-9_14.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 319224,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-031-60635-9_14?error=cookies_not_supported&code=43b58288-647a-4ddb-948c-d6cd2140cc2f"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4399235608",
+      "doi": "10.4995/thesis/10251/204584",
+      "stratum": "A",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://riunet.upv.es/bitstreams/bde81f4e-dbdb-4867-9c9c-0edc4a3a9905/download",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://riunet.upv.es/bitstreams/bde81f4e-dbdb-4867-9c9c-0edc4a3a9905/download"
+        },
+        {
+          "url": "https://doi.org/10.4995/thesis/10251/204584",
+          "source": "semantic scholar",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://riunet.upv.es/handle/10251/204584"
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W4399849398",
+      "doi": "10.1016/j.autcon.2024.105579",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "http://ira.lib.polyu.edu.hk/bitstream/10397/108203/1/Xu_Semantic_Model-based_Large-scale.pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "ConnectionResetError(104, 'Connection reset by peer')"
+        },
+        {
+          "url": "http://hdl.handle.net/10397/108203",
+          "source": "semantic scholar",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html;charset=UTF-8",
+          "bytes": 51714,
+          "final": "https://ira.lib.polyu.edu.hk/handle/10397/108203"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4400510312",
+      "doi": "10.1007/978-3-031-65411-4_22",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://nottingham-repository.worktribe.com/preview/32172496/CLF2024_GiovannaMartinezArellano_final.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        },
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-031-65411-4_22.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 305602,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-031-65411-4_22?error=cookies_not_supported&code=4a8e1c5b-65b9-4de3-834b-5cd3daa2d36d"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4401996679",
+      "doi": "10.1016/j.compenvurbsys.2024.102178",
+      "stratum": "A",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "http://hdl.handle.net/20.500.11850/691695",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://www.research-collection.ethz.ch/entities/publication/cd6c55d3-a500-4815-a5cc-452aa3ef3667"
+        },
+        {
+          "url": "https://doi.org/10.1016/j.compenvurbsys.2024.102178",
+          "source": "semantic scholar",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html;charset=UTF-8",
+          "bytes": 2694,
+          "final": "https://linkinghub.elsevier.com/retrieve/pii/S0198971524001078"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4402266556",
+      "doi": "10.1007/978-3-031-65894-5_18",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-031-65894-5_18.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 339905,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-031-65894-5_18?error=cookies_not_supported&code=96d3c298-963c-4257-a078-1b73721d65a6"
+        },
+        {
+          "url": "https://inria.hal.science/hal-05228567",
+          "source": "semantic scholar",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://inria.hal.science/hal-05228567"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4402267374",
+      "doi": "10.1007/978-3-031-65894-5_21",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://real.mtak.hu/205347/1/APMS2024___Extended_scene_graph2.pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 401"
+        },
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-031-65894-5_21.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 340483,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-031-65894-5_21?error=cookies_not_supported&code=527d10ec-b3f7-42f4-9bcc-c99662401df4"
+        },
+        {
+          "url": "https://inria.hal.science/hal-05228571",
+          "source": "semantic scholar",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://inria.hal.science/hal-05228571"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4402409505",
+      "doi": "10.1515/auto-2024-0006",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://eprints.soton.ac.uk/501803/1/at_Paper_Wissensmodellierung.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 401
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W4403103512",
+      "doi": "10.1145/3698768",
+      "stratum": "B",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://orca.cardiff.ac.uk/id/eprint/173063/1/Azhar_PAPER_01_V1_R1%20%289%29.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        },
+        {
+          "url": "https://orca.cardiff.ac.uk/id/eprint/163569/1/PAPER01_ORCA.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W4403584302",
+      "doi": "10.1007/978-3-031-39650-2_16",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://digibug.ugr.es/bitstream/10481/97293/3/978-3-031-39650-2_16.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://digibug.ugr.es/bitstream/10481/97293/3/978-3-031-39650-2_16.pdf"
+        },
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-031-39650-2_16.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 427593,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-031-39650-2_16?error=cookies_not_supported&code=95790ea4-bebe-4200-b419-5531f0600353"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4404206332",
+      "doi": "10.1007/s12136-024-00619-x",
+      "stratum": "B",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://iris.unitn.it/bitstream/11572/471411/4/FumagalliEtAl2024_post_print_compressed.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        },
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/s12136-024-00619-x.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 430426,
+          "final": "https://link.springer.com/article/10.1007/s12136-024-00619-x?error=cookies_not_supported&code=19388f4a-f5bb-4daf-98d9-877192ca0376"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4404610891",
+      "doi": "10.1007/978-3-031-77792-9_9",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-031-77792-9_9.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 401302,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-031-77792-9_9?error=cookies_not_supported&code=0bbb4f55-6fd8-4ea7-abc9-b0bbcf900a4e"
+        },
+        {
+          "url": "https://research.vu.nl/files/408390551/Structured_Representations_for_Narratives.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4404611367",
+      "doi": "10.1007/978-3-031-77792-9_19",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-031-77792-9_19.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 329814,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-031-77792-9_19?error=cookies_not_supported&code=ee61d399-ba50-420a-82fa-f70660bab010"
+        },
+        {
+          "url": "https://research.vu.nl/files/408549395/ORKA-An_Ontology_for_Robotic_Knowledge_Acquisition.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4404699345",
+      "doi": "10.1111/exsy.13792",
+      "stratum": "A",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/exsy.13792",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W4404838075",
+      "doi": "10.1016/j.procs.2024.09.563",
+      "stratum": "A",
+      "oa_status": "diamond",
+      "tried": [
+        {
+          "url": "https://hal.science/hal-04907458/document",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://hal.science/hal-04907458/document"
+        },
+        {
+          "url": "https://doi.org/10.1016/j.procs.2024.09.563",
+          "source": "semantic scholar",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html;charset=UTF-8",
+          "bytes": 2698,
+          "final": "https://linkinghub.elsevier.com/retrieve/pii/S1877050924026115"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4407933926",
+      "doi": "10.1007/978-3-031-81974-2_4",
+      "stratum": "B",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-031-81974-2_4.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 326977,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-031-81974-2_4?error=cookies_not_supported&code=7fa629c6-a222-4f0c-b955-6aca8a9965b2"
+        },
+        {
+          "url": "https://research.vu.nl/files/446367674/MTSR_2024_Weerdt_RepresentationLearning.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        },
+        {
+          "url": "https://research.vu.nl/en/publications/eb1184f4-e5d3-4556-8412-a3060f58c851",
+          "source": "semantic scholar",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html;charset=UTF-8",
+          "bytes": 64590,
+          "final": "https://research.vu.nl/en/publications/representation-learning-oniot-knowledge-graphs/"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4408421128",
+      "doi": "10.1007/978-3-031-84208-5_36",
+      "stratum": "A",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-031-84208-5_36.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 330736,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-031-84208-5_36?error=cookies_not_supported&code=5b6cca20-24cd-46dd-8f86-c740c93ec3cd"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4408472960",
+      "doi": "10.1016/j.autcon.2025.106111",
+      "stratum": "A",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://hal.science/hal-05043640v1/document",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://hal.science/hal-05043640v1/document"
+        },
+        {
+          "url": "https://doi.org/10.1016/j.autcon.2025.106111",
+          "source": "semantic scholar",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html;charset=UTF-8",
+          "bytes": 2691,
+          "final": "https://linkinghub.elsevier.com/retrieve/pii/S0926580525001517"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4409191336",
+      "doi": "10.5463/thesis.1144",
+      "stratum": "A",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://research.vu.nl/files/404461129/thesisinhoudfinalrvdw%20-%2067ef8da182dfb.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W4410189209",
+      "doi": "10.21248/gups.91076",
+      "stratum": "A",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "http://publikationen.ub.uni-frankfurt.de/files/91076/Dissertation_Koschowoj_online.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://publikationen.ub.uni-frankfurt.de/files/91076/Dissertation_Koschowoj_online.pdf"
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W4410794932",
+      "doi": "10.1016/j.autcon.2025.106301",
+      "stratum": "A",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://research.aalto.fi/files/208273972/1-s2.0-S0926580525003413-main-7.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        },
+        {
+          "url": "https://doi.org/10.1016/j.autcon.2025.106301",
+          "source": "semantic scholar",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html;charset=UTF-8",
+          "bytes": 2685,
+          "final": "https://linkinghub.elsevier.com/retrieve/pii/S0926580525003413"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4411959433",
+      "doi": "10.1007/978-3-031-85316-6_8",
+      "stratum": "B",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://hal.science/hal-05234933v1/document",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://hal.science/hal-05234933v1/document"
+        },
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-031-85316-6_8.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 335159,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-031-85316-6_8?error=cookies_not_supported&code=e86d1e3f-d6f9-4d24-bf6a-e3ce2f2124c1"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4412939649",
+      "doi": "10.1109/jiot.2025.3595556",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://cris.unibo.it/bitstream/11585/1039273/3/DeepMetaIoT_Resubmission.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W4414030964",
+      "doi": "10.1016/j.ces.2025.122494",
+      "stratum": "A",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/am/pii/S0009250925013156",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 403"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4414322648",
+      "doi": "10.1109/ecmr65884.2025.11163145",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-05165190/document",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://hal-lirmm.ccsd.cnrs.fr/lirmm-05165190/document"
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W4415398051",
+      "doi": "10.1109/etfa65518.2025.11205645",
+      "stratum": "B",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://iris.univpm.it/bitstream/11566/353633/1/HOMEY__Securing_IoE_Semantic_Data_Stream____ETFA_2025%20%286%29.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W4415507007",
+      "doi": "10.1007/978-3-032-08887-1_12",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://hal.science/hal-05242346v1/document",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://hal.science/hal-05242346v1/document"
+        },
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-032-08887-1_12.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 341002,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-032-08887-1_12?error=cookies_not_supported&code=f7e8d781-4f6e-490d-80f2-ed404f9958d8"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4415637978",
+      "doi": "10.1007/978-3-032-09530-5_16",
+      "stratum": "A",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-032-09530-5_16.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 351398,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-032-09530-5_16?error=cookies_not_supported&code=2dd42c4d-ca3f-4620-8ca8-03fb28ab9b6b"
+        },
+        {
+          "url": "https://doi.org/10.1007/978-3-032-09530-5_16",
+          "source": "semantic scholar",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 351397,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-032-09530-5_16?error=cookies_not_supported&code=310c0d3b-1b94-4c40-9035-dfc23a50bc89"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4415705993",
+      "doi": "10.1177/18761364251389165",
+      "stratum": "A",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://journals.sagepub.com/doi/pdf/10.1177/18761364251389165?download=true",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W4415974463",
+      "doi": "10.1016/j.procs.2025.09.494",
+      "stratum": "A",
+      "oa_status": "diamond",
+      "tried": [
+        {
+          "url": "https://hal.science/hal-05386529v1/document",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://hal.science/hal-05386529v1/document"
+        },
+        {
+          "url": "https://doi.org/10.1016/j.procs.2025.09.494",
+          "source": "semantic scholar",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html;charset=UTF-8",
+          "bytes": 2724,
+          "final": "https://linkinghub.elsevier.com/retrieve/pii/S1877050925031679"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W7127082105",
+      "doi": "10.1007/978-3-032-15579-5_9",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-032-15579-5_9.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 328885,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-032-15579-5_9?error=cookies_not_supported&code=c468c5f7-15d9-44e7-9686-e5470bbc1c60"
+        },
+        {
+          "url": "https://research.rug.nl/files/1488529791/978-3-032-15579-5_9.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        },
+        {
+          "url": "https://research.rug.nl/en/publications/e2ea0ce0-4895-4b00-b7f1-0a2c8ebc8ec6",
+          "source": "semantic scholar",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html;charset=UTF-8",
+          "bytes": 60199,
+          "final": "https://research.rug.nl/en/publications/a-unified-ontology-framework-for-human-centered-digital-twins/"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W7148571504",
+      "doi": "10.70675/05617984zbbdaz4831z8689ze7f03b0b905c",
+      "stratum": "B",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "http://www.theses.fr/2018ESAE0006/document",
+          "source": "earlier",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 6508406,
+          "sha256": "177baa28efbd3a249d8d08f0a091e531206bd529ef4d3ed2bb92a56e66daa097"
+        }
+      ],
+      "outcome": "text"
+    },
+    {
+      "openalex": "W7148658401",
+      "doi": "10.70675/b5332666zab0ez4cafza4ffz41baec494c16",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://hal.science/tel-02073961v2/document",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://hal.science/tel-02073961v2/document"
+        },
+        {
+          "url": "https://hal.archives-ouvertes.fr/tel-02073961",
+          "source": "semantic scholar",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://hal.archives-ouvertes.fr/tel-02073961"
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W7148864503",
+      "doi": "10.70675/baa75ef9zdc4bz4ac1z8f0bz3ed28511db6d",
+      "stratum": "B",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://theses.hal.science/tel-02059346v1/file/these_SURI-Kunal_2019.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://theses.hal.science/tel-02059346v1/file/these_SURI-Kunal_2019.pdf"
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W7149006623",
+      "doi": "10.70675/bca5ea9bz0b35z4175zad58ze1a7f0962c0e",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://theses.hal.science/tel-04943154v2/document",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://theses.hal.science/tel-04943154v2/document"
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W7149348416",
+      "doi": "10.70675/659fad93z040bz4946z83a5z32b94cd0b214",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://theses.hal.science/tel-03021155/document",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://theses.hal.science/tel-03021155/document"
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W7149550705",
+      "doi": "10.70675/16bdad1fz301bz4772z968ezaaa45d758528",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://oatao.univ-toulouse.fr/28484/1/MASMOUDI_Maroua.pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "URLError(TimeoutError('timed out'))"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W7149554352",
+      "doi": "10.70675/9a85731az6fddz4c6dz8cd9z23b7c0377489",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://theses.hal.science/tel-03181432v1/document",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://theses.hal.science/tel-03181432v1/document"
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W7149694424",
+      "doi": "10.70675/85f17ec4zc240z4ddfz8258z2b707845b47b",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://theses.hal.science/tel-04757261v1/file/2021KarimaKhadir.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://theses.hal.science/tel-04757261v1/file/2021KarimaKhadir.pdf"
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W7150999560",
+      "doi": "10.70675/4d5810a6ze031z49c2z84f5z98a9e1698d97",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://theses.hal.science/tel-03618363v1/file/Dorne_Jordane.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://theses.hal.science/tel-03618363v1/file/Dorne_Jordane.pdf"
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W7151471631",
+      "doi": "10.70675/6b5a5b5ez5748z4e84z930fz9afcda7bc38a",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://theses.hal.science/tel-04121008v2/file/thesisguennouni.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://theses.hal.science/tel-04121008v2/file/thesisguennouni.pdf"
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W7151763984",
+      "doi": "10.70675/a18797e6zeb61z4b8dzb124z42e95cc18231",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://theses.hal.science/tel-04665981v1/file/These_UTC_Piers_Barrios.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://theses.hal.science/tel-04665981v1/file/These_UTC_Piers_Barrios.pdf"
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W7152004493",
+      "doi": "10.70675/bbb9d9cbz9186z4f07z9318z4741db819544",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://hal.science/tel-04836055v2/file/PhDThesisFelipeVargas-1.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://hal.science/tel-04836055v2/file/PhDThesisFelipeVargas-1.pdf"
+        },
+        {
+          "url": "https://theses.hal.science/tel-04964136v1/document",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://theses.hal.science/tel-04964136v1/document"
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W7152083400",
+      "doi": "10.70675/6f8c36a7z282fz4babz944cz0316a1640061",
+      "stratum": "B",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://theses.hal.science/tel-05436857/document",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://theses.hal.science/tel-05436857/document"
+        },
+        {
+          "url": "https://theses.hal.science/tel-05436857v1/file/thesislaamech.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://theses.hal.science/tel-05436857v1/file/thesislaamech.pdf"
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W7152092965",
+      "doi": "10.70675/133290abz5fa6z47fcza887zcdb6e461c5ac",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://theses.hal.science/tel-04618246/document",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://theses.hal.science/tel-04618246/document"
+        },
+        {
+          "url": "https://theses.hal.science/tel-04618246v2/file/FERNANDEZ_2023_archivage.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://theses.hal.science/tel-04618246v2/file/FERNANDEZ_2023_archivage.pdf"
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W7152396898",
+      "doi": "10.70675/e3fd74d2zac48z48e0zba3czc4d4af71392e",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://theses.hal.science/tel-05125167/document",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://theses.hal.science/tel-05125167/document"
+        },
+        {
+          "url": "https://inria.hal.science/tel-04995904/document",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://inria.hal.science/tel-04995904/document"
+        },
+        {
+          "url": "https://theses.hal.science/tel-05125167v1/file/TH2025OUELHADJSARRA.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 200,
+          "final": "https://theses.hal.science/tel-05125167v1/file/TH2025OUELHADJSARRA.pdf"
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W7160491513",
+      "doi": "10.1007/978-3-032-42029-9_10",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-032-42029-9_10.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 321587,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-032-42029-9_10?error=cookies_not_supported&code=c393e935-951f-4586-b1db-bb9bd263858c"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W7160561466",
+      "doi": "10.1007/978-3-032-25159-6_8",
+      "stratum": "A",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-032-25159-6_8.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 338199,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-032-25159-6_8?error=cookies_not_supported&code=e43945c9-b846-4cd4-936b-090bd476b8c8"
+        },
+        {
+          "url": "https://doi.org/10.1007/978-3-032-25159-6_8",
+          "source": "semantic scholar",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 338199,
+          "final": "https://link.springer.com/chapter/10.1007/978-3-032-25159-6_8?error=cookies_not_supported&code=c6c79131-3909-48dd-884c-489509c7cac2"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W7161559072",
+      "doi": "10.1080/13658816.2026.2668678",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://research-information.bris.ac.uk/files/493032410/AVKG_IJGIS-1.pdf",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        },
+        {
+          "url": "https://research-information.bris.ac.uk/en/publications/0b53965f-9f1f-41f8-b107-5224a520bd3b",
+          "source": "semantic scholar",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html;charset=UTF-8",
+          "bytes": 58510,
+          "final": "https://research-information.bris.ac.uk/en/publications/avkg-an-interlinked-cross-domain-knowledge-graph-for-smart-autono/"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W7164838172",
+      "doi": "10.3390/s26123807",
+      "stratum": "A",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13306416/pdf/",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 1816,
+          "final": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13306416/pdf/sensors-26-03807.pdf"
+        },
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13306416/pdf/sensors-26-03807.pdf",
+          "source": "earlier",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 1817,
+          "final": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13306416/pdf/sensors-26-03807.pdf"
+        },
+        {
+          "url": "https://doi.org/10.3390/s26123807",
+          "source": "semantic scholar",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html",
+          "bytes": 2216,
+          "final": "https://www.mdpi.com/1424-8220/26/12/3807"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W7171940276",
+      "doi": "10.1016/j.soilad.2026.100132",
+      "stratum": "A",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S2950289626000345/pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 403"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W7213316317",
+      "doi": "10.1177/14759217261478015",
+      "stratum": "A",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://journals.sagepub.com/doi/pdf/10.1177/14759217261478015?download=true",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W7214725585",
+      "doi": "10.1016/j.prostr.2026.08.071",
+      "stratum": "A",
+      "oa_status": "diamond",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S2452321626006554/pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 403"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W7214739339",
+      "doi": "10.1016/j.prostr.2026.08.097",
+      "stratum": "A",
+      "oa_status": "diamond",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S2452321626006815/pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 403"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W7223564889",
+      "doi": "10.2139/ssrn.7669291",
+      "stratum": "A",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://doi.org/10.2139/ssrn.7669291",
+          "source": "earlier",
+          "outcome": "bot challenge",
+          "status": 403
+        }
+      ],
+      "outcome": "bot challenge"
+    },
+    {
+      "openalex": "W7225094972",
+      "doi": "10.1016/j.procs.2026.10.060",
+      "stratum": "A",
+      "oa_status": "diamond",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S1877050926037191/pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 403"
+        }
+      ],
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W7225115631",
+      "doi": "10.1016/j.procs.2026.09.484",
+      "stratum": "A",
+      "oa_status": "diamond",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S1877050926036379/pdf",
+          "source": "earlier",
+          "outcome": "error",
+          "error": "HTTP 403"
+        }
+      ],
+      "outcome": "failed"
+    }
+  ],
+  "outcomes": {
+    "bot challenge": 69,
+    "failed": 106,
+    "text": 3
+  },
+  "by_source": {
+    "earlier": 3
+  },
+  "failures_by_host": {
+    "link.springer.com not a PDF": 35,
+    "www.sciencedirect.com HTTP 403": 29,
+    "hal.science bot challenge": 23,
+    "doi.org not a PDF": 15,
+    "theses.hal.science bot challenge": 15,
+    "content.iospress.com:443 bot challenge": 6,
+    "cris.unibo.it bot challenge": 6,
+    "dl.acm.org bot challenge": 6,
+    "research.vu.nl bot challenge": 6,
+    "doi.org bot challenge": 5,
+    "www.preprints.org not a PDF": 5,
+    "inria.hal.science bot challenge": 5,
+    "oa.upm.es bot challenge": 4,
+    "onlinelibrary.wiley.com bot challenge": 4,
+    "re.public.polimi.it bot challenge": 4,
+    "upcommons.upc.edu HTTP 418": 4,
+    "riunet.upv.es bot challenge": 4,
+    "pmc.ncbi.nlm.nih.gov not a PDF": 4,
+    "orca.cardiff.ac.uk bot challenge": 4,
+    "univ-pau.hal.science bot challenge": 3,
+    "oatao.univ-toulouse.fr URLError(TimeoutError('timed out'))": 2,
+    "hdl.handle.net bot challenge": 2,
+    "localhost:4000 URLError(ConnectionRefusedError(111, 'Co": 2,
+    "ars.els-cdn.com not a PDF": 2,
+    "research.rug.nl bot challenge": 2,
+    "research.rug.nl not a PDF": 2,
+    "hal.archives-ouvertes.fr bot challenge": 2,
+    "downloads.hindawi.com bot challenge": 2,
+    "iris.unitn.it bot challenge": 2,
+    "riunet.upv.es HTTP 500": 2,
+    "iris.univpm.it bot challenge": 2,
+    "www.inderscienceonline.com bot challenge": 2,
+    "research.utwente.nl bot challenge": 2,
+    "research.utwente.nl not a PDF": 2,
+    "research.aalto.fi bot challenge": 2,
+    "research.vu.nl not a PDF": 2,
+    "journals.sagepub.com bot challenge": 2,
+    "digitalcommons.calpoly.edu bot challenge": 1,
+    "arodes.hes-so.ch not a PDF": 1,
+    "laas.hal.science bot challenge": 1,
+    "www.teses.usp.br URLError(TimeoutError('timed out'))": 1,
+    "iopscience.iop.org not a PDF": 1,
+    "hdl.handle.net HTTP 500": 1,
+    "hdl.handle.net HTTP 405": 1,
+    "orbilu.uni.lu URLError(SSLCertVerificationError(1, '[S": 1,
+    "urn.kb.se bot challenge": 1,
+    "mediatum.ub.tum.de bot challenge": 1,
+    "uwe-repository.worktribe.com bot challenge": 1,
+    "ingenieria.ute.edu.ec bot challenge": 1,
+    "www.scipedia.com not a PDF": 1,
+    "www.degruyter.com not a PDF": 1,
+    "dx.doi.org bot challenge": 1,
+    "research.thea.ie bot challenge": 1,
+    "iris.unito.it bot challenge": 1,
+    "nowpublishers.com bot challenge": 1,
+    "pub.uni-bielefeld.de bot challenge": 1,
+    "repository.library.northeastern.edu HTTP 403": 1,
+    "hal.inria.fr bot challenge": 1,
+    "www.doiserbia.nb.rs URLError(SSLCertVerificationError(1, \"[S": 1,
+    "api.taylorfrancis.com bot challenge": 1,
+    "keele-repository.worktribe.com bot challenge": 1,
+    "journal.esj.edu.iq HTTP 404": 1,
+    "publications.ibpsa.org HTTP 403": 1,
+    "hal.u-pec.fr bot challenge": 1,
+    "flore.unifi.it bot challenge": 1,
+    "ec-3.org HTTP 404": 1,
+    "dx.doi.org not a PDF": 1,
+    "hal.inrae.fr bot challenge": 1,
+    "hal-emse.ccsd.cnrs.fr bot challenge": 1,
+    "biblio.vub.ac.be HTTP 503": 1,
+    "ira.lib.polyu.edu.hk ConnectionResetError(104, 'Connection re": 1,
+    "hdl.handle.net not a PDF": 1,
+    "nottingham-repository.worktribe.com bot challenge": 1,
+    "real.mtak.hu HTTP 401": 1,
+    "eprints.soton.ac.uk bot challenge": 1,
+    "digibug.ugr.es bot challenge": 1,
+    "publikationen.ub.uni-frankfurt.de bot challenge": 1,
+    "hal-lirmm.ccsd.cnrs.fr bot challenge": 1,
+    "research-information.bris.ac.uk bot challenge": 1,
+    "research-information.bris.ac.uk not a PDF": 1
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "stamp": "2026-11-07T1855",
+  "source": "Semantic Scholar S2ORC (s2orc_v2)",
+  "release": "2026-11-03",
+  "shards_in_release": 330,
+  "candidates_from_s2_harvest": "2026-11-07T1353",
+  "candidate_corpus_ids": 2396,
+  "candidate_dois": 2412,
+  "shards": [
+    {
+      "index": 18,
+      "file": "20261106_115907_00079_54abm_0dbe8304-f902-4767-b866-6804292d9b99.gz",
+      "records": 61758,
+      "uncompressed bytes": 3943936577,
+      "kept": 2,
+      "kept as candidates": 1,
+      "kept by strings in the body": 1,
+      "kept by strings, not candidates": 1,
+      "seconds": 118
+    },
+    {
+      "index": 37,
+      "file": "20261106_115907_00079_54abm_1b4f08c9-26d1-4c98-b0a9-d315cca9f322.gz",
+      "records": 61908,
+      "uncompressed bytes": 3944760427,
+      "kept": 4,
+      "kept as candidates": 4,
+      "kept by strings in the body": 1,
+      "kept by strings, not candidates": 0,
+      "seconds": 117
+    },
+    {
+      "index": 77,
+      "file": "20261106_115907_00079_54abm_39071c44-b05f-4a78-8e2a-e341d3c5fe34.gz",
+      "records": 61837,
+      "uncompressed bytes": 3943685087,
+      "kept": 1,
+      "kept as candidates": 1,
+      "kept by strings in the body": 0,
+      "kept by strings, not candidates": 0,
+      "seconds": 81
+    },
+    {
+      "index": 112,
+      "file": "20261106_115907_00079_54abm_5454ab57-110d-48df-bfbe-f8f95e2983c9.gz",
+      "records": 61593,
+      "uncompressed bytes": 3943148807,
+      "kept": 2,
+      "kept as candidates": 2,
+      "kept by strings in the body": 0,
+      "kept by strings, not candidates": 0,
+      "seconds": 64
+    },
+    {
+      "index": 125,
+      "file": "20261106_115907_00079_54abm_5981cd3d-f2c9-4f92-98f3-a98027f3abd9.gz",
+      "records": 61886,
+      "uncompressed bytes": 3942545201,
+      "kept": 1,
+      "kept as candidates": 1,
+      "kept by strings in the body": 0,
+      "kept by strings, not candidates": 0,
+      "seconds": 65
+    },
+    {
+      "index": 160,
+      "file": "20261106_115907_00079_54abm_75941313-e351-4a39-9482-fc6d4a45102d.gz",
+      "records": 61563,
+      "uncompressed bytes": 3941676532,
+      "kept": 2,
+      "kept as candidates": 2,
+      "kept by strings in the body": 1,
+      "kept by strings, not candidates": 0,
+      "seconds": 73
+    },
+    {
+      "index": 195,
+      "file": "20261106_115907_00079_54abm_90eb81be-b984-4550-aaf0-8e1ac960195c.gz",
+      "records": 61867,
+      "uncompressed bytes": 3944574310,
+      "kept": 3,
+      "kept as candidates": 3,
+      "kept by strings in the body": 1,
+      "kept by strings, not candidates": 0,
+      "seconds": 88
+    },
+    {
+      "index": 227,
+      "file": "20261106_115907_00079_54abm_ac131f3b-5e26-4760-becb-a314559c8d3d.gz",
+      "records": 61646,
+      "uncompressed bytes": 3943660387,
+      "kept": 3,
+      "kept as candidates": 2,
+      "kept by strings in the body": 1,
+      "kept by strings, not candidates": 1,
+      "seconds": 73
+    },
+    {
+      "index": 290,
+      "file": "20261106_115907_00079_54abm_df520649-ba91-49c0-a113-d48e9be4ede0.gz",
+      "records": 61951,
+      "uncompressed bytes": 3944369108,
+      "kept": 1,
+      "kept as candidates": 1,
+      "kept by strings in the body": 0,
+      "kept by strings, not candidates": 0,
+      "seconds": 75
+    },
+    {
+      "index": 312,
+      "file": "20261106_115907_00079_54abm_f25f4924-890c-42eb-81bd-54285a2814f9.gz",
+      "records": 61812,
+      "uncompressed bytes": 3941042848,
+      "kept": 1,
+      "kept as candidates": 0,
+      "kept by strings in the body": 1,
+      "kept by strings, not candidates": 1,
+      "seconds": 72
+    }
+  ],
+  "total": {
+    "records": 617821,
+    "uncompressed bytes": 39433399284,
+    "kept": 20,
+    "kept as candidates": 17,
+    "kept by strings in the body": 6,
+    "kept by strings, not candidates": 3
+  },
+  "hits_per_string": {
+    "sosa:hasResult": 2,
+    "sosa:FeatureOfInterest": 2,
+    "w3.org/ns/sosa": 2,
+    "ssn:hasSubSystem": 1,
+    "sosa:observes": 1,
+    "sosa:hasFeatureOfInterest": 1,
+    "sosa:ObservationCollection": 1,
+    "sosa:Property": 1,
+    "sosa:hasSimpleResult": 1,
+    "sosa:Sensor": 1,
+    "sosa:Actuator": 1,
+    "sosa:madeBySensor": 1,
+    "sosa:Observation": 1
+  }
+}

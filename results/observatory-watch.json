@@ -1,0 +1,336 @@
+{
+ "stamp": "2026-11-14T1254",
+ "known": 2919,
+ "new": 40,
+ "works": {
+  "W7127166593": {
+   "title": "Sem4EDA: A Knowledge-Graph and Rule-Based Framework for Automated Fault Detection and Energy Optimization in EDA-IoT Systems",
+   "year": 2026,
+   "doi": "https://doi.org/10.3390/computers15020103",
+   "found_by": [
+    "compton-2012"
+   ]
+  },
+  "W7134263043": {
+   "title": "Leveraging knowledge graphs in facilities management: A scoping review",
+   "year": 2026,
+   "doi": "https://doi.org/10.70401/jbde.2026.0033",
+   "found_by": [
+    "haller-2019"
+   ]
+  },
+  "W7134844717": {
+   "title": "IOTEL: A Tool for Generating IoT-enriched Object-Centric Event Logs",
+   "year": 2026,
+   "doi": "https://doi.org/10.48550/arxiv.2603.07906",
+   "found_by": [
+    "w3c-ssn-2023"
+   ]
+  },
+  "W7148326618": {
+   "title": "The AgriTrust Framework: Federated Semantic Governance for Trusted and Interoperable Agricultural Data Sharing",
+   "year": 2026,
+   "doi": "https://doi.org/10.3390/automation7020057",
+   "found_by": [
+    "w3c-ssn-2023"
+   ]
+  },
+  "W7153120683": {
+   "title": "Spatial and Temporal Knowledge Representation: Ontological Foundations, Semantic Web Standards",
+   "year": 2026,
+   "doi": "https://doi.org/10.3390/electronics15081590",
+   "found_by": [
+    "w3c-ssn-2023"
+   ]
+  },
+  "W7170151005": {
+   "title": "Software requirements for semantic-based antifragile urban mobility decision-support systems under disruption",
+   "year": 2026,
+   "doi": "https://doi.org/10.1016/j.pdisas.2026.100657",
+   "found_by": [
+    "haller-2019"
+   ]
+  },
+  "W7172511560": {
+   "title": "A knowledge-enhanced intelligent controller for heterogeneous measurement nodes: semantic abstraction and closed-loop verification",
+   "year": 2026,
+   "doi": "https://doi.org/10.1088/1361-6501/ae957d",
+   "found_by": [
+    "haller-2019"
+   ]
+  },
+  "W7202044618": {
+   "title": "A FAIR-compliant metadata template for ecosystem digital twins",
+   "year": 2026,
+   "doi": "https://doi.org/10.1016/j.ecoinf.2026.103983",
+   "found_by": [
+    "janowicz-2019"
+   ]
+  },
+  "W7214115984": {
+   "title": "BIM-enabled information delivery for transportation infrastructure operation and maintenance using semantic web technology",
+   "year": 2026,
+   "doi": "https://doi.org/10.13154/294-14900",
+   "found_by": [
+    "compton-2012"
+   ]
+  },
+  "W7223175252": {
+   "title": "AI-Enabled Smart and Precision Agriculture: Smart Sensors, IoT, Deep Learning, Computer Vision, and Decision Support: A Comprehensive Survey",
+   "year": 2026,
+   "doi": "https://doi.org/10.12688/openresafrica.17037.1",
+   "found_by": [
+    "janowicz-2019"
+   ]
+  },
+  "W7225333956": {
+   "title": "From Certified Pairs to a Certified Hub: Reasoner-Checked Crosswalks for the Information Exchange Standard",
+   "year": 2026,
+   "doi": "https://doi.org/10.48550/arxiv.2611.06628",
+   "found_by": [
+    "janowicz-2019",
+    "haller-2019"
+   ]
+  },
+  "W7225716441": {
+   "title": "Toward an SLA-aware Ontology for Dynamic Service Placement in Fog-IoT Environments",
+   "year": 2026,
+   "doi": "https://doi.org/10.1109/wetice70595.2026.11772368",
+   "found_by": [
+    "haller-2019"
+   ]
+  },
+  "W7225829222": {
+   "title": "GeoIoT Core: A Standards-Aligned Bridging Ontology for Semantic Interoperability in Geospatial, Built Environment, and IoT Knowledge Graphs",
+   "year": 2026,
+   "doi": "https://doi.org/10.1145/3845965.3845981",
+   "found_by": [
+    "janowicz-2019",
+    "haller-2019"
+   ]
+  },
+  "W4401459409": {
+   "title": "Graph-Based Digital Decision Support Systems: Introducing BTwin, a Toolkit for Building Performance Management",
+   "year": 2024,
+   "doi": "https://doi.org/10.35490/ec3.2024.242",
+   "found_by": [
+    "compton-2012",
+    "janowicz-2019"
+   ]
+  },
+  "W4404162363": {
+   "title": "Kind of X and X of Interest: An Ontology Design Pattern to Reconcile Web of Thing Ontologies",
+   "year": 2024,
+   "doi": null,
+   "found_by": [
+    "janowicz-2019"
+   ]
+  },
+  "W4414266724": {
+   "title": "DIGITIZING REAL ESTATE AND INDUSTRIAL PARKS: AI, IOT, AND GOVERNANCE CHALLENGES IN EMERGING MARKETS",
+   "year": 2024,
+   "doi": "https://doi.org/10.63125/kbqs6122",
+   "found_by": [
+    "compton-2012",
+    "haller-2019"
+   ]
+  },
+  "W4377192427": {
+   "title": "The Water Health Open Knowledge Graph",
+   "year": 2023,
+   "doi": "https://doi.org/10.48550/arxiv.2305.11051",
+   "found_by": [
+    "compton-2012",
+    "haller-2019"
+   ]
+  },
+  "W4392339810": {
+   "title": "Médecine de précision : la voie ontologique - Application à la psychiatrie",
+   "year": 2023,
+   "doi": "https://doi.org/10.70675/35d7a3efz5c3az4413z8031zdd0c5a66bd19",
+   "found_by": [
+    "haller-2019"
+   ]
+  },
+  "W4404750422": {
+   "title": "Grounding Stream Reasoning Research",
+   "year": 2023,
+   "doi": "https://doi.org/10.4230/tgdk.2.1.2",
+   "found_by": [
+    "compton-2012"
+   ]
+  },
+  "W4407054577": {
+   "title": "The EarthPortal, towards an ontology repository for the Earth System semantic artefacts",
+   "year": 2023,
+   "doi": null,
+   "found_by": [
+    "janowicz-2019"
+   ]
+  },
+  "W4225832252": {
+   "title": "How to Manage Tiny Machine Learning at Scale: An Industrial Perspective",
+   "year": 2022,
+   "doi": "https://doi.org/10.48550/arxiv.2202.09113",
+   "found_by": [
+    "janowicz-2019"
+   ]
+  },
+  "W4291219886": {
+   "title": "SignalKG: Towards Reasoning about the Underlying Causes of Sensor Observations",
+   "year": 2022,
+   "doi": "https://doi.org/10.48550/arxiv.2208.05627",
+   "found_by": [
+    "haller-2019"
+   ]
+  },
+  "W4304731956": {
+   "title": "An Ontology for Defect Detection in Metal Additive Manufacturing",
+   "year": 2022,
+   "doi": "https://doi.org/10.48550/arxiv.2210.04772",
+   "found_by": [
+    "haller-2019"
+   ]
+  },
+  "W3082300565": {
+   "title": "A Formal Approach to Ontology Recommendation for Enhanced Interoperability in Open IoT Ecosystems",
+   "year": 2020,
+   "doi": null,
+   "found_by": [
+    "compton-2012",
+    "janowicz-2019"
+   ]
+  },
+  "W3160207165": {
+   "title": "Generic autonomic adapter architecture and policy model for semantic socio-cyber-physical collaborative network",
+   "year": 2020,
+   "doi": "https://doi.org/10.48780/publications.aston.ac.uk.00042599",
+   "found_by": [
+    "cox-2020-ssn-ext",
+    "cox-2020-ssn-ext"
+   ]
+  },
+  "W4206857894": {
+   "title": "Food transformation process description using PO2 and FoodOn",
+   "year": 2020,
+   "doi": null,
+   "found_by": [
+    "cox-2020-ssn-ext",
+    "cox-2020-ssn-ext",
+    "cox-2020-ssn-ext"
+   ]
+  },
+  "W4289372475": {
+   "title": "Smart Mobility Ontology: Current Trends and Future Directions",
+   "year": 2020,
+   "doi": "https://doi.org/10.48550/arxiv.2012.08622",
+   "found_by": [
+    "janowicz-2019"
+   ]
+  },
+  "W2931209196": {
+   "title": "Maîtrise de la qualité haptique des produits : Formalisation du contrôle haptique et proposition d'une méthodologie de mise en oeuvre",
+   "year": 2019,
+   "doi": "https://doi.org/10.70675/6fc32944zf8f5z4079za75azfd0df1caf8e3",
+   "found_by": [
+    "compton-2012"
+   ]
+  },
+  "W2943108789": {
+   "title": "Digitalisierung im Verkehrswasserbau: BIM, Semantic Web und IoT-Sensorik",
+   "year": 2019,
+   "doi": null,
+   "found_by": [
+    "haller-2019"
+   ]
+  },
+  "W2884489647": {
+   "title": "Gestion d'échantillons pour la recherche scientifique avec Collec-Science",
+   "year": 2018,
+   "doi": null,
+   "found_by": [
+    "cox-2017-oosf"
+   ]
+  },
+  "W2902177037": {
+   "title": "Filtrage, stockage et raisonnement sur de grands volumes de triplets RDF ordonnancés",
+   "year": 2018,
+   "doi": "https://doi.org/10.70675/eabac99ez4576z4c35zbbbez527d40a6e265",
+   "found_by": [
+    "compton-2012"
+   ]
+  },
+  "W2989572172": {
+   "title": "SENS-IT: Semantic Notification of Sensory IoT Data Framework for Smart Environments",
+   "year": 2018,
+   "doi": "https://doi.org/10.20381/ruor-22814",
+   "found_by": [
+    "compton-2012"
+   ]
+  },
+  "W2602687041": {
+   "title": "Prediction of the mid-tracheal level using surface anatomical landmarks in adults: Clinical implication of endotracheal tube insertion depth",
+   "year": 2017,
+   "doi": "https://doi.org/10.1097/md.0000000000006319",
+   "found_by": [
+    "cox-2020-ssn-ext"
+   ]
+  },
+  "W2791570432": {
+   "title": "Modèles partagés et infrastructures ouverte pour l'internet des objets de la ville Intelligente",
+   "year": 2017,
+   "doi": "https://doi.org/10.70675/7e00121fz1d10z4c04z8594z3875563556fa",
+   "found_by": [
+    "compton-2012"
+   ]
+  },
+  "W4392303657": {
+   "title": "OPP_IoT An ontology-based privacy preservation approach for the Internet of Things",
+   "year": 2017,
+   "doi": "https://doi.org/10.70675/a1a5d15dzaff9z4a7czb82az7d52dbcf1b6b",
+   "found_by": [
+    "compton-2012"
+   ]
+  },
+  "W2270097513": {
+   "title": "Edificios inteligentes y sostenibles: arquitectura de percepción y control para la gestión de energía",
+   "year": 2016,
+   "doi": null,
+   "found_by": [
+    "compton-2012"
+   ]
+  },
+  "W2621171748": {
+   "title": "Enabling IoT in Manufacturing: from device to the cloud",
+   "year": 2016,
+   "doi": null,
+   "found_by": [
+    "compton-2012"
+   ]
+  },
+  "W2274925208": {
+   "title": "Design of a Semantic and Holistic Architecture for Sensor Data Integration",
+   "year": 2014,
+   "doi": null,
+   "found_by": [
+    "compton-2012"
+   ]
+  },
+  "W591856975": {
+   "title": "A semantic web approach to enable the holistic environmental and energy management of buildings",
+   "year": 2014,
+   "doi": "https://doi.org/10.13025/17792",
+   "found_by": [
+    "compton-2012"
+   ]
+  },
+  "W2115915072": {
+   "title": "Towards a semantically enhanced control architecture",
+   "year": 2012,
+   "doi": "https://doi.org/10.1109/isic.2012.6398273",
+   "found_by": [
+    "w3c-rec-2017"
+   ]
+  }
+ }
+}

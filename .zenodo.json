@@ -1,0 +1,41 @@
+{
+  "title": "SOSA/SSN Usage Observatory",
+  "upload_type": "dataset",
+  "version": "1.0.0",
+  "publication_date": "2026-11-14",
+  "description": "<p>An observatory of how the W3C/OGC Semantic Sensor Network ontology (SSN) and its core, SOSA, are used in the scientific literature: every work that cites a publication on SOSA/SSN or writes its names in its full text (3,067 works in this release), with how it uses SOSA/SSN (engagement, version, modules, terms, results and values, errors, domain, companion vocabularies, published artefacts, reported gaps, modelling patterns), coded by language models, agents and scripts.</p><p>The release holds the knowledge graph (Turtle; FaBiO, CiTO, MOD, DCAT, PROV-O), the data of the web application (https://ci.mines-stetienne.fr/sosa-ssn-observatory/), the harvests, codes and figures it is built from, and the code to rebuild it. No full text and no quotation of the works are included.</p><p>Licences: data (protocol/, raw/, corpus/, screening/, results/, explorer/data/) under CC BY 4.0; code (scripts/, explorer/) under MIT; Sparklis (explorer/sparklis/) under Apache 2.0. OpenAlex records are CC0; data of the works known only to Semantic Scholar are from the Semantic Scholar Academic Graph (ODC-BY).</p>",
+  "creators": [
+    {
+      "name": "Lefrançois, Maxime",
+      "affiliation": "Mines Saint-Étienne",
+      "orcid": "0000-0001-9814-8991"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "SOSA",
+    "SSN",
+    "Semantic Sensor Network ontology",
+    "ontology usage",
+    "knowledge graph",
+    "scholarly knowledge graph",
+    "systematic mapping",
+    "W3C",
+    "OGC",
+    "Linked Data"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://w3id.org/sosa-ssn-observatory",
+      "relation": "isIdenticalTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://ci.mines-stetienne.fr/sosa-ssn-observatory/",
+      "relation": "isSupplementedBy",
+      "resource_type": "other"
+    }
+  ],
+  "notes": "Code under the MIT licence (LICENSE); data under CC BY 4.0 (LICENSE-DATA)."
+}

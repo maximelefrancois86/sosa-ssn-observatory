@@ -1,0 +1,643 @@
+{
+ "harvest": "2026-11-07T1337",
+ "candidates": 2304,
+ "seed_groups": {
+  "2017+ only": 672,
+  "lineage only": 1418,
+  "lineage and 2017+": 214
+ },
+ "abstracts": 1716,
+ "dois": 2190,
+ "retracted": 1,
+ "named_title": 20,
+ "named_title_abstract": 137,
+ "secondary_by_title": 114,
+ "duplicate_titles": 40,
+ "strata": {
+  "A": {
+   "works": 886,
+   "open_access": 599
+  },
+  "B": {
+   "works": 626,
+   "open_access": 341
+  },
+  "C": {
+   "works": 792,
+   "open_access": 343
+  }
+ },
+ "seeds": {
+  "ssn-xg-report-2011": {
+   "role": "lineage",
+   "citing": 142,
+   "citing_only": 81
+  },
+  "sso-2010": {
+   "role": "lineage",
+   "citing": 131,
+   "citing_only": 60
+  },
+  "compton-2012": {
+   "role": "lineage",
+   "citing": 1447,
+   "citing_only": 1143
+  },
+  "cox-2017-oosf": {
+   "role": "lineage",
+   "citing": 45,
+   "citing_only": 23
+  },
+  "w3c-rec-2017": {
+   "role": "core",
+   "citing": 147,
+   "citing_only": 95
+  },
+  "w3c-rec-2017-hal": {
+   "role": "variant",
+   "citing": 0,
+   "citing_only": 0
+  },
+  "janowicz-2019": {
+   "role": "core",
+   "citing": 550,
+   "citing_only": 321
+  },
+  "janowicz-2018-ssrn": {
+   "role": "variant",
+   "citing": 37,
+   "citing_only": 14
+  },
+  "haller-2019": {
+   "role": "core",
+   "citing": 282,
+   "citing_only": 148
+  },
+  "taylor-2019-revamped": {
+   "role": "core",
+   "citing": 10,
+   "citing_only": 4
+  }
+ },
+ "by_year_and_stratum": {
+  "2011": {
+   "A": 0,
+   "B": 0,
+   "C": 16
+  },
+  "2012": {
+   "A": 0,
+   "B": 0,
+   "C": 56
+  },
+  "2013": {
+   "A": 2,
+   "B": 0,
+   "C": 77
+  },
+  "2014": {
+   "A": 2,
+   "B": 0,
+   "C": 122
+  },
+  "2015": {
+   "A": 2,
+   "B": 0,
+   "C": 160
+  },
+  "2016": {
+   "A": 5,
+   "B": 0,
+   "C": 180
+  },
+  "2017": {
+   "A": 8,
+   "B": 0,
+   "C": 181
+  },
+  "2018": {
+   "A": 30,
+   "B": 150,
+   "C": 0
+  },
+  "2019": {
+   "A": 68,
+   "B": 100,
+   "C": 0
+  },
+  "2020": {
+   "A": 97,
+   "B": 79,
+   "C": 0
+  },
+  "2021": {
+   "A": 124,
+   "B": 79,
+   "C": 0
+  },
+  "2022": {
+   "A": 109,
+   "B": 53,
+   "C": 0
+  },
+  "2023": {
+   "A": 108,
+   "B": 48,
+   "C": 0
+  },
+  "2024": {
+   "A": 121,
+   "B": 44,
+   "C": 0
+  },
+  "2025": {
+   "A": 103,
+   "B": 46,
+   "C": 0
+  },
+  "2026": {
+   "A": 105,
+   "B": 27,
+   "C": 0
+  }
+ },
+ "top": {
+  "type": [
+   [
+    "article",
+    1050
+   ],
+   [
+    "conference-paper",
+    887
+   ],
+   [
+    "book-chapter",
+    151
+   ],
+   [
+    "dissertation",
+    104
+   ],
+   [
+    "preprint",
+    49
+   ],
+   [
+    "review",
+    25
+   ],
+   [
+    "book",
+    14
+   ],
+   [
+    "other",
+    6
+   ],
+   [
+    "data-paper",
+    5
+   ],
+   [
+    "conference-abstract",
+    3
+   ],
+   [
+    "reference-entry",
+    3
+   ],
+   [
+    "editorial",
+    2
+   ]
+  ],
+  "language": [
+   [
+    "en",
+    2205
+   ],
+   [
+    "fr",
+    63
+   ],
+   [
+    "de",
+    11
+   ],
+   [
+    "es",
+    8
+   ],
+   [
+    "pt",
+    6
+   ],
+   [
+    "ru",
+    3
+   ],
+   [
+    "uk",
+    2
+   ],
+   [
+    "ng",
+    2
+   ]
+  ],
+  "domain": [
+   [
+    "Physical Sciences",
+    2060
+   ],
+   [
+    "Social Sciences",
+    151
+   ],
+   [
+    "Health Sciences",
+    49
+   ],
+   [
+    "Life Sciences",
+    43
+   ],
+   [
+    "(none)",
+    1
+   ]
+  ],
+  "field": [
+   [
+    "Computer Science",
+    1642
+   ],
+   [
+    "Engineering",
+    335
+   ],
+   [
+    "Social Sciences",
+    92
+   ],
+   [
+    "Environmental Science",
+    62
+   ],
+   [
+    "Agricultural and Biological Sciences",
+    38
+   ],
+   [
+    "Health Professions",
+    33
+   ],
+   [
+    "Business, Management and Accounting",
+    33
+   ],
+   [
+    "Medicine",
+    16
+   ],
+   [
+    "Decision Sciences",
+    11
+   ],
+   [
+    "Arts and Humanities",
+    10
+   ],
+   [
+    "Mathematics",
+    5
+   ],
+   [
+    "Neuroscience",
+    5
+   ],
+   [
+    "Earth and Planetary Sciences",
+    5
+   ],
+   [
+    "Psychology",
+    4
+   ],
+   [
+    "Chemistry",
+    3
+   ]
+  ],
+  "subfield": [
+   [
+    "Artificial Intelligence",
+    1064
+   ],
+   [
+    "Information Systems",
+    216
+   ],
+   [
+    "Computer Networks and Communications",
+    201
+   ],
+   [
+    "Computer Vision and Pattern Recognition",
+    101
+   ],
+   [
+    "Industrial and Manufacturing Engineering",
+    101
+   ],
+   [
+    "Building and Construction",
+    77
+   ],
+   [
+    "Electrical and Electronic Engineering",
+    66
+   ],
+   [
+    "Control and Systems Engineering",
+    55
+   ],
+   [
+    "Urban Studies",
+    37
+   ],
+   [
+    "Management, Monitoring, Policy and Law",
+    36
+   ],
+   [
+    "Health Information Management",
+    32
+   ],
+   [
+    "Software",
+    30
+   ],
+   [
+    "Plant Science",
+    29
+   ],
+   [
+    "Geography, Planning and Development",
+    26
+   ],
+   [
+    "Management Information Systems",
+    25
+   ],
+   [
+    "Sociology and Political Science",
+    13
+   ],
+   [
+    "Environmental Engineering",
+    12
+   ],
+   [
+    "Civil and Structural Engineering",
+    12
+   ],
+   [
+    "Computer Science Applications",
+    11
+   ],
+   [
+    "Information Systems and Management",
+    9
+   ]
+  ],
+  "venue": [
+   [
+    "Lecture notes in computer science",
+    157
+   ],
+   [
+    "(none)",
+    86
+   ],
+   [
+    "Sensors",
+    74
+   ],
+   [
+    "theses.fr (ABES)",
+    54
+   ],
+   [
+    "Springer eBooks",
+    37
+   ],
+   [
+    "Semantic Web",
+    35
+   ],
+   [
+    "Communications in computer and information science",
+    33
+   ],
+   [
+    "Procedia Computer Science",
+    28
+   ],
+   [
+    "IEEE Access",
+    26
+   ],
+   [
+    "IEEE Internet of Things Journal",
+    24
+   ],
+   [
+    "Future Generation Computer Systems",
+    23
+   ],
+   [
+    "arXiv (Cornell University)",
+    21
+   ],
+   [
+    "Journal of Web Semantics",
+    20
+   ],
+   [
+    "Advances in intelligent systems and computing",
+    19
+   ],
+   [
+    "Journal of Ambient Intelligence and Humanized Computing",
+    19
+   ],
+   [
+    "IEEE World Forum on Internet of Things (WF-IoT)",
+    16
+   ],
+   [
+    "Automation in Construction",
+    16
+   ],
+   [
+    "Elsevier eBooks",
+    16
+   ],
+   [
+    "Applied Sciences",
+    16
+   ],
+   [
+    "International Journal of Distributed Sensor Networks",
+    15
+   ],
+   [
+    "IFIP advances in information and communication technology",
+    15
+   ],
+   [
+    "Sensors and Materials",
+    15
+   ],
+   [
+    "Internet of Things",
+    15
+   ],
+   [
+    "SSRN Electronic Journal",
+    14
+   ],
+   [
+    "IEEE International Conference on Emerging Technologies and Factory Automation (ETFA)",
+    14
+   ]
+  ],
+  "publisher": [
+   [
+    "(none)",
+    683
+   ],
+   [
+    "Elsevier BV",
+    305
+   ],
+   [
+    "Springer Science+Business Media",
+    304
+   ],
+   [
+    "Multidisciplinary Digital Publishing Institute",
+    179
+   ],
+   [
+    "Institute of Electrical and Electronics Engineers",
+    142
+   ],
+   [
+    "Springer Nature",
+    92
+   ],
+   [
+    "IOS Press",
+    63
+   ],
+   [
+    "IGI Global",
+    51
+   ],
+   [
+    "Association for Computing Machinery",
+    35
+   ],
+   [
+    "Springer International Publishing",
+    32
+   ],
+   [
+    "Taylor & Francis",
+    30
+   ],
+   [
+    "Wiley",
+    30
+   ],
+   [
+    "Hindawi Publishing Corporation",
+    26
+   ],
+   [
+    "Cornell University",
+    21
+   ],
+   [
+    "MYU K.K.",
+    15
+   ]
+  ]
+ },
+ "countries": [
+  [
+   "DE",
+   301
+  ],
+  [
+   "FR",
+   277
+  ],
+  [
+   "US",
+   241
+  ],
+  [
+   "IT",
+   232
+  ],
+  [
+   "GB",
+   185
+  ],
+  [
+   "CN",
+   168
+  ],
+  [
+   "ES",
+   161
+  ],
+  [
+   "AU",
+   125
+  ],
+  [
+   "IN",
+   92
+  ],
+  [
+   "IE",
+   88
+  ],
+  [
+   "GR",
+   82
+  ],
+  [
+   "NL",
+   76
+  ],
+  [
+   "BE",
+   63
+  ],
+  [
+   "KR",
+   58
+  ],
+  [
+   "AT",
+   56
+  ]
+ ],
+ "with_countries": 2112
+}

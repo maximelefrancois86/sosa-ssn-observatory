@@ -1,0 +1,63 @@
+# The language models that code the works, read by scripts/model_code.py. A change here is
+# a new coding run, recorded with its own stamp in raw/; the runs already made are never
+# recomputed. [model] is the model that codes every work, Claude Sonnet 5.5; the codes used
+# for a work are those of the first model of `recommend` that coded it from its current
+# text. `prepare --model sonnet|opus` takes [checks.<name>] in place of [model] and [price].
+# Prices: US dollars per million tokens, Message Batches API, as known on 2026-11-13.
+
+[model]
+id = "claude-sonnet-5-5"
+api = "Anthropic Message Batches API, anthropic-version 2023-06-01"
+max_tokens = 32000
+effort = "medium"
+output_tokens_estimate = 1500
+prompt = "protocol/model-prompt.md"
+recommend = ["claude-opus-5-5", "claude-sonnet-5-5"]
+
+[input]
+strata = ["A", "B", "D"]
+max_body_words = 600000
+tokens_per_word = 2.4
+system_tokens_per_word = 3.8
+
+[price]
+input = 1.0
+output = 5.0
+cache_write = 1.25
+cache_read = 0.05
+source = "platform.claude.com/docs/en/about-claude/pricing (read on 2026-11-13): Sonnet 5.5 2 / 10 dollars per million input / output tokens, 5-minute cache writes 2.50, cache hits 0.10, batch 1 / 5; the full 1M context at standard price"
+
+[checks.sonnet.model]
+id = "claude-sonnet-5-5"
+api = "Anthropic Message Batches API, anthropic-version 2023-06-01"
+max_tokens = 32000
+effort = "medium"
+output_tokens_estimate = 1500
+prompt = "protocol/model-prompt.md"
+
+[checks.sonnet.price]
+input = 1.0
+output = 5.0
+cache_write = 1.25
+cache_read = 0.05
+source = "platform.claude.com/docs/en/about-claude/pricing (read on 2026-11-13): Sonnet 5.5 2 / 10 dollars per million input / output tokens, 5-minute cache writes 2.50, cache hits 0.10, batch 1 / 5; the full 1M context at standard price"
+
+[checks.opus.model]
+id = "claude-opus-5-5"
+api = "Anthropic Message Batches API, anthropic-version 2023-06-01"
+max_tokens = 32000
+effort = "medium"
+output_tokens_estimate = 2300
+prompt = "protocol/model-prompt.md"
+
+[checks.opus.price]
+input = 2.0
+output = 10.0
+cache_write = 2.5
+cache_read = 0.1
+source = "platform.claude.com/docs/en/about-claude/pricing (read on 2026-11-13): Opus 5.5 4 / 20 dollars per million input / output tokens, 5-minute cache writes 5, cache hits 0.20, batch 2 / 10; the full 1M context at standard price"
+
+# Monthly ceiling per model, in US dollars: `submit` refuses a batch beyond it.
+[budget.monthly]
+claude-sonnet-5-5 = 37.5
+claude-opus-5-5 = 50.0

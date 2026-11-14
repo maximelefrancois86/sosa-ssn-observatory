@@ -1,0 +1,112 @@
+# Seed works of the forward-citation search: a work enters the candidate corpus when it
+# cites at least one of them. Identifiers are OpenAlex work IDs; the DOI is given when the
+# work has one. `role` says why the seed is there:
+#   core      the publications that describe SOSA/SSN, 2017 and 2023
+#   lineage   the earlier SSN (Incubator Group, 2009-2012), its design pattern, and the
+#             ontology for observations and sampling features whose sampling part became
+#             SOSA's
+#   variant   another record of a core work (preprint, repository deposit)
+# The seed set was fixed on 2026-11-07 (pilotage review/101). Changing it means harvesting
+# again, never editing an earlier harvest.
+
+[[seed]]
+key = "ssn-xg-report-2011"
+openalex = "W2729989548"
+role = "lineage"
+title = "Semantic Sensor Network XG Final Report"
+year = 2011
+
+[[seed]]
+key = "sso-2010"
+openalex = "W2407444278"
+role = "lineage"
+title = "The stimulus-sensor-observation ontology design pattern and its integration into the semantic sensor network ontology"
+year = 2010
+
+[[seed]]
+key = "compton-2012"
+openalex = "W2102802363"
+doi = "10.1016/j.websem.2012.05.003"
+role = "lineage"
+title = "The SSN ontology of the W3C semantic sensor network incubator group"
+year = 2012
+
+[[seed]]
+key = "cox-2017-oosf"
+openalex = "W2290162994"
+doi = "10.3233/SW-160214"
+role = "lineage"
+title = "Ontology for observations and sampling features, with alignments to existing models"
+year = 2017
+
+[[seed]]
+key = "w3c-rec-2017"
+openalex = "W2782275617"
+doi = "10.62973/16-079"
+role = "core"
+title = "Semantic Sensor Network Ontology (W3C Recommendation, OGC 16-079)"
+year = 2017
+
+[[seed]]
+key = "w3c-rec-2017-hal"
+openalex = "W4311835140"
+role = "variant"
+title = "Semantic Sensor Network Ontology (HAL deposit of the W3C Recommendation)"
+year = 2017
+
+[[seed]]
+key = "janowicz-2019"
+openalex = "W2803689195"
+doi = "10.1016/j.websem.2018.06.003"
+role = "core"
+title = "SOSA: A lightweight ontology for sensors, observations, samples, and actuators"
+year = 2019
+
+[[seed]]
+key = "janowicz-2018-ssrn"
+openalex = "W3169145163"
+doi = "10.2139/ssrn.3248499"
+role = "variant"
+title = "SOSA: A Lightweight Ontology for Sensors, Observations, Samples, and Actuators (SSRN preprint)"
+year = 2018
+
+[[seed]]
+key = "haller-2019"
+openalex = "W2889161681"
+doi = "10.3233/SW-180320"
+role = "core"
+title = "The modular SSN ontology: A joint W3C and OGC standard specifying the semantics of sensors, observations, sampling, and actuation"
+year = 2019
+
+[[seed]]
+key = "taylor-2019-revamped"
+openalex = "W3013413982"
+role = "core"
+title = "The Semantic Sensor Network Ontology, Revamped"
+year = 2019
+
+# Seeds that no citation index holds as a work (W3C Notes and editions published only on
+# w3.org), added on 2026-11-14 (Maxime: "another important seed is vocab-ssn-ext"). Neither
+# OpenAlex nor Semantic Scholar has a record for them, so their citing works cannot be
+# harvested by forward citation: they are found by text instead, by
+# scripts/text_seeds.py, which looks for the `strings` of each seed (title, URL,
+# namespace) in the full texts held, bibliography included, and asks the OpenAlex
+# full-text search for the same strings. They are read by that script only, not by
+# load_seeds(): the strata A to C keep their definition.
+
+[[text_seed]]
+key = "cox-2020-ssn-ext"
+role = "core"
+title = "Extensions to the Semantic Sensor Network Ontology (W3C Working Draft / Note)"
+year = 2020
+url = "https://www.w3.org/TR/vocab-ssn-ext/"
+strings = ["vocab-ssn-ext", "Extensions to the Semantic Sensor Network Ontology",
+           "w3.org/ns/ssn/ext", "ssn-ext:"]   # the ontology is at ns/ssn/ext/, its terms are in sosa:; ssn-ext: is a prefix some works write
+
+[[text_seed]]
+key = "w3c-ssn-2023"
+role = "core"
+title = "Semantic Sensor Network Ontology, 2023 Edition (W3C drafts)"
+year = 2023
+url = "https://www.w3.org/TR/vocab-ssn-2023/"
+strings = ["vocab-ssn-2023"]

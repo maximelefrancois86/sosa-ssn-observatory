@@ -1,0 +1,50 @@
+Sparklis, vendored for the SOSA/SSN Usage Observatory
+=====================================================
+
+Sparklis: a query builder in natural language for SPARQL endpoints, by Sébastien Ferré
+(IRISA, Université de Rennes). https://github.com/sebferre/sparklis
+Licence: Apache License 2.0 (LICENSE, copied from the repository).
+Citation: Sébastien Ferré, "Sparklis: An expressive query builder for SPARQL endpoints with
+guidance in natural language", Semantic Web 8(3): 405-418, 2017.
+
+Pinned commit: 8a2f573cc9a9e2fbffb4071eb37452ae5f80ade3 (branch master, 2025-06-20,
+"[html] switching endpoints from HTTP to HTTPS"), taken on 2026-11-14.
+
+Files taken unchanged from webapp/ of that commit (the JavaScript is the compiled
+js_of_ocaml build that the repository ships):
+  osparklis.js    sha256 eafe84f5874f67fb1903a63090277524b08a2f2c450e9a1e56b35c983359f709
+  osparklis.css, qa_extension.js, LICENSE (repository root). The institutional logos of the
+  upstream footer (irisa.jpg, semlis.png, UR1.png) are not vendored: the footer is replaced
+  (change 7) and Apache 2.0 does not cover them.
+
+osparklis.html (upstream sha256 fc2182194d531494860cbde2b579df020d964756fba78f067100e4395267a1dd)
+is changed in the places below only:
+  1. <script src="endpoint.js"></script> at the top of <head>: the in-browser SPARQL endpoint
+     (see endpoint.js and ../sw.js);
+  2. the default proxy URL is empty (upstream: https://servolis.irisa.fr/dbpedia/sparql), so
+     that no query of the observatory is ever sent to a third-party proxy;
+  3. short permalinks are off by default (upstream: on, through the rebrandly.com API);
+  4. logging is off by default (upstream: on, to log/*.php, which this static site lacks).
+  5. <script src="observatory.js"></script> before endpoint.js: this copy serves the
+     observatory's graph only; the endpoint, the title, the proxy, logging, permalinks, the
+     language and the lexicons are fixed, whatever the address says (Maxime, 2026-11-14: no
+     access to Configure, no change of endpoint);
+  6. <link href="observatory.css"> after osparklis.css: the navigation bar (endpoint list and
+     field, title, Configure, Learn) is hidden, and in the YASGUI view the endpoint bar, the
+     tabs and the share button (a third-party URL shortener) are hidden (the SPARQL and
+     Sparklis pages of the explorer are one, Maxime, 2026-11-14);
+  7. the footer (licence, credits, logos, citation, translators) is replaced by one line,
+     "Served with Sparklis (Sébastien Ferré, IRISA)" with a link to the repository
+     (Maxime, 2026-11-14). The citation of Sparklis is in the observatory's Methodology
+     page and papers.
+The application opens Sparklis with the same settings in its address (proxy_url=,
+logging=false, short-permalink=false) since Sparklis prefers its built-in defaults to the
+HTML ones when an argument is missing. Its hit counter still asks for log/log.php once at
+start, before it reads that argument: a request to this site only, answered 404.
+
+Not vendored: the PHP logger (webapp/log/), the examples page and the release notes. The page
+still loads, as upstream, jQuery 2.2.4, Bootstrap 3.3.6, YASGUI 2.6.1 and the Google Charts
+loader from their CDNs.
+
+To update: take webapp/ of a newer commit, apply the changes above, and test that
+Sparklis lists the classes of the graph and runs a query (explorer/README.md).

@@ -1,0 +1,9 @@
+/* The SOSA/SSN Usage Observatory's integration of Sparklis (see VENDOR.txt and observatory.js):
+   one endpoint, no endpoint menu, no configuration; YASGUI without its endpoint bar, its tabs
+   and its share button (a third-party URL shortener); a one-line footer. */
+nav.navbar { display: none !important; }          /* endpoint list and field, title, Configure, Learn */
+#sparklis-yasgui .controlbar, #sparklis-yasgui .mainTabs, #sparklis-yasgui .yasqe_share { display: none !important; }
+body { padding-top: .5rem; }
+footer.observatory { margin: 1.5rem 0 .75rem; padding-top: .5rem; border-top: 1px solid #ddd;
+  font-size: 13px; color: #666; text-align: center; }
+footer.observatory a { color: #337ab7; }

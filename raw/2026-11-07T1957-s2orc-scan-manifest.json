@@ -1,0 +1,34 @@
+{
+  "stamp": "2026-11-07T1957",
+  "source": "Semantic Scholar S2ORC (s2orc_v2)",
+  "release": "2026-11-03",
+  "shards_in_release": 330,
+  "candidates_from_s2_harvest": "2026-11-07T1353",
+  "candidate_corpus_ids": 2396,
+  "candidate_dois": 2412,
+  "shards": [
+    {
+      "index": 6,
+      "file": "20261106_115907_00079_54abm_04990b7d-be7e-4825-8d0d-d20fede24dc9.gz",
+      "records": 26627,
+      "uncompressed bytes": 1690890776,
+      "kept": 1,
+      "kept as candidates": 1,
+      "kept by strings in the body": 0,
+      "kept by strings, not candidates": 0,
+      "compressed bytes": 460043931,
+      "seconds": 57,
+      "attempts": 1
+    }
+  ],
+  "total": {
+    "records": 26627,
+    "uncompressed bytes": 1690890776,
+    "kept": 1,
+    "kept as candidates": 1,
+    "kept by strings in the body": 0,
+    "kept by strings, not candidates": 0,
+    "compressed bytes": 460043931
+  },
+  "hits_per_string": {}
+}

@@ -1,0 +1,854 @@
+{
+  "stamp": "2026-11-13T1707",
+  "pass": "manual",
+  "pool": 878,
+  "done": 49,
+  "complete": true,
+  "pdfs_read": 55,
+  "works": [
+    {
+      "openalex": "W3170518705",
+      "doi": "10.1016/j.comcom.2021.06.010",
+      "stratum": "A",
+      "oa_status": "hybrid",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S0140366421002346-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 1543417,
+          "sha256": "274e3c245247f67898156098b1d0ea4f9cda2bb441210fde740579108d368928"
+        }
+      ]
+    },
+    {
+      "openalex": "W2062032918",
+      "doi": "10.1016/j.compind.2013.11.010",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S0166361513002406-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 3889275,
+          "sha256": "385bac62dd8514075dc78c266eebbea20a3c892445668a2aa38b396ec953a26b"
+        }
+      ]
+    },
+    {
+      "openalex": "W3156424100",
+      "doi": "10.1016/j.future.2021.01.028",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S0167739X21000388-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 1381111,
+          "sha256": "189df8e5dabbd0367b6638853f6cdfd5a7405af227fee3ddbbce1e96545e3998"
+        }
+      ]
+    },
+    {
+      "openalex": "W4200517115",
+      "doi": "10.1016/j.future.2021.11.031",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S0167739X21004738-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 2865453,
+          "sha256": "3e9c32440e22a1bb06b1d462fee43282686d897191339ca7e788a957c507b9e2"
+        }
+      ]
+    },
+    {
+      "openalex": "W4308155335",
+      "doi": "10.1016/j.future.2022.10.027",
+      "stratum": "B",
+      "oa_status": "hybrid",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S0167739X2200351X-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 3590706,
+          "sha256": "5f96eb9c843f75b19b821b3f991cb87234bce893a2ef3f66bdf2e1c785c8087b"
+        }
+      ]
+    },
+    {
+      "openalex": "W4415185724",
+      "doi": "10.1016/j.future.2025.108185",
+      "stratum": "B",
+      "oa_status": "hybrid",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S0167739X25004790-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 12297159,
+          "sha256": "e1a1dacab284a7d6eaf1547e0bc188f84c5b75880725e892b245d46e374d3517"
+        }
+      ]
+    },
+    {
+      "openalex": "W3003933818",
+      "doi": "10.1016/j.ijinfomgt.2020.102074",
+      "stratum": "A",
+      "oa_status": "hybrid",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S0268401219302968-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 2862546,
+          "sha256": "6cb2df48b9bdb0113c07f52fdd3b2d0ae072929126db39af3de80e7e06b6e3e5"
+        }
+      ]
+    },
+    {
+      "openalex": "W3137754035",
+      "doi": "10.1016/j.jmsy.2021.03.002",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S0278612521000571-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 7645870,
+          "sha256": "790d09fc8efe5c5472b036f2cf9647cabdc726b87f4df5e159e59ad400ec36ba"
+        }
+      ]
+    },
+    {
+      "openalex": "W4385735943",
+      "doi": "10.1016/j.jmsy.2023.07.013",
+      "stratum": "B",
+      "oa_status": "hybrid",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S0278612523001450-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 3832892,
+          "sha256": "18a8fe8ff7506421c2144a2adecf2129776b073117c46634347fead55d4f6d13"
+        }
+      ]
+    },
+    {
+      "openalex": "W2804911821",
+      "doi": "10.1016/j.buildenv.2018.05.046",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S0360132318303123-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 5361178,
+          "sha256": "bf5a09eab706aee636fd0e2056a01a0b745e1005913dc07ef9e37377453d8ca5"
+        }
+      ]
+    },
+    {
+      "openalex": "W4405928941",
+      "doi": "10.1016/j.rcim.2024.102937",
+      "stratum": "B",
+      "oa_status": "hybrid",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S0736584524002242-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 11871382,
+          "sha256": "64bb64a4c8c5d3b4fb8b4afdd30bea78f61f4cb4957c9b38253cbabd32a83f30"
+        }
+      ]
+    },
+    {
+      "openalex": "W3092152554",
+      "doi": "10.1016/j.jpdc.2020.09.012",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S0743731520303737-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 3769125,
+          "sha256": "f73acc8c6f42063130c45f21e9ca6af1e76328e6239a0b85b8a43c1578e337b6"
+        }
+      ]
+    },
+    {
+      "openalex": "W4404515625",
+      "doi": "10.1016/j.robot.2024.104861",
+      "stratum": "B",
+      "oa_status": "hybrid",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S0921889024002458-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 4207160,
+          "sha256": "761d5123a432c19fa6b39e72c5c76b8eb4445cbd86179dec5f35cda2224bcaf6"
+        }
+      ]
+    },
+    {
+      "openalex": "W2212276110",
+      "doi": "10.1016/j.isprsjprs.2015.11.009",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S0924271615002610-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 6958479,
+          "sha256": "ae78d459dffc35033f723a8192f89ebaa5f4a348488c73d66cda52f5c0c0a57e"
+        }
+      ]
+    },
+    {
+      "openalex": "W4313400144",
+      "doi": "10.1016/j.autcon.2022.104728",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S0926580522005982-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 14497548,
+          "sha256": "c654b40292bd150032f15f4f66548d682c96af0b403508ab679d9a77f1771b1a"
+        }
+      ]
+    },
+    {
+      "openalex": "W4412430508",
+      "doi": "10.1016/j.knosys.2025.114074",
+      "stratum": "B",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S0950705125011190-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 9277423,
+          "sha256": "ea495b57db9d5449c1923e45c7c00295b95fb88c06184b703cd110cfff63d213"
+        }
+      ]
+    },
+    {
+      "openalex": "W3094592072",
+      "doi": "10.1016/j.engappai.2020.104026",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S0952197620303079-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 1082244,
+          "sha256": "89eaf2131503dc4fcf51e9cfcb7b4efd660b74b36cb17d353169d1b44ab760f4"
+        }
+      ]
+    },
+    {
+      "openalex": "W4306173842",
+      "doi": "10.1016/j.eswa.2022.118998",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S0957417422020164-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 6174487,
+          "sha256": "aa2b319d265a8ae7b445761c9e70f59efd6610e5ecd5e0014c26682928497b9b"
+        }
+      ]
+    },
+    {
+      "openalex": "W4388196827",
+      "doi": "10.1016/j.eswa.2023.122104",
+      "stratum": "B",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S0957417423026064-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 2060929,
+          "sha256": "9b117fecd0aec6a08e1e0d9a8762707537b93edbf5cdfdadfafacbad876f4086"
+        }
+      ]
+    },
+    {
+      "openalex": "W4385541448",
+      "doi": "10.1016/j.chaos.2023.113774",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S0960077923006756-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 3406740,
+          "sha256": "db3466cee0a0724831f7bdeb5a12788275825eb1d36405167410fa6abd7d5a27"
+        }
+      ]
+    },
+    {
+      "openalex": "W3163654715",
+      "doi": "10.1016/j.jksuci.2021.04.015",
+      "stratum": "B",
+      "oa_status": "hybrid",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S1319157821001014-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 5050137,
+          "sha256": "c2720c510b7e5a3e63116123a818651aa31e668dd98b73d918e94f393fd4df0e"
+        }
+      ]
+    },
+    {
+      "openalex": "W4200098899",
+      "doi": "10.1016/j.comnet.2021.108687",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S1389128621005545-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 7381456,
+          "sha256": "29d46eddbefbf4efbb34d554986dfc024354f7f6ba9b93173d429cd2fb57820e"
+        }
+      ]
+    },
+    {
+      "openalex": "W2907996754",
+      "doi": "10.1016/j.aei.2018.11.009",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S1474034618300740-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 3632700,
+          "sha256": "1669571b243c293e8900e1657db6dd854dfc17f2db5b76243edd7ff6d9730feb"
+        }
+      ]
+    },
+    {
+      "openalex": "W4385164309",
+      "doi": "10.1016/j.aei.2023.102114",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S1474034623002422-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 20387585,
+          "sha256": "2f20a9c20ed1b08e50974dd52f681dfd1d3feb54e5d706c9b11ffd9cc706c404"
+        }
+      ]
+    },
+    {
+      "openalex": "W7115681712",
+      "doi": "10.1016/j.aei.2025.104240",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S1474034625011334-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 5057087,
+          "sha256": "f5eec35f6f91503463597c58e669687b423a33b3ef13d95894514a8796f4f9b5"
+        }
+      ]
+    },
+    {
+      "openalex": "W4298393566",
+      "doi": "10.1016/j.jag.2022.103038",
+      "stratum": "B",
+      "oa_status": "gold",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S1569843222002266-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 11528323,
+          "sha256": "62f7aacb4071d03b002d1e5c675b03ec92169612b566bdb5462d2c1930b113fc"
+        }
+      ]
+    },
+    {
+      "openalex": "W3001254279",
+      "doi": "10.1016/j.websem.2020.100548",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S1570826820300019-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 813037,
+          "sha256": "8bc3cd8adafb39653307245b5e90e915e7d49a7a31b35162857204422bae00ff"
+        }
+      ]
+    },
+    {
+      "openalex": "W3216349317",
+      "doi": "10.1016/j.websem.2021.100687",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S1570826821000573-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 902732,
+          "sha256": "5a3b08f3daab5a413af8423c5b4af0c845cd468065c7b0dcbf1ca516a4f6d933"
+        }
+      ]
+    },
+    {
+      "openalex": "W7138001388",
+      "doi": "10.1016/j.websem.2026.100880",
+      "stratum": "B",
+      "oa_status": "gold",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S1570826826000065-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 3418738,
+          "sha256": "cc0fba0278b08d6997d277dababdb5e12b7c02e4230d5bb7a0c86bbf37b2b2db"
+        }
+      ]
+    },
+    {
+      "openalex": "W4387007739",
+      "doi": "10.1016/j.pmcj.2023.101845",
+      "stratum": "B",
+      "oa_status": "hybrid",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S1574119223001037-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 1508882,
+          "sha256": "b433a44ee1328d13f30431c52a26c63832a450b7a0d6311a3d2aaafb11033fcf"
+        }
+      ]
+    },
+    {
+      "openalex": "W2961933199",
+      "doi": "10.1016/j.cirpj.2019.04.007",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S1755581719300264-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 1998040,
+          "sha256": "346dca28d59f3d9294c83c956966fc2119b5d9e2997f0db75f44bc8dbcc8f363"
+        }
+      ]
+    },
+    {
+      "openalex": "W3131429741",
+      "doi": "10.1016/j.procs.2021.01.215",
+      "stratum": "A",
+      "oa_status": "diamond",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S1877050921002581-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 785019,
+          "sha256": "a2f4ac45be5710ae80b4fc2fe6cd51b605705654e018074249bf27d9657a7b9d"
+        }
+      ]
+    },
+    {
+      "openalex": "W3201971413",
+      "doi": "10.1016/j.procs.2021.08.052",
+      "stratum": "A",
+      "oa_status": "diamond",
+      "outcome": "text",
+      "matched_by": "title pairs 1.00",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S1877050921015398-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 759115,
+          "sha256": "4323801b8a37845328c2b693613e0d72c6aa1b2eb59d7d11181d1db7a767b4eb"
+        }
+      ]
+    },
+    {
+      "openalex": "W4313012909",
+      "doi": "10.1016/j.procs.2022.09.341",
+      "stratum": "B",
+      "oa_status": "diamond",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S1877050922012303-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 1143323,
+          "sha256": "7a1365e74bee37e0d554e4aa600b63c60a0b71f95992dc9e7c45b40d233100f5"
+        }
+      ]
+    },
+    {
+      "openalex": "W4415972454",
+      "doi": "10.1016/j.joitmc.2025.100678",
+      "stratum": "B",
+      "oa_status": "gold",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S2199853125002136-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 4333336,
+          "sha256": "f871d15b22c39de637f0ed208b89c11d994e80a9ab9b733fe6eb312041dba15a"
+        }
+      ]
+    },
+    {
+      "openalex": "W4411343027",
+      "doi": "10.1016/j.procir.2025.03.022",
+      "stratum": "B",
+      "oa_status": "diamond",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S2212827125004676-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 528077,
+          "sha256": "4b7c852db14fefd10e4d9e8456e57858f0a74d1e28e7ff58a796c3296e666885"
+        }
+      ]
+    },
+    {
+      "openalex": "W7164046974",
+      "doi": "10.1016/j.procir.2026.05.234",
+      "stratum": "B",
+      "oa_status": "diamond",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S2212827126008073-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 632644,
+          "sha256": "db21097bf236cd60b972b87a76944259d7476a203ba3e12553faa83c0476a0fb"
+        }
+      ]
+    },
+    {
+      "openalex": "W3180800754",
+      "doi": "10.1016/j.dcan.2021.06.005",
+      "stratum": "B",
+      "oa_status": "gold",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S235286482100033X-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 2561700,
+          "sha256": "0e5662ffb88e5115d759ebc36991281d47cfc96dbbcd58376949ab6fe93922b5"
+        }
+      ]
+    },
+    {
+      "openalex": "W4388918540",
+      "doi": "10.1016/j.ifacol.2023.10.403",
+      "stratum": "B",
+      "oa_status": "diamond",
+      "outcome": "text",
+      "matched_by": "title pairs 1.00",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S240589632300770X-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 1284341,
+          "sha256": "8f7251665612ed8305f3c9702017300ff42ef286a85722e68da6e54b30e27362"
+        }
+      ]
+    },
+    {
+      "openalex": "W4417233234",
+      "doi": "10.1016/j.ifacol.2025.12.053",
+      "stratum": "B",
+      "oa_status": "diamond",
+      "outcome": "text",
+      "matched_by": "title pairs 0.88",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S2405896325027296-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 519954,
+          "sha256": "d63563d2a5dfe5b0f24cfb1a6208e76868b4d5c6bf0eb590c7980ec58d55b6de"
+        }
+      ]
+    },
+    {
+      "openalex": "W3020870978",
+      "doi": "10.1016/j.iot.2020.100206",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S2542660520300421-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 1388217,
+          "sha256": "c1416c9ec944d684a36b79b1ed337971a169f36f02df827b677c5a802d04bd76"
+        }
+      ]
+    },
+    {
+      "openalex": "W4297423117",
+      "doi": "10.1016/j.iot.2022.100616",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S2542660522000981-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 1812177,
+          "sha256": "ad872ab1d58b785c7e72cc83eea90db61e818108a2c0a8f4b7c6b54fa225bbd9"
+        }
+      ]
+    },
+    {
+      "openalex": "W4378211293",
+      "doi": "10.1016/j.iot.2023.100834",
+      "stratum": "B",
+      "oa_status": "hybrid",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S2542660523001579-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 3418574,
+          "sha256": "d12ea4629c02cce8522d498799910a644653ab4d942cb28283a3e1a17dc09d8f"
+        }
+      ]
+    },
+    {
+      "openalex": "W4389621977",
+      "doi": "10.1016/j.iot.2023.101030",
+      "stratum": "B",
+      "oa_status": "hybrid",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S2542660523003530-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 2199279,
+          "sha256": "dbf934936d6ed0b4812ab140de3e28d2361a82b450560128c8e0fa04329bca07"
+        }
+      ]
+    },
+    {
+      "openalex": "W4406863653",
+      "doi": "10.1016/j.iot.2025.101494",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S2542660525000071-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 1015777,
+          "sha256": "a585ade87b3bec2891d536473a031e467ea7e96887f3df85428cca0397f2dee6"
+        }
+      ]
+    },
+    {
+      "openalex": "W4411201482",
+      "doi": "10.1016/j.rineng.2025.105706",
+      "stratum": "B",
+      "oa_status": "gold",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S2590123025017773-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 7176113,
+          "sha256": "d21ba17853512f1c499d3807101d9fb2ab4d04fd302792414ed029b44b9b121b"
+        }
+      ]
+    },
+    {
+      "openalex": "W3203836759",
+      "doi": "10.1016/j.measen.2021.100263",
+      "stratum": "A",
+      "oa_status": "gold",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S2665917421002269-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 2657454,
+          "sha256": "f8a3592ef893f4541d547af566d58a79830f0fb1b41cffbb88c362ccecee95cf"
+        }
+      ]
+    },
+    {
+      "openalex": "W4296202958",
+      "doi": "10.1016/j.measen.2022.100442",
+      "stratum": "B",
+      "oa_status": "gold",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S2665917422000769-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 1970582,
+          "sha256": "1431e5bcc3179b054ea92ef18d0b097f14563daf565223a87e92edb699a4f716"
+        }
+      ]
+    },
+    {
+      "openalex": "W4405733766",
+      "doi": "10.1016/j.measen.2024.101457",
+      "stratum": "B",
+      "oa_status": "gold",
+      "outcome": "text",
+      "matched_by": "doi",
+      "ocr": false,
+      "tried": [
+        {
+          "file": "1-s2.0-S2665917424004331-main.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 2312245,
+          "sha256": "9f4a09bb926807f3e6e655a6592a04c0537dc979ed64f8da852d99821adc14ca"
+        }
+      ]
+    }
+  ],
+  "outcomes": {
+    "text": 49
+  },
+  "unmatched": [
+    "Conv collaboration MSE EDF signée.pdf: no work still without a text (already taken in, or not a candidate)",
+    "DOC-sujet.pdf: no work still without a text (already taken in, or not a candidate)",
+    "Lettre-de-soutien_signé G. Desbrosse.pdf: no work still without a text (already taken in, or not a candidate)",
+    "RapportA-7M(EMSE-EDF)28092023 (1).pdf: no work still without a text (already taken in, or not a candidate)",
+    "RapportA-7M(EMSE-EDF)28092023.pdf: no work still without a text (already taken in, or not a candidate)",
+    "imt_trophees-innovation-pedagogique_2026.pdf: no work still without a text (already taken in, or not a candidate)"
+  ]
+}

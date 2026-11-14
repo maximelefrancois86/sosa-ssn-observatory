@@ -1,0 +1,25 @@
+# Texts taken in for a work they are not. The raw manifests are never changed: this list
+# says which of their texts scripts/build_items.py and scripts/download_desk.py skip. One
+# entry per text: the run (stamp of raw/<run>-oa-fulltext-manifest.json), the work, what
+# the text is instead, and how it was found.
+
+[[text]]
+run = "2026-11-12T1707"
+openalex = "W4390636512"   # Rubio et al., Internet of Things 25 (2024), 10.1016/j.iot.2023.100998
+file = "1-s2.0-S2352711024001377-main.pdf"
+is_instead = "the companion software paper, SOSAc-Reasoner, SoftwareX 27 (2024) 101766, which prints the DOI of the work on its first page"
+found_by = "the model (run 2026-11-13T1621, text_is_the_work = no), checked by an agent on 2026-11-13"
+
+[[text]]
+run = "2026-11-11T1519"
+openalex = "W3010198232"   # Novo and Di Francesco, ACM Transactions on Internet of Things (2020), 10.1145/3375838
+file = "https://aaltodoc.aalto.fi/bitstreams/7a028f48-a7c0-4ab7-b81f-31a31a9e1b71/download"
+is_instead = "the one-page errata sheet of a doctoral thesis in the Aalto repository (Publications I and II), not the article"
+found_by = "the model (run 2026-11-13T1639, text_is_the_work = no), checked by an agent on 2026-11-13"
+
+[[text]]
+run = "2026-11-11T1451"
+openalex = "W4396874574"   # an untitled OpenAlex 'paratext' record of IJWesT 15(3/4), 2024, 10.5121/ijwest.2024.152
+file = "https://aircconline.com/ijwest/V15N4/15424ijwest01.pdf"
+is_instead = "the first article of the issue (Celaj and Jani, NLP applications in vocabulary acquisition); the record is front matter, excluded by the protocol (section 4)"
+found_by = "the model (run 2026-11-13T1639, text_is_the_work = unsure), checked by an agent on 2026-11-13"

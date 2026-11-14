@@ -1,0 +1,48 @@
+{
+ "by_stratum": {
+  "engagement": {
+   "A": {
+    "E0": 66,
+    "E1": 16
+   },
+   "B": {
+    "E0": 61,
+    "E1": 27
+   },
+   "C": {
+    "E0": 29,
+    "E1": 18
+   },
+   "D": {
+    "E0": 8
+   }
+  },
+  "version_used": {
+   "A": {
+    "mixed": 1,
+    "sosa-ssn-2017": 213,
+    "ssn-2023": 28,
+    "ssn-xg": 3,
+    "unknown": 440
+   },
+   "B": {
+    "sosa-ssn-2017": 29,
+    "ssn-2023": 1,
+    "ssn-xg": 7,
+    "unknown": 376
+   },
+   "C": {
+    "ssn-xg": 2,
+    "unknown": 117
+   },
+   "D": {
+    "sosa-ssn-2017": 63,
+    "ssn-2023": 2,
+    "ssn-xg": 9,
+    "unknown": 39
+   }
+  }
+ },
+ "items": 1494,
+ "version": "recommend_script.py 2"
+}

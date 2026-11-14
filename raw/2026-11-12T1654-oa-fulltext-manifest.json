@@ -1,0 +1,31 @@
+{
+  "stamp": "2026-11-12T1654",
+  "pass": "manual",
+  "pool": 878,
+  "done": 1,
+  "complete": true,
+  "pdfs_read": 1,
+  "works": [
+    {
+      "openalex": "W2309209207",
+      "doi": "10.1109/icsc.2016.94",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "ocr": true,
+      "tried": [
+        {
+          "file": "RAISO_RAilway_Infrastructures_and_Signaling_Ontology_for_Configuration_Management_Verification_and_Validation.pdf",
+          "folder": "~/Téléchargements",
+          "bytes": 434423,
+          "sha256": "c024cb3cc8447960cd6554246dce7508df126c03382a9694e7c66f20f6a752c7"
+        }
+      ]
+    }
+  ],
+  "outcomes": {
+    "text": 1
+  },
+  "unmatched": []
+}

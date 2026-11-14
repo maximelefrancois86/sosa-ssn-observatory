@@ -1,0 +1,65 @@
+{
+ "harvest": "2026-11-07T1353",
+ "s2_citing": 2397,
+ "in_openalex": 1806,
+ "not_in_openalex": 591,
+ "not_in_openalex_by_stratum": {
+  "A": 177,
+  "B": 136,
+  "C": 278
+ },
+ "citation_records": 2905,
+ "with_contexts": 1597,
+ "per_seed": {
+  "ssn-xg-report-2011": {
+   "s2": 197,
+   "in_openalex": 124,
+   "not_in_openalex": 73
+  },
+  "sso-2010": {
+   "s2": 175,
+   "in_openalex": 131,
+   "not_in_openalex": 44
+  },
+  "compton-2012": {
+   "s2": 1573,
+   "in_openalex": 1263,
+   "not_in_openalex": 310
+  },
+  "cox-2017-oosf": {
+   "s2": 102,
+   "in_openalex": 36,
+   "not_in_openalex": 66
+  },
+  "w3c-rec-2017": {
+   "s2": "not found",
+   "in_openalex": "—",
+   "not_in_openalex": "—"
+  },
+  "w3c-rec-2017-hal": {
+   "s2": "not found",
+   "in_openalex": "—",
+   "not_in_openalex": "—"
+  },
+  "janowicz-2019": {
+   "s2": 555,
+   "in_openalex": 428,
+   "not_in_openalex": 127
+  },
+  "janowicz-2018-ssrn": {
+   "s2": "not found",
+   "in_openalex": "—",
+   "not_in_openalex": "—"
+  },
+  "haller-2019": {
+   "s2": 278,
+   "in_openalex": 208,
+   "not_in_openalex": 70
+  },
+  "taylor-2019-revamped": {
+   "s2": 25,
+   "in_openalex": 10,
+   "not_in_openalex": 15
+  }
+ }
+}

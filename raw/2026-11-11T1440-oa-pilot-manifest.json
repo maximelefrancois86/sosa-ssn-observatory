@@ -1,0 +1,432 @@
+{
+  "stamp": "2026-11-11T1440",
+  "seed": 20261111,
+  "pool": 512,
+  "sample": 30,
+  "locations_query": "https://api.openalex.org/works?filter=openalex_id:W7151043122|W4389358654|W4406643700|W4212982773|W7160491513|W4402389758|W3118885154|W4283746235|W3010573403|W2934155336|W7171320046|W7202089242|W4386349934|W3215419106|W4396753210|W4411201482|W3138997164|W4390980880|W4302773371|W3013120860|W4310265456|W3024457918|W2962090618|W7170069889|W4403103512|W3035072445|W3116370413|W7138876966|W4381786701|W4400603938&per-page=200&select=id,doi,open_access,best_oa_location,locations",
+  "api_key_used": true,
+  "works": [
+    {
+      "openalex": "W7151043122",
+      "doi": "10.70675/4639f1b2ze5acz4071zb8a1za8a4277da882",
+      "stratum": "A",
+      "oa_status": "green",
+      "pdf_urls": [],
+      "outcome": "no PDF URL"
+    },
+    {
+      "openalex": "W4389358654",
+      "doi": "10.1016/j.jag.2023.103601",
+      "stratum": "A",
+      "oa_status": "gold",
+      "pdf_urls": [
+        "https://upcommons.upc.edu/bitstreams/96c98491-ac36-4d22-a8ce-1197a13b8e04/download"
+      ],
+      "outcome": "error",
+      "error": "<HTTPError 418: \"I'm a teapot\">",
+      "host": "upcommons.upc.edu"
+    },
+    {
+      "openalex": "W4406643700",
+      "doi": "10.1016/j.jag.2025.104368",
+      "stratum": "A",
+      "oa_status": "gold",
+      "pdf_urls": [
+        "https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=1471&context=cis_research",
+        "https://escholarship.org/content/qt2nh2w5c8/qt2nh2w5c8.pdf",
+        "https://www.osti.gov/servlets/purl/2566093"
+      ],
+      "outcome": "not a PDF",
+      "status": 200,
+      "content_type": "text/html",
+      "bytes": 212,
+      "host": "ink.library.smu.edu.sg"
+    },
+    {
+      "openalex": "W4212982773",
+      "doi": "10.23919/oceans44145.2021.9705759",
+      "stratum": "A",
+      "oa_status": "green",
+      "pdf_urls": [
+        "https://zenodo.org/record/6368994"
+      ],
+      "outcome": "not a PDF",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 128601,
+      "host": "zenodo.org"
+    },
+    {
+      "openalex": "W7160491513",
+      "doi": "10.1007/978-3-032-42029-9_10",
+      "stratum": "A",
+      "oa_status": "green",
+      "pdf_urls": [],
+      "outcome": "no PDF URL"
+    },
+    {
+      "openalex": "W4402389758",
+      "doi": "10.1016/b978-0-323-99762-1.00123-6",
+      "stratum": "A",
+      "oa_status": "green",
+      "pdf_urls": [],
+      "outcome": "no PDF URL"
+    },
+    {
+      "openalex": "W3118885154",
+      "doi": "10.1561/2300000059",
+      "stratum": "A",
+      "oa_status": "green",
+      "pdf_urls": [
+        "https://arxiv.org/pdf/2101.00443"
+      ],
+      "outcome": "pdf",
+      "status": 200,
+      "bytes": 1297115,
+      "sha256": "c57573630eb34461a50391734d9d156215c09b5ebfd2a226c57f25561572164a",
+      "host": "arxiv.org",
+      "words": 68002,
+      "body_words": 38485,
+      "refs_cut": true,
+      "terms": 0,
+      "names": 0
+    },
+    {
+      "openalex": "W4283746235",
+      "doi": "10.1680/jsmic.22.00005",
+      "stratum": "B",
+      "oa_status": "diamond",
+      "pdf_urls": [
+        "https://discovery.ucl.ac.uk/id/eprint/10157373/2/Zrinzo_Infrastructure%20and%20Cities%20Ontologies%20v3%20IRIS.pdf"
+      ],
+      "outcome": "pdf",
+      "status": 200,
+      "bytes": 280505,
+      "sha256": "ed017eb1ec4fd6d59117a6a5f733bf6fb4e644a4f56a009b68687cb71818ff5e",
+      "host": "discovery.ucl.ac.uk",
+      "words": 7257,
+      "body_words": 7257,
+      "refs_cut": false,
+      "terms": 0,
+      "names": 4
+    },
+    {
+      "openalex": "W3010573403",
+      "doi": "10.30534/ijatcse/2020/0491.12020",
+      "stratum": "B",
+      "oa_status": "bronze",
+      "pdf_urls": [
+        "https://doi.org/10.30534/ijatcse/2020/0491.12020"
+      ],
+      "outcome": "pdf",
+      "status": 200,
+      "bytes": 358065,
+      "sha256": "d883f04b7286434ecbbd8b4e20dc69493abdf4f9100a8f967cafc5e0288a2114",
+      "host": "doi.org",
+      "words": 2858,
+      "body_words": 2685,
+      "refs_cut": true,
+      "terms": 2,
+      "names": 0
+    },
+    {
+      "openalex": "W2934155336",
+      "doi": "10.1109/hase.2019.00014",
+      "stratum": "B",
+      "oa_status": "green",
+      "pdf_urls": [
+        "https://arxiv.org/pdf/1902.03533"
+      ],
+      "outcome": "pdf",
+      "status": 200,
+      "bytes": 970321,
+      "sha256": "f532b16597ed2ffd8613d9c587bec413d9281a41daca24c916b25905a9baad09",
+      "host": "arxiv.org",
+      "words": 10227,
+      "body_words": 9527,
+      "refs_cut": true,
+      "terms": 0,
+      "names": 5
+    },
+    {
+      "openalex": "W7171320046",
+      "doi": "10.71159/bizinfo260015j",
+      "stratum": "A",
+      "oa_status": "diamond",
+      "pdf_urls": [
+        "https://bizinfo.edu.rs/index.php/bizinfo/article/download/409/342"
+      ],
+      "outcome": "pdf",
+      "status": 200,
+      "bytes": 761736,
+      "sha256": "ea9687c97ee4583afc455429cb624a4e9d287fc1f9215d9081c0ca966f7b7fb8",
+      "host": "bizinfo.edu.rs",
+      "words": 4430,
+      "body_words": 3541,
+      "refs_cut": true,
+      "terms": 3,
+      "names": 10
+    },
+    {
+      "openalex": "W7202089242",
+      "doi": "10.1007/978-3-032-31319-5_3",
+      "stratum": "A",
+      "oa_status": "hybrid",
+      "pdf_urls": [
+        "https://link.springer.com/content/pdf/10.1007/978-3-032-31319-5_3.pdf"
+      ],
+      "outcome": "pdf",
+      "status": 200,
+      "bytes": 453466,
+      "sha256": "6518b59fe8cc68dfc54d45ce615bc87f0bf5250b6355a7cda87e766ae9329e12",
+      "host": "link.springer.com",
+      "words": 5740,
+      "body_words": 4977,
+      "refs_cut": true,
+      "terms": 9,
+      "names": 25
+    },
+    {
+      "openalex": "W4386349934",
+      "doi": "10.1016/j.jii.2023.100519",
+      "stratum": "B",
+      "oa_status": "hybrid",
+      "pdf_urls": [
+        "https://discovery.ucl.ac.uk/id/eprint/10177207/1/Farghaly_The%20evolution%20of%20ontology%20in%20AEC_VoR.pdf"
+      ],
+      "outcome": "pdf",
+      "status": 200,
+      "bytes": 3760037,
+      "sha256": "f7614de795269e21aef7572c5ff517bc7f5300c7f04ea20d9271f4183943e69f",
+      "host": "discovery.ucl.ac.uk",
+      "words": 12154,
+      "body_words": 9768,
+      "refs_cut": true,
+      "terms": 0,
+      "names": 3
+    },
+    {
+      "openalex": "W3215419106",
+      "doi": "10.1016/j.procir.2021.11.164",
+      "stratum": "B",
+      "oa_status": "diamond",
+      "pdf_urls": [
+        "https://www.sciencedirect.com/science/article/pii/S2212827121010623/pdf"
+      ],
+      "outcome": "error",
+      "error": "<HTTPError 403: 'Forbidden'>",
+      "host": "www.sciencedirect.com"
+    },
+    {
+      "openalex": "W4396753210",
+      "doi": "10.1007/978-3-031-60796-7_5",
+      "stratum": "A",
+      "oa_status": "green",
+      "pdf_urls": [
+        "https://hal.science/hal-04703071/document"
+      ],
+      "outcome": "not a PDF",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 12546,
+      "host": "hal.science"
+    },
+    {
+      "openalex": "W4411201482",
+      "doi": "10.1016/j.rineng.2025.105706",
+      "stratum": "B",
+      "oa_status": "gold",
+      "pdf_urls": [],
+      "outcome": "no PDF URL"
+    },
+    {
+      "openalex": "W3138997164",
+      "doi": "10.2139/ssrn.3198985",
+      "stratum": "B",
+      "oa_status": "green",
+      "pdf_urls": [],
+      "outcome": "no PDF URL"
+    },
+    {
+      "openalex": "W4390980880",
+      "doi": "10.20944/preprints202401.1331.v1",
+      "stratum": "B",
+      "oa_status": "green",
+      "pdf_urls": [
+        "https://www.preprints.org/manuscript/202401.1331/v1/download"
+      ],
+      "outcome": "not a PDF",
+      "status": 200,
+      "content_type": "text/html",
+      "bytes": 2709,
+      "host": "www.preprints.org"
+    },
+    {
+      "openalex": "W4302773371",
+      "doi": "10.1016/j.future.2022.10.005",
+      "stratum": "A",
+      "oa_status": "green",
+      "pdf_urls": [],
+      "outcome": "no PDF URL"
+    },
+    {
+      "openalex": "W3013120860",
+      "doi": "10.1016/j.autcon.2020.103179",
+      "stratum": "B",
+      "oa_status": "hybrid",
+      "pdf_urls": [
+        "https://ars.els-cdn.com/content/image/1-s2.0-S0926580519314785-ga1_lrg.jpg",
+        "https://orca.cardiff.ac.uk/id/eprint/130694/1/Calin%20et%20al%20Digital%20Twin%20paper.pdf"
+      ],
+      "outcome": "not a PDF",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 308931,
+      "host": "ars.els-cdn.com"
+    },
+    {
+      "openalex": "W4310265456",
+      "doi": "10.1007/978-3-031-39141-5_14",
+      "stratum": "A",
+      "oa_status": "green",
+      "pdf_urls": [],
+      "outcome": "no PDF URL"
+    },
+    {
+      "openalex": "W3024457918",
+      "doi": "10.1109/iciot48696.2020.9089467",
+      "stratum": "B",
+      "oa_status": "green",
+      "pdf_urls": [
+        "https://eprints.lancs.ac.uk/id/eprint/148939/1/Nundloll2020ontology.pdf"
+      ],
+      "outcome": "pdf",
+      "status": 200,
+      "bytes": 635509,
+      "sha256": "201acee9a99e60174427a0bf4c47d2a1034ccd156780bb37e37040a7f6a043e4",
+      "host": "eprints.lancs.ac.uk",
+      "words": 5908,
+      "body_words": 5081,
+      "refs_cut": true,
+      "terms": 0,
+      "names": 2
+    },
+    {
+      "openalex": "W2962090618",
+      "doi": "10.5121/csit.2019.90709",
+      "stratum": "A",
+      "oa_status": "gold",
+      "pdf_urls": [
+        "https://doi.org/10.5121/csit.2019.90709"
+      ],
+      "outcome": "pdf",
+      "status": 200,
+      "bytes": 265423,
+      "sha256": "6c08b924d07d44acab4bc02ea5c0c0f794a89f53746001a664430203238e3cd5",
+      "host": "doi.org",
+      "words": 7008,
+      "body_words": 6548,
+      "refs_cut": true,
+      "terms": 0,
+      "names": 3
+    },
+    {
+      "openalex": "W7170069889",
+      "doi": "10.1007/978-3-032-42029-9_19",
+      "stratum": "A",
+      "oa_status": "green",
+      "pdf_urls": [
+        "https://arxiv.org/pdf/2607.18262"
+      ],
+      "outcome": "pdf",
+      "status": 200,
+      "bytes": 1567381,
+      "sha256": "32397fc2a0de58e703db9b123befa2de0d2a4eb37c202389a6eb762d21c0e060",
+      "host": "arxiv.org",
+      "words": 7408,
+      "body_words": 6121,
+      "refs_cut": true,
+      "terms": 0,
+      "names": 3
+    },
+    {
+      "openalex": "W4403103512",
+      "doi": "10.1145/3698768",
+      "stratum": "B",
+      "oa_status": "green",
+      "pdf_urls": [
+        "https://orca.cardiff.ac.uk/id/eprint/173063/1/Azhar_PAPER_01_V1_R1%20%289%29.pdf",
+        "https://orca.cardiff.ac.uk/id/eprint/163569/1/PAPER01_ORCA.pdf"
+      ],
+      "outcome": "error",
+      "error": "<HTTPError 403: 'Forbidden'>",
+      "host": "orca.cardiff.ac.uk"
+    },
+    {
+      "openalex": "W3035072445",
+      "doi": "10.3390/electronics9060965",
+      "stratum": "B",
+      "oa_status": "gold",
+      "pdf_urls": [
+        "https://www.mdpi.com/2079-9292/9/6/965/pdf?version=1593398513"
+      ],
+      "outcome": "pdf",
+      "status": 200,
+      "bytes": 24849563,
+      "sha256": "c07b88989fcdf7d8c59f55a1fb9aae289c4134ac981123a0adf35c914b548f90",
+      "host": "www.mdpi.com",
+      "words": 11081,
+      "body_words": 9429,
+      "refs_cut": true,
+      "terms": 0,
+      "names": 0
+    },
+    {
+      "openalex": "W3116370413",
+      "doi": "10.32628/ijsrset207384",
+      "stratum": "B",
+      "oa_status": "diamond",
+      "pdf_urls": [],
+      "outcome": "no PDF URL"
+    },
+    {
+      "openalex": "W7138876966",
+      "doi": "10.2139/ssrn.6443039",
+      "stratum": "B",
+      "oa_status": "green",
+      "pdf_urls": [],
+      "outcome": "no PDF URL"
+    },
+    {
+      "openalex": "W4381786701",
+      "doi": "10.1109/wf-iot54382.2022.10152138",
+      "stratum": "A",
+      "oa_status": "green",
+      "pdf_urls": [
+        "https://cris.unibo.it/bitstream/11585/935993/3/wf_121.pdf"
+      ],
+      "outcome": "error",
+      "error": "<HTTPError 403: 'Forbidden'>",
+      "host": "cris.unibo.it"
+    },
+    {
+      "openalex": "W4400603938",
+      "doi": "10.1007/s11227-024-06317-0",
+      "stratum": "B",
+      "oa_status": "green",
+      "pdf_urls": [
+        "https://www.researchsquare.com/article/rs-3063290/latest.pdf"
+      ],
+      "outcome": "pdf",
+      "status": 200,
+      "bytes": 1714289,
+      "sha256": "d031662690567c5cb0d5aca865b47b0297fbe464a7f75603bb46d4cf8ec5c401",
+      "host": "www.researchsquare.com",
+      "words": 11654,
+      "body_words": 10263,
+      "refs_cut": true,
+      "terms": 0,
+      "names": 2
+    }
+  ]
+}

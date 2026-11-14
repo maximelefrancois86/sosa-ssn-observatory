@@ -1,0 +1,46 @@
+cluster,openalex,kept,type,year,doi,venue,stratum,stratum_merged,title
+1,W4407635770,True,data-paper,2025,10.1038/s41597-025-04580-1,Scientific Data,A,A,A semantic approach to mapping the Provenance Ontology to Basic Formal Ontology
+1,W4412609842,False,preprint,2025,10.2139/ssrn.5355833,SSRN Electronic Journal,A,A,A Semantic Approach to Mapping the Provenance Ontology to Basic Formal Ontology
+2,W4327917721,False,preprint,2023,10.20944/preprints202303.0331.v1,Preprints.org,A,A,Abstract Entity Patterns for Sensors and Actuators
+2,W4367678665,True,conference-abstract,2023,10.3390/computers12050093,Computers,A,A,Abstract Entity Patterns for Sensors and Actuators
+3,W2952336671,False,preprint,2013,10.48550/arxiv.1311.2134,arXiv (Cornell University),C,C,Context-aware Dynamic Discovery and Configuration of 'Things' in Smart Environments
+3,W1599916625,True,book-chapter,2014,10.1007/978-3-319-05029-4_9,Studies in computational intelligence,C,C,Context-Aware Dynamic Discovery and Configuration of ‘Things’ in Smart Environments
+4,W2489542617,True,book-chapter,2012,10.4018/978-1-4666-0945-7.ch006,IGI Global eBooks,C,C,Discovering Geosensor Data By Means of an Event Abstraction Layer
+4,W4249529053,False,book-chapter,2012,10.4018/978-1-4666-2038-4.ch120,IGI Global eBooks,C,C,Discovering Geosensor Data By Means of an Event Abstraction Layer
+5,W4393237783,True,article,2024,10.1016/j.future.2024.03.039,Future Generation Computer Systems,A,A,Enabling privacy-aware interoperable and quality IoT data sharing with context
+5,W4407057667,False,book-chapter,2025,10.1007/978-3-658-45877-5_8,Springer eBooks,A,A,Enabling Privacy-Aware Interoperable and Quality IoT Data Sharing with Context
+6,W4396557080,True,article,2024,10.62304/ijbm.v1i2.129,GLOBAL MAINSTREAM JOURNAL,A,A,IMPACT ASSESSMENT OF MACHINE LEARNING ALGORITHMS ON RESOURCE EFFICIENCY AND MANAGEMENT IN URBAN DEVELOPMENTS
+6,W4407082150,False,preprint,2025,10.2139/ssrn.5050054,SSRN Electronic Journal,A,A,Impact Assessment Of Machine Learning Algorithms On Resource Efficiency And Management In Urban Developments
+7,W2742366029,True,book-chapter,2017,10.1201/9781315145686-8,CRC Press eBooks,C,C,Monitoring Medication Adherence in Smart Environments in the Context of Patient Self-management A Knowledge-driven Approach
+7,W4251693626,False,book-chapter,2017,10.1201/9781315145686-9,CRC Press eBooks,C,C,Monitoring Medication Adherence in Smart Environments in the Context of Patient Self-management A Knowledge-driven Approach
+8,W2406738550,True,article,2014,,,C,C,On the Use of Abstract Models for RDF/S Provenance.
+8,W4211120673,False,book-chapter,2015,10.1201/b16859-26,Chapman & Hall/CRC eBooks,C,C,On the Use of Abstract Models for RDF/S Provenance
+9,W4383267650,True,article,2023,10.59657/2837-2565.brs.23.028,Clinical Case Reports and Studies,A,A,"Ontologies for Supporting Traffic Behaviour, Critical Gap, and Conflict Models at Unsignalized Intersection Routes"
+9,W4391055003,False,article,2023,10.33140/jhss.06.07.01,Journal of Humanities & Social Sciences,A,A,"Ontologies for Supporting Traffic Behaviour, Critical Gap, and Conflict Models at Unsignalized Intersection Routes"
+10,W2024425202,True,conference-paper,2013,10.1109/skg.2013.9,"International Conference on Semantics, Knowledge and Grid (SKG)",C,C,Semantic-Driven Configuration of Internet of Things Middleware
+10,W2950273622,False,preprint,2013,10.48550/arxiv.1309.1515,arXiv (Cornell University),C,C,Semantic-driven Configuration of Internet of Things Middleware
+11,W2951228432,False,preprint,2014,10.48550/arxiv.1410.4977,arXiv (Cornell University),C,C,Semantic Gateway as a Service architecture for IoT Interoperability
+11,W1514690261,True,conference-paper,2015,10.1109/mobserv.2015.51,IEEE International Conference on Mobile Services,C,C,Semantic Gateway as a Service Architecture for IoT Interoperability
+12,W3164349981,True,book-chapter,2021,10.1007/978-3-030-48200-8_4-1,Springer eBooks,B,B,Semantic Interoperability as Key for a NDE 4.0 Data Management
+12,W4225963797,False,book-chapter,2022,10.1007/978-3-030-73206-6_4,Springer eBooks,B,B,Semantic Interoperability as Key for a NDE 4.0 Data Management
+13,W4406713429,True,book-chapter,2025,10.1007/978-3-030-48200-8_4-2,Springer eBooks,B,B,Semantic Interoperability as Key for an NDE 4.0 Data Management
+13,W4410808373,False,book-chapter,2025,10.1007/978-3-031-84477-5_4,Springer eBooks,B,B,Semantic Interoperability as Key for an NDE 4.0 Data Management
+14,W3202612503,True,article,2021,10.1016/j.websem.2021.100664,Journal of Web Semantics,A,A,SemML: Facilitating development of ML models for condition monitoring with semantics
+14,W3208720461,False,preprint,2021,10.2139/ssrn.3945440,SSRN Electronic Journal,A,A,SemML: Facilitating Development of ML Models for Condition Monitoring with Semantics
+15,W3007519747,True,preprint,2020,10.20944/preprints202002.0326.v2,Preprints.org,A,A,Serverless GEO Labels for the Semantic Sensor Web
+15,W3126045020,False,preprint,2020,10.20944/preprints202002.0326.v1,Preprints.org,A,A,Serverless GEO Labels for the Semantic Sensor Web
+16,W3113093152,True,book-chapter,2021,10.1007/978-3-030-15145-4_66-1,Springer eBooks,A,A,Smart Mobility Ontology: Current Trends and Future Directions
+16,W4285541111,False,book-chapter,2021,10.1007/978-3-030-69698-6_66,Springer eBooks,A,A,Smart Mobility Ontology: Current Trends and Future Directions
+17,W2803689195,True,article,2018,10.1016/j.websem.2018.06.003,Journal of Web Semantics,A,A,"SOSA: A lightweight ontology for sensors, observations, samples, and actuators"
+17,W3169145163,False,preprint,2018,10.2139/ssrn.3248499,SSRN Electronic Journal,B,A,"SOSA: A Lightweight Ontology for Sensors, Observations, Samples, and Actuators"
+18,W2102802363,True,article,2012,10.1016/j.websem.2012.05.003,Journal of Web Semantics,C,C,The SSN ontology of the W3C semantic sensor network incubator group
+18,W3160362714,False,preprint,2012,10.2139/ssrn.3198991,SSRN Electronic Journal,C,C,The SSN Ontology of the W3C Semantic Sensor Network Incubator Group
+19,W845866633,True,article,2014,10.4018/ijswis.2014100101,International Journal on Semantic Web and Information Systems,C,C,The Ubiquitous Semantic Web
+19,W4234801622,False,book-chapter,2015,10.4018/978-1-4666-9466-8.ch013,IGI Global eBooks,C,C,The Ubiquitous Semantic Web
+19,W4240245436,False,book-chapter,2015,10.4018/978-1-4666-8751-6.ch091,IGI Global eBooks,C,C,The Ubiquitous Semantic Web
+20,W3186649559,True,preprint,2021,10.36227/techrxiv.14906277.v1,,A,A,Towards a Life Cycle for IoT Applications Development
+20,W4250570722,False,preprint,2021,10.36227/techrxiv.14906277,,A,A,Towards a Life Cycle for IoT Applications Development
+21,W2605398534,True,book-chapter,2017,10.4018/978-1-5225-2498-4.ch002,Advances in computational intelligence and robotics book series,C,C,Towards Automation of IoT Analytics
+21,W4229778854,False,book-chapter,2017,10.4018/978-1-5225-3422-8.ch041,IGI Global eBooks,C,C,Towards Automation of IoT Analytics
+22,W4247093761,False,book-chapter,2015,10.4018/978-1-4666-8147-7.ch009,Advances in web technologies and engineering book series,C,C,Web-Based Information Exploration of Sensor Web Using the HTML5/X3D Integration Model
+22,W2504906115,True,book-chapter,2016,10.4018/978-1-4666-9845-1.ch049,IGI Global eBooks,C,C,Web-Based Information Exploration of Sensor Web Using the HTML5/X3D Integration Model

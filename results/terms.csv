@@ -1,0 +1,332 @@
+version,file,namespace,term,kind,deprecated,defined_by
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/ActuatableProperty,class,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/Actuation,class,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/Actuator,class,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/FeatureOfInterest,class,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/ObservableProperty,class,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/Observation,class,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/Platform,class,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/Procedure,class,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/Result,class,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/Sample,class,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/Sampler,class,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/Sampling,class,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/Sensor,class,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/actsOnProperty,object property,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/hasFeatureOfInterest,object property,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/hasResult,object property,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/hasSample,object property,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/hasSimpleResult,datatype property,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/hosts,object property,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/isActedOnBy,object property,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/isFeatureOfInterestOf,object property,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/isHostedBy,object property,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/isObservedBy,object property,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/isResultOf,object property,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/isSampleOf,object property,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/madeActuation,object property,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/madeByActuator,object property,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/madeBySampler,object property,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/madeBySensor,object property,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/madeObservation,object property,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/madeSampling,object property,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/observedProperty,object property,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/observes,object property,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/phenomenonTime,object property,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/resultTime,datatype property,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/sosa.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/usedProcedure,object property,,http://www.w3.org/ns/sosa/
+sosa-ssn-2017,ssn/integrated/ssn.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/Deployment,class,,http://www.w3.org/ns/ssn/
+sosa-ssn-2017,ssn/integrated/ssn.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/Input,class,,http://www.w3.org/ns/ssn/
+sosa-ssn-2017,ssn/integrated/ssn.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/Output,class,,http://www.w3.org/ns/ssn/
+sosa-ssn-2017,ssn/integrated/ssn.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/Property,class,,http://www.w3.org/ns/ssn/
+sosa-ssn-2017,ssn/integrated/ssn.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/Stimulus,class,,http://www.w3.org/ns/ssn/
+sosa-ssn-2017,ssn/integrated/ssn.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/System,class,,http://www.w3.org/ns/ssn/
+sosa-ssn-2017,ssn/integrated/ssn.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/deployedOnPlatform,object property,,http://www.w3.org/ns/ssn/
+sosa-ssn-2017,ssn/integrated/ssn.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/deployedSystem,object property,,http://www.w3.org/ns/ssn/
+sosa-ssn-2017,ssn/integrated/ssn.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/detects,object property,,http://www.w3.org/ns/ssn/
+sosa-ssn-2017,ssn/integrated/ssn.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/forProperty,object property,,http://www.w3.org/ns/ssn/
+sosa-ssn-2017,ssn/integrated/ssn.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/hasDeployment,object property,,http://www.w3.org/ns/ssn/
+sosa-ssn-2017,ssn/integrated/ssn.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/hasInput,object property,,http://www.w3.org/ns/ssn/
+sosa-ssn-2017,ssn/integrated/ssn.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/hasOutput,object property,,http://www.w3.org/ns/ssn/
+sosa-ssn-2017,ssn/integrated/ssn.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/hasProperty,object property,,http://www.w3.org/ns/ssn/
+sosa-ssn-2017,ssn/integrated/ssn.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/hasSubSystem,object property,,http://www.w3.org/ns/ssn/
+sosa-ssn-2017,ssn/integrated/ssn.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/implementedBy,object property,,http://www.w3.org/ns/ssn/
+sosa-ssn-2017,ssn/integrated/ssn.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/implements,object property,,http://www.w3.org/ns/ssn/
+sosa-ssn-2017,ssn/integrated/ssn.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/inDeployment,object property,,http://www.w3.org/ns/ssn/
+sosa-ssn-2017,ssn/integrated/ssn.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/isPropertyOf,object property,,http://www.w3.org/ns/ssn/
+sosa-ssn-2017,ssn/integrated/ssn.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/isProxyFor,object property,,http://www.w3.org/ns/ssn/
+sosa-ssn-2017,ssn/integrated/ssn-system.ttl,http://www.w3.org/ns/ssn/systems/,http://www.w3.org/ns/ssn/systems/Accuracy,class,,http://www.w3.org/ns/ssn/systems/
+sosa-ssn-2017,ssn/integrated/ssn-system.ttl,http://www.w3.org/ns/ssn/systems/,http://www.w3.org/ns/ssn/systems/ActuationRange,class,,http://www.w3.org/ns/ssn/systems/
+sosa-ssn-2017,ssn/integrated/ssn-system.ttl,http://www.w3.org/ns/ssn/systems/,http://www.w3.org/ns/ssn/systems/BatteryLifetime,class,,http://www.w3.org/ns/ssn/systems/
+sosa-ssn-2017,ssn/integrated/ssn-system.ttl,http://www.w3.org/ns/ssn/systems/,http://www.w3.org/ns/ssn/systems/Condition,class,,http://www.w3.org/ns/ssn/systems/
+sosa-ssn-2017,ssn/integrated/ssn-system.ttl,http://www.w3.org/ns/ssn/systems/,http://www.w3.org/ns/ssn/systems/DetectionLimit,class,,http://www.w3.org/ns/ssn/systems/
+sosa-ssn-2017,ssn/integrated/ssn-system.ttl,http://www.w3.org/ns/ssn/systems/,http://www.w3.org/ns/ssn/systems/Drift,class,,http://www.w3.org/ns/ssn/systems/
+sosa-ssn-2017,ssn/integrated/ssn-system.ttl,http://www.w3.org/ns/ssn/systems/,http://www.w3.org/ns/ssn/systems/Frequency,class,,http://www.w3.org/ns/ssn/systems/
+sosa-ssn-2017,ssn/integrated/ssn-system.ttl,http://www.w3.org/ns/ssn/systems/,http://www.w3.org/ns/ssn/systems/Latency,class,,http://www.w3.org/ns/ssn/systems/
+sosa-ssn-2017,ssn/integrated/ssn-system.ttl,http://www.w3.org/ns/ssn/systems/,http://www.w3.org/ns/ssn/systems/MaintenanceSchedule,class,,http://www.w3.org/ns/ssn/systems/
+sosa-ssn-2017,ssn/integrated/ssn-system.ttl,http://www.w3.org/ns/ssn/systems/,http://www.w3.org/ns/ssn/systems/MeasurementRange,class,,http://www.w3.org/ns/ssn/systems/
+sosa-ssn-2017,ssn/integrated/ssn-system.ttl,http://www.w3.org/ns/ssn/systems/,http://www.w3.org/ns/ssn/systems/OperatingPowerRange,class,,http://www.w3.org/ns/ssn/systems/
+sosa-ssn-2017,ssn/integrated/ssn-system.ttl,http://www.w3.org/ns/ssn/systems/,http://www.w3.org/ns/ssn/systems/OperatingProperty,class,,http://www.w3.org/ns/ssn/systems/
+sosa-ssn-2017,ssn/integrated/ssn-system.ttl,http://www.w3.org/ns/ssn/systems/,http://www.w3.org/ns/ssn/systems/OperatingRange,class,,http://www.w3.org/ns/ssn/systems/
+sosa-ssn-2017,ssn/integrated/ssn-system.ttl,http://www.w3.org/ns/ssn/systems/,http://www.w3.org/ns/ssn/systems/Precision,class,,http://www.w3.org/ns/ssn/systems/
+sosa-ssn-2017,ssn/integrated/ssn-system.ttl,http://www.w3.org/ns/ssn/systems/,http://www.w3.org/ns/ssn/systems/Resolution,class,,http://www.w3.org/ns/ssn/systems/
+sosa-ssn-2017,ssn/integrated/ssn-system.ttl,http://www.w3.org/ns/ssn/systems/,http://www.w3.org/ns/ssn/systems/ResponseTime,class,,http://www.w3.org/ns/ssn/systems/
+sosa-ssn-2017,ssn/integrated/ssn-system.ttl,http://www.w3.org/ns/ssn/systems/,http://www.w3.org/ns/ssn/systems/Selectivity,class,,http://www.w3.org/ns/ssn/systems/
+sosa-ssn-2017,ssn/integrated/ssn-system.ttl,http://www.w3.org/ns/ssn/systems/,http://www.w3.org/ns/ssn/systems/Sensitivity,class,,http://www.w3.org/ns/ssn/systems/
+sosa-ssn-2017,ssn/integrated/ssn-system.ttl,http://www.w3.org/ns/ssn/systems/,http://www.w3.org/ns/ssn/systems/SurvivalProperty,class,,http://www.w3.org/ns/ssn/systems/
+sosa-ssn-2017,ssn/integrated/ssn-system.ttl,http://www.w3.org/ns/ssn/systems/,http://www.w3.org/ns/ssn/systems/SurvivalRange,class,,http://www.w3.org/ns/ssn/systems/
+sosa-ssn-2017,ssn/integrated/ssn-system.ttl,http://www.w3.org/ns/ssn/systems/,http://www.w3.org/ns/ssn/systems/SystemCapability,class,,http://www.w3.org/ns/ssn/systems/
+sosa-ssn-2017,ssn/integrated/ssn-system.ttl,http://www.w3.org/ns/ssn/systems/,http://www.w3.org/ns/ssn/systems/SystemLifetime,class,,http://www.w3.org/ns/ssn/systems/
+sosa-ssn-2017,ssn/integrated/ssn-system.ttl,http://www.w3.org/ns/ssn/systems/,http://www.w3.org/ns/ssn/systems/SystemProperty,class,,http://www.w3.org/ns/ssn/systems/
+sosa-ssn-2017,ssn/integrated/ssn-system.ttl,http://www.w3.org/ns/ssn/systems/,http://www.w3.org/ns/ssn/systems/hasOperatingProperty,object property,,http://www.w3.org/ns/ssn/systems/
+sosa-ssn-2017,ssn/integrated/ssn-system.ttl,http://www.w3.org/ns/ssn/systems/,http://www.w3.org/ns/ssn/systems/hasOperatingRange,object property,,http://www.w3.org/ns/ssn/systems/
+sosa-ssn-2017,ssn/integrated/ssn-system.ttl,http://www.w3.org/ns/ssn/systems/,http://www.w3.org/ns/ssn/systems/hasSurvivalProperty,object property,,http://www.w3.org/ns/ssn/systems/
+sosa-ssn-2017,ssn/integrated/ssn-system.ttl,http://www.w3.org/ns/ssn/systems/,http://www.w3.org/ns/ssn/systems/hasSurvivalRange,object property,,http://www.w3.org/ns/ssn/systems/
+sosa-ssn-2017,ssn/integrated/ssn-system.ttl,http://www.w3.org/ns/ssn/systems/,http://www.w3.org/ns/ssn/systems/hasSystemCapability,object property,,http://www.w3.org/ns/ssn/systems/
+sosa-ssn-2017,ssn/integrated/ssn-system.ttl,http://www.w3.org/ns/ssn/systems/,http://www.w3.org/ns/ssn/systems/hasSystemProperty,object property,,http://www.w3.org/ns/ssn/systems/
+sosa-ssn-2017,ssn/integrated/ssn-system.ttl,http://www.w3.org/ns/ssn/systems/,http://www.w3.org/ns/ssn/systems/inCondition,object property,,http://www.w3.org/ns/ssn/systems/
+sosa-ssn-2017,ssn/integrated/ssn-system.ttl,http://www.w3.org/ns/ssn/systems/,http://www.w3.org/ns/ssn/systems/qualityOfObservation,object property,,http://www.w3.org/ns/ssn/
+sosa-ssn-2017,ssn/integrated/ssn.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/wasOriginatedBy,object property,,http://www.w3.org/ns/ssn/
+ssn-2023,ssn/rdf/ontology/core/sosa-deprecated.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/ActuatableProperty,class,yes,http://www.w3.org/ns/sosa/dep/
+ssn-2023,ssn/rdf/ontology/core/sosa-actuation.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/ActuatingProcedure,class,,http://www.w3.org/ns/sosa/act/
+ssn-2023,ssn/rdf/ontology/core/sosa-actuation.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/Actuation,class,,http://www.w3.org/ns/sosa/act/
+ssn-2023,ssn/rdf/ontology/core/sosa-actuation.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/ActuationCollection,class,,http://www.w3.org/ns/sosa/act/
+ssn-2023,ssn/rdf/ontology/core/sosa-actuation.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/Actuator,class,,http://www.w3.org/ns/sosa/act/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/Asset,class,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/extensions/sosa-system.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/Battery,class,,http://www.w3.org/ns/sosa/systems/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/Deployment,class,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/Execution,class,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/ExecutionCollection,class,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/FeatureOfInterest,class,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-sampling.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/MaterialSample,class,,http://www.w3.org/ns/sosa/sam/
+ssn-2023,ssn/rdf/ontology/extensions/sosa-system.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/NormalOperatingConditions,class,,http://www.w3.org/ns/sosa/systems/
+ssn-2023,ssn/rdf/ontology/core/sosa-deprecated.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/ObservableProperty,class,yes,http://www.w3.org/ns/sosa/dep/
+ssn-2023,ssn/rdf/ontology/core/sosa-observation.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/Observation,class,,http://www.w3.org/ns/sosa/obs/
+ssn-2023,ssn/rdf/ontology/core/sosa-observation.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/ObservationCollection,class,,http://www.w3.org/ns/sosa/obs/
+ssn-2023,ssn/rdf/ontology/core/sosa-observation.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/ObservingProcedure,class,,http://www.w3.org/ns/sosa/obs/
+ssn-2023,ssn/rdf/ontology/extensions/sosa-system.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/OperatingConditions,class,,http://www.w3.org/ns/sosa/systems/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/Platform,class,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/extensions/sosa-oms.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/PreparationProcedure,class,,http://www.w3.org/ns/sosa/oms/
+ssn-2023,ssn/rdf/ontology/extensions/sosa-oms.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/PreparationStep,class,,http://www.w3.org/ns/sosa/oms/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/Procedure,class,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/Property,class,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/extensions/sample-relations.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/RelationshipNature,class,,http://www.w3.org/ns/sosa/relations/
+ssn-2023,ssn/rdf/ontology/core/sosa-deprecated.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/Result,class,yes,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-sampling.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/Sample,class,,http://www.w3.org/ns/sosa/sam/
+ssn-2023,ssn/rdf/ontology/core/sosa-sampling.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/SampleCollection,class,,http://www.w3.org/ns/sosa/sam/
+ssn-2023,ssn/rdf/ontology/extensions/sample-relations.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/SampleRelationship,class,,http://www.w3.org/ns/sosa/relations/
+ssn-2023,ssn/rdf/ontology/core/sosa-sampling.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/Sampler,class,,http://www.w3.org/ns/sosa/sam/
+ssn-2023,ssn/rdf/ontology/core/sosa-sampling.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/Sampling,class,,http://www.w3.org/ns/sosa/sam/
+ssn-2023,ssn/rdf/ontology/core/sosa-sampling.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/SamplingCollection,class,,http://www.w3.org/ns/sosa/sam/
+ssn-2023,ssn/rdf/ontology/core/sosa-sampling.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/SamplingProcedure,class,,http://www.w3.org/ns/sosa/sam/
+ssn-2023,ssn/rdf/ontology/core/sosa-observation.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/Sensor,class,,http://www.w3.org/ns/sosa/obs/
+ssn-2023,ssn/rdf/ontology/core/sosa-sampling.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/SpatialSample,class,,http://www.w3.org/ns/sosa/sam/
+ssn-2023,ssn/rdf/ontology/core/sosa-sampling.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/StatisticalSample,class,,http://www.w3.org/ns/sosa/sam/
+ssn-2023,ssn/rdf/ontology/core/sosa-observation.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/Stimulus,class,,http://www.w3.org/ns/sosa/obs/
+ssn-2023,ssn/rdf/ontology/extensions/sosa-system.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/SuboptimalOperatingConditions,class,,http://www.w3.org/ns/sosa/systems/
+ssn-2023,ssn/rdf/ontology/extensions/sosa-system.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/SurvivableConditions,class,,http://www.w3.org/ns/sosa/systems/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/System,class,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-actuation.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/actsOn,object property,,http://www.w3.org/ns/sosa/act/
+ssn-2023,ssn/rdf/ontology/core/sosa-actuation.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/actsOnProperty,object property,,http://www.w3.org/ns/sosa/act/
+ssn-2023,ssn/rdf/ontology/extensions/sosa-oms.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/classification,object property,,http://www.w3.org/ns/sosa/oms/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/deployedAsset,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/deployedOnPlatform,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/deployedSystem,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-observation.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/detects,object property,,http://www.w3.org/ns/sosa/obs/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/endTime,datatype property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-sampling.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/featureHasUltimateSample,object property,,http://www.w3.org/ns/sosa/sam/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/forProperty,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/hasDeployment,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/hasFeatureOfInterest,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/hasInput,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/hasInputValue,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/hasMember,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/extensions/sosa-system.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/hasOperatingConditions,object property,,http://www.w3.org/ns/sosa/systems/
+ssn-2023,ssn/rdf/ontology/core/sosa-sampling.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/hasOriginalSample,object property,,http://www.w3.org/ns/sosa/sam/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/hasOutput,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/extensions/sosa-oms.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/hasPreparationStep,object property,,http://www.w3.org/ns/sosa/oms/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/hasProcedure,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/hasProperty,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-observation.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/hasProxy,object property,,http://www.w3.org/ns/sosa/obs/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/hasResult,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-sampling.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/hasSample,object property,,http://www.w3.org/ns/sosa/sam/
+ssn-2023,ssn/rdf/ontology/extensions/sample-relations.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/hasSampleRelationship,object property,,http://www.w3.org/ns/sosa/relations/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/hasSimpleResult,datatype property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/hasSubSystem,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/extensions/sosa-system.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/hasSystemCapability,object property,,http://www.w3.org/ns/sosa/systems/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/hasUltimateFeatureOfInterest,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/extensions/sosa-system.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/hasValidityContext,object property,,http://www.w3.org/ns/sosa/systems/
+ssn-2023,ssn/rdf/ontology/extensions/sosa-oms.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/horizontalPositionalAccuracy,object property,,http://www.w3.org/ns/sosa/oms/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/hosts,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/implementedBy,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/implements,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/inDeployment,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/inputFor,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/inputValueForExecution,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-actuation.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/isActedOnBy,object property,,http://www.w3.org/ns/sosa/act/
+ssn-2023,ssn/rdf/ontology/core/sosa-observation.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/isDetectedBy,object property,,http://www.w3.org/ns/sosa/obs/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/isFeatureOfInterestOf,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/isHostedBy,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/isMemberOf,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-observation.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/isObservedBy,object property,,http://www.w3.org/ns/sosa/obs/
+ssn-2023,ssn/rdf/ontology/core/sosa-sampling.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/isOriginalSampleOf,object property,,http://www.w3.org/ns/sosa/sam/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/isProcedureFor,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/isPropertyOf,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-observation.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/isProxyFor,object property,,http://www.w3.org/ns/sosa/obs/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/isResultOf,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-sampling.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/isResultOfMadeBySampler,object property,,http://www.w3.org/ns/sosa/sam/
+ssn-2023,ssn/rdf/ontology/core/sosa-sampling.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/isResultOfUsedProcedure,object property,,http://www.w3.org/ns/sosa/sam/
+ssn-2023,ssn/rdf/ontology/core/sosa-sampling.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/isSampleOf,object property,,http://www.w3.org/ns/sosa/sam/
+ssn-2023,ssn/rdf/ontology/core/sosa-sampling.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/isSampleOfUltimateFOI,object property,,http://www.w3.org/ns/sosa/sam/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/isSubSystemOf,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/isUltimateFeatureOfInterestOf,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-actuation.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/madeActuation,object property,,http://www.w3.org/ns/sosa/act/
+ssn-2023,ssn/rdf/ontology/core/sosa-actuation.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/madeByActuator,object property,,http://www.w3.org/ns/sosa/act/
+ssn-2023,ssn/rdf/ontology/core/sosa-sampling.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/madeBySampler,object property,,http://www.w3.org/ns/sosa/sam/
+ssn-2023,ssn/rdf/ontology/core/sosa-observation.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/madeBySensor,object property,,http://www.w3.org/ns/sosa/obs/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/madeBySystem,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/madeExecution,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-observation.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/madeObservation,object property,,http://www.w3.org/ns/sosa/obs/
+ssn-2023,ssn/rdf/ontology/extensions/sosa-oms.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/madeOnPlatform,object property,,http://www.w3.org/ns/sosa/oms/
+ssn-2023,ssn/rdf/ontology/core/sosa-sampling.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/madeSampling,object property,,http://www.w3.org/ns/sosa/sam/
+ssn-2023,ssn/rdf/ontology/core/sosa-sampling.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/madeSamplingHasResult,object property,,http://www.w3.org/ns/sosa/sam/
+ssn-2023,ssn/rdf/ontology/extensions/sosa-oms.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/makesObservationCollection,object property,,http://www.w3.org/ns/sosa/oms/
+ssn-2023,ssn/rdf/ontology/extensions/sosa-oms.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/metadata,object property,,http://www.w3.org/ns/sosa/oms/
+ssn-2023,ssn/rdf/ontology/extensions/sample-relations.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/natureOfRelationship,object property,,http://www.w3.org/ns/sosa/relations/
+ssn-2023,ssn/rdf/ontology/core/sosa-observation.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/observationRelatedTo,object property,,http://www.w3.org/ns/sosa/obs/
+ssn-2023,ssn/rdf/ontology/extensions/sosa-oms.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/observationType,object property,,http://www.w3.org/ns/sosa/oms/
+ssn-2023,ssn/rdf/ontology/core/sosa-observation.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/observedProperty,object property,,http://www.w3.org/ns/sosa/obs/
+ssn-2023,ssn/rdf/ontology/core/sosa-observation.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/observes,object property,,http://www.w3.org/ns/sosa/obs/
+ssn-2023,ssn/rdf/ontology/core/sosa-observation.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/originated,object property,,http://www.w3.org/ns/sosa/obs/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/outputFor,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/extensions/sosa-oms.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/parameter,object property,,http://www.w3.org/ns/sosa/oms/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/phenomenonOccurred,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/phenomenonTime,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/extensions/sosa-oms.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/preparedSample,object property,,http://www.w3.org/ns/sosa/oms/
+ssn-2023,ssn/rdf/ontology/extensions/sosa-oms.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/processingDetails,object property,,http://www.w3.org/ns/sosa/oms/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/propertyFor,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-observation.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/qualityOf,object property,,http://www.w3.org/ns/sosa/obs/
+ssn-2023,ssn/rdf/ontology/core/sosa-observation.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/relatedObservation,object property,,http://www.w3.org/ns/sosa/obs/
+ssn-2023,ssn/rdf/ontology/extensions/sample-relations.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/relatedSample,object property,,http://www.w3.org/ns/sosa/relations/
+ssn-2023,ssn/rdf/ontology/extensions/sosa-oms.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/relatedSampling,object property,,http://www.w3.org/ns/sosa/oms/
+ssn-2023,ssn/rdf/ontology/core/sosa-observation.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/resultQuality,object property,,http://www.w3.org/ns/sosa/obs/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/resultTime,datatype property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/extensions/sosa-oms.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/samplePreparationStep,object property,,http://www.w3.org/ns/sosa/oms/
+ssn-2023,ssn/rdf/ontology/extensions/sosa-oms.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/samplingLocation,object property,,http://www.w3.org/ns/sosa/oms/
+ssn-2023,ssn/rdf/ontology/extensions/sosa-oms.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/samplingTime,object property,,http://www.w3.org/ns/sosa/oms/
+ssn-2023,ssn/rdf/ontology/extensions/sosa-oms.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/shape,object property,,http://www.w3.org/ns/sosa/oms/
+ssn-2023,ssn/rdf/ontology/extensions/sosa-oms.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/size,object property,,http://www.w3.org/ns/sosa/oms/
+ssn-2023,ssn/rdf/ontology/extensions/sosa-oms.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/sourceLocation,object property,,http://www.w3.org/ns/sosa/oms/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/startTime,datatype property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/extensions/sosa-oms.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/storageLocation,object property,,http://www.w3.org/ns/sosa/oms/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/systemDeployment,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/usedForExecution,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/core/sosa-sampling.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/usedForExecutionHasResult,object property,,http://www.w3.org/ns/sosa/sam/
+ssn-2023,ssn/rdf/ontology/core/sosa-common.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/usedProcedure,object property,,http://www.w3.org/ns/sosa/common/
+ssn-2023,ssn/rdf/ontology/extensions/sosa-oms.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/validTime,object property,,http://www.w3.org/ns/sosa/oms/
+ssn-2023,ssn/rdf/ontology/extensions/sosa-oms.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/verticalPositionalAccuracy,object property,,http://www.w3.org/ns/sosa/oms/
+ssn-2023,ssn/rdf/ontology/core/sosa-actuation.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/wasActedOnBy,object property,,http://www.w3.org/ns/sosa/act/
+ssn-2023,ssn/rdf/ontology/core/sosa-observation.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/wasObservedBy,object property,,http://www.w3.org/ns/sosa/obs/
+ssn-2023,ssn/rdf/ontology/core/sosa-observation.ttl,http://www.w3.org/ns/sosa/,http://www.w3.org/ns/sosa/wasOriginatedBy,object property,,http://www.w3.org/ns/sosa/obs/
+ssn-2023,ssn/rdf/ontology/core/ssn-deprecated.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/Deployment,class,yes,http://www.w3.org/ns/ssn/dep/
+ssn-2023,ssn/rdf/ontology/core/ssn-deprecated.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/Input,class,yes,http://www.w3.org/ns/ssn/dep/
+ssn-2023,ssn/rdf/ontology/core/ssn-deprecated.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/Output,class,yes,http://www.w3.org/ns/ssn/dep/
+ssn-2023,ssn/rdf/ontology/core/ssn-deprecated.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/Property,class,yes,http://www.w3.org/ns/ssn/dep/
+ssn-2023,ssn/rdf/ontology/core/ssn-deprecated.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/Stimulus,class,yes,http://www.w3.org/ns/ssn/dep/
+ssn-2023,ssn/rdf/ontology/core/ssn-deprecated.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/System,class,yes,http://www.w3.org/ns/ssn/dep/
+ssn-2023,ssn/rdf/ontology/core/ssn-deprecated.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/deployedAsset,object property,yes,http://www.w3.org/ns/ssn/dep/
+ssn-2023,ssn/rdf/ontology/core/ssn-deprecated.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/deployedOnPlatform,object property,yes,http://www.w3.org/ns/ssn/dep/
+ssn-2023,ssn/rdf/ontology/core/ssn-deprecated.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/deployedSystem,object property,yes,http://www.w3.org/ns/ssn/dep/
+ssn-2023,ssn/rdf/ontology/core/ssn-deprecated.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/detects,object property,yes,http://www.w3.org/ns/ssn/dep/
+ssn-2023,ssn/rdf/ontology/core/ssn-deprecated.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/forProperty,object property,yes,http://www.w3.org/ns/ssn/dep/
+ssn-2023,ssn/rdf/ontology/core/ssn-deprecated.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/hasDeployment,object property,yes,http://www.w3.org/ns/ssn/dep/
+ssn-2023,ssn/rdf/ontology/core/ssn-deprecated.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/hasInput,object property,yes,http://www.w3.org/ns/ssn/dep/
+ssn-2023,ssn/rdf/ontology/core/ssn-deprecated.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/hasOutput,object property,yes,http://www.w3.org/ns/ssn/dep/
+ssn-2023,ssn/rdf/ontology/core/ssn-deprecated.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/hasProperty,object property,yes,http://www.w3.org/ns/ssn/dep/
+ssn-2023,ssn/rdf/ontology/core/ssn-deprecated.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/hasSubSystem,object property,yes,http://www.w3.org/ns/ssn/dep/
+ssn-2023,ssn/rdf/ontology/core/ssn-deprecated.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/implementedBy,object property,yes,http://www.w3.org/ns/ssn/dep/
+ssn-2023,ssn/rdf/ontology/core/ssn-deprecated.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/implements,object property,yes,http://www.w3.org/ns/ssn/dep/
+ssn-2023,ssn/rdf/ontology/core/ssn-deprecated.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/inDeployment,object property,yes,http://www.w3.org/ns/ssn/dep/
+ssn-2023,ssn/rdf/ontology/core/ssn-deprecated.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/isPropertyOf,object property,yes,http://www.w3.org/ns/ssn/dep/
+ssn-2023,ssn/rdf/ontology/core/ssn-deprecated.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/isProxyFor,object property,yes,http://www.w3.org/ns/ssn/dep/
+ssn-2023,ssn/rdf/ontology/core/ssn-deprecated.ttl,http://www.w3.org/ns/ssn/,http://www.w3.org/ns/ssn/wasOriginatedBy,object property,yes,http://www.w3.org/ns/ssn/dep/
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#Accuracy,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#BatteryLifetime,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#Condition,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#Deployment,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#DeploymentRelatedProcess,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#DetectionLimit,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#Device,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#Drift,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#FeatureOfInterest,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#Frequency,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#Input,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#Latency,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#MaintenanceSchedule,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#MeasurementCapability,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#MeasurementProperty,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#MeasurementRange,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#Observation,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#ObservationValue,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#OperatingPowerRange,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#OperatingProperty,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#OperatingRange,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#Output,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#Platform,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#Precision,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#Process,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#Property,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#Resolution,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#ResponseTime,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#Selectivity,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#Sensing,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#SensingDevice,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#Sensitivity,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#Sensor,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#SensorDataSheet,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#SensorInput,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#SensorOutput,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#Stimulus,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#SurvivalProperty,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#SurvivalRange,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#System,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#SystemLifetime,class,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#attachedSystem,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#deployedOnPlatform,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#deployedSystem,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#deploymentProcessPart,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#detects,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#endTime,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#featureOfInterest,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#forProperty,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#hasDeployment,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#hasInput,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#hasMeasurementCapability,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#hasMeasurementProperty,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#hasOperatingProperty,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#hasOperatingRange,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#hasOutput,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#hasProperty,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#hasSubSystem,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#hasSurvivalProperty,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#hasSurvivalRange,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#hasValue,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#implementedBy,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#implements,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#inCondition,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#inDeployment,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#isProducedBy,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#isPropertyOf,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#isProxyFor,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#madeObservation,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#observationResult,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#observationResultTime,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#observationSamplingTime,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#observedBy,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#observedProperty,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#observes,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#ofFeature,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#onPlatform,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#qualityOfObservation,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#sensingMethodUsed,object property,yes,http://purl.oclc.org/NET/ssnx/ssn
+ssn-xg,ssn/integrated/ssnx.ttl,http://purl.oclc.org/NET/ssnx/ssn#,http://purl.oclc.org/NET/ssnx/ssn#startTime,object property,yes,http://purl.oclc.org/NET/ssnx/ssn

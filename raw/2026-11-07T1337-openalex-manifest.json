@@ -1,0 +1,114 @@
+{
+  "stamp": "2026-11-07T1337",
+  "source": "OpenAlex",
+  "api_key_used": true,
+  "select": "id,doi,display_name,publication_year,publication_date,type,language,primary_location,authorships,cited_by_count,abstract_inverted_index,primary_topic,keywords,open_access,referenced_works_count,ids,is_retracted",
+  "seeds": [
+    {
+      "key": "ssn-xg-report-2011",
+      "openalex": "W2729989548",
+      "role": "lineage",
+      "title": "Semantic Sensor Network XG Final Report",
+      "year": 2011,
+      "query": "https://api.openalex.org/works?filter=cites:W2729989548&per-page=200&select=id,doi,display_name,publication_year,publication_date,type,language,primary_location,authorships,cited_by_count,abstract_inverted_index,primary_topic,keywords,open_access,referenced_works_count,ids,is_retracted",
+      "reported": 142,
+      "retrieved": 142
+    },
+    {
+      "key": "sso-2010",
+      "openalex": "W2407444278",
+      "role": "lineage",
+      "title": "The stimulus-sensor-observation ontology design pattern and its integration into the semantic sensor network ontology",
+      "year": 2010,
+      "query": "https://api.openalex.org/works?filter=cites:W2407444278&per-page=200&select=id,doi,display_name,publication_year,publication_date,type,language,primary_location,authorships,cited_by_count,abstract_inverted_index,primary_topic,keywords,open_access,referenced_works_count,ids,is_retracted",
+      "reported": 131,
+      "retrieved": 131
+    },
+    {
+      "key": "compton-2012",
+      "openalex": "W2102802363",
+      "doi": "10.1016/j.websem.2012.05.003",
+      "role": "lineage",
+      "title": "The SSN ontology of the W3C semantic sensor network incubator group",
+      "year": 2012,
+      "query": "https://api.openalex.org/works?filter=cites:W2102802363&per-page=200&select=id,doi,display_name,publication_year,publication_date,type,language,primary_location,authorships,cited_by_count,abstract_inverted_index,primary_topic,keywords,open_access,referenced_works_count,ids,is_retracted",
+      "reported": 1447,
+      "retrieved": 1447
+    },
+    {
+      "key": "cox-2017-oosf",
+      "openalex": "W2290162994",
+      "doi": "10.3233/SW-160214",
+      "role": "lineage",
+      "title": "Ontology for observations and sampling features, with alignments to existing models",
+      "year": 2017,
+      "query": "https://api.openalex.org/works?filter=cites:W2290162994&per-page=200&select=id,doi,display_name,publication_year,publication_date,type,language,primary_location,authorships,cited_by_count,abstract_inverted_index,primary_topic,keywords,open_access,referenced_works_count,ids,is_retracted",
+      "reported": 45,
+      "retrieved": 45
+    },
+    {
+      "key": "w3c-rec-2017",
+      "openalex": "W2782275617",
+      "doi": "10.62973/16-079",
+      "role": "core",
+      "title": "Semantic Sensor Network Ontology (W3C Recommendation, OGC 16-079)",
+      "year": 2017,
+      "query": "https://api.openalex.org/works?filter=cites:W2782275617&per-page=200&select=id,doi,display_name,publication_year,publication_date,type,language,primary_location,authorships,cited_by_count,abstract_inverted_index,primary_topic,keywords,open_access,referenced_works_count,ids,is_retracted",
+      "reported": 147,
+      "retrieved": 147
+    },
+    {
+      "key": "w3c-rec-2017-hal",
+      "openalex": "W4311835140",
+      "role": "variant",
+      "title": "Semantic Sensor Network Ontology (HAL deposit of the W3C Recommendation)",
+      "year": 2017,
+      "query": "https://api.openalex.org/works?filter=cites:W4311835140&per-page=200&select=id,doi,display_name,publication_year,publication_date,type,language,primary_location,authorships,cited_by_count,abstract_inverted_index,primary_topic,keywords,open_access,referenced_works_count,ids,is_retracted",
+      "reported": 0,
+      "retrieved": 0
+    },
+    {
+      "key": "janowicz-2019",
+      "openalex": "W2803689195",
+      "doi": "10.1016/j.websem.2018.06.003",
+      "role": "core",
+      "title": "SOSA: A lightweight ontology for sensors, observations, samples, and actuators",
+      "year": 2019,
+      "query": "https://api.openalex.org/works?filter=cites:W2803689195&per-page=200&select=id,doi,display_name,publication_year,publication_date,type,language,primary_location,authorships,cited_by_count,abstract_inverted_index,primary_topic,keywords,open_access,referenced_works_count,ids,is_retracted",
+      "reported": 550,
+      "retrieved": 550
+    },
+    {
+      "key": "janowicz-2018-ssrn",
+      "openalex": "W3169145163",
+      "doi": "10.2139/ssrn.3248499",
+      "role": "variant",
+      "title": "SOSA: A Lightweight Ontology for Sensors, Observations, Samples, and Actuators (SSRN preprint)",
+      "year": 2018,
+      "query": "https://api.openalex.org/works?filter=cites:W3169145163&per-page=200&select=id,doi,display_name,publication_year,publication_date,type,language,primary_location,authorships,cited_by_count,abstract_inverted_index,primary_topic,keywords,open_access,referenced_works_count,ids,is_retracted",
+      "reported": 37,
+      "retrieved": 37
+    },
+    {
+      "key": "haller-2019",
+      "openalex": "W2889161681",
+      "doi": "10.3233/SW-180320",
+      "role": "core",
+      "title": "The modular SSN ontology: A joint W3C and OGC standard specifying the semantics of sensors, observations, sampling, and actuation",
+      "year": 2019,
+      "query": "https://api.openalex.org/works?filter=cites:W2889161681&per-page=200&select=id,doi,display_name,publication_year,publication_date,type,language,primary_location,authorships,cited_by_count,abstract_inverted_index,primary_topic,keywords,open_access,referenced_works_count,ids,is_retracted",
+      "reported": 282,
+      "retrieved": 282
+    },
+    {
+      "key": "taylor-2019-revamped",
+      "openalex": "W3013413982",
+      "role": "core",
+      "title": "The Semantic Sensor Network Ontology, Revamped",
+      "year": 2019,
+      "query": "https://api.openalex.org/works?filter=cites:W3013413982&per-page=200&select=id,doi,display_name,publication_year,publication_date,type,language,primary_location,authorships,cited_by_count,abstract_inverted_index,primary_topic,keywords,open_access,referenced_works_count,ids,is_retracted",
+      "reported": 10,
+      "retrieved": 10
+    }
+  ]
+}

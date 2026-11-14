@@ -1,0 +1,350 @@
+{
+ "stamp": "2026-11-14T1241",
+ "script": "model_code.py 1",
+ "set": "all",
+ "sample": null,
+ "model": {
+  "id": "claude-sonnet-5-5",
+  "api": "Anthropic Message Batches API, anthropic-version 2023-06-01",
+  "max_tokens": 32000,
+  "effort": "medium",
+  "output_tokens_estimate": 1500,
+  "prompt": "protocol/model-prompt.md"
+ },
+ "price": {
+  "input": 1.0,
+  "output": 5.0,
+  "cache_write": 1.25,
+  "cache_read": 0.05,
+  "source": "platform.claude.com/docs/en/about-claude/pricing (read on 2026-11-13): Sonnet 5.5 2 / 10 dollars per million input / output tokens, 5-minute cache writes 2.50, cache hits 0.10, batch 1 / 5; the full 1M context at standard price"
+ },
+ "system_sha256": "7845223beedc24befb7dd3500cfe109b75b9240562472417207b7c2365250db1",
+ "schema_sha256": "ecdd14ce8ab0e541a38515db269f8fa3616445648accc44c032bdbb9b3427a1f",
+ "system_words": 3178,
+ "requests": 35,
+ "estimate": {
+  "input_tokens": 983664,
+  "system_tokens": 12076,
+  "output_tokens": 52500,
+  "dollars": 1.28,
+  "long_prompt_tokens": 0,
+  "how": "2.4 tokens per word, 1,500 output tokens per work (thinking included)"
+ },
+ "works": [
+  {
+   "item": "openalex:W2884579239",
+   "custom_id": "openalex-W2884579239",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 15152,
+   "basis": "full text",
+   "body_sha256": "0945f58f31a6a061e612e89f0a7bed334a8953a0ba4b3171f54fcc81887877d8"
+  },
+  {
+   "item": "openalex:W2944355366",
+   "custom_id": "openalex-W2944355366",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 7974,
+   "basis": "full text",
+   "body_sha256": "bd84f8fee3af62d5b9a7a13fcdaaec949b4ecceffdf69733401525034466b5d2"
+  },
+  {
+   "item": "openalex:W2929354337",
+   "custom_id": "openalex-W2929354337",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 20035,
+   "basis": "full text",
+   "body_sha256": "54eb739083f2b16c4982ecbcb35047061f52658f4dbf0a31c890842fd73491ba"
+  },
+  {
+   "item": "openalex:W3005460304",
+   "custom_id": "openalex-W3005460304",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 8463,
+   "basis": "full text",
+   "body_sha256": "d06b6dbb6fc25ab7197e381dee99f3ffeb868889ea26bc01aa236f9655dae66d"
+  },
+  {
+   "item": "openalex:W3166368427",
+   "custom_id": "openalex-W3166368427",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 13253,
+   "basis": "full text",
+   "body_sha256": "3238d33d4efcb130a5e22ea4c902276216f2b59aab397a2a1f02330fb16d5092"
+  },
+  {
+   "item": "openalex:W2993016410",
+   "custom_id": "openalex-W2993016410",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 23489,
+   "basis": "full text",
+   "body_sha256": "9e26ec372abf84e91f22de114bc30cd2d1c612592e80a8c400cfa57615364d1e"
+  },
+  {
+   "item": "openalex:W2791815748",
+   "custom_id": "openalex-W2791815748",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 12226,
+   "basis": "full text",
+   "body_sha256": "85cb8760e3e6f02fcd2189c475814cb57580d20b132fd168850681d02bf1f8d7"
+  },
+  {
+   "item": "openalex:W2899977328",
+   "custom_id": "openalex-W2899977328",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 8503,
+   "basis": "full text",
+   "body_sha256": "31be6b5ac44265b43cc4f8823fa34dbd1f9ba4bf1dfd4b9d964a6ff19ec4e06d"
+  },
+  {
+   "item": "openalex:W2985807578",
+   "custom_id": "openalex-W2985807578",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 15647,
+   "basis": "full text",
+   "body_sha256": "b1e204fd2953793cea6e07ca3217f87f3ab86d88ae3343a79cd78e45f8ce8d2f"
+  },
+  {
+   "item": "openalex:W2905207164",
+   "custom_id": "openalex-W2905207164",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 9703,
+   "basis": "full text",
+   "body_sha256": "a87eef950bf36e061ad71c7fc42e4671ffe90d9697aad20e02dff94a11e1f9ee"
+  },
+  {
+   "item": "openalex:W2907560777",
+   "custom_id": "openalex-W2907560777",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 10347,
+   "basis": "full text",
+   "body_sha256": "fc1943a665e2e8dc8dd693b84ab22a751d990fd1860ed18200b6525954a0a2c9"
+  },
+  {
+   "item": "openalex:W3196472319",
+   "custom_id": "openalex-W3196472319",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 7120,
+   "basis": "full text",
+   "body_sha256": "dfbc0f3239ed9f292e115277f08528e0dfa5b99b3742ef28c7cc986c63c36f15"
+  },
+  {
+   "item": "openalex:W2791099390",
+   "custom_id": "openalex-W2791099390",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 14261,
+   "basis": "full text",
+   "body_sha256": "ef1e3636c5407d492f3adff2c7d5b9a840c61ea55211a1d591d927536af42a32"
+  },
+  {
+   "item": "openalex:W2906464847",
+   "custom_id": "openalex-W2906464847",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 10152,
+   "basis": "full text",
+   "body_sha256": "953bbe8c139441ebb7785cb31ba82a8e4fceb4837eafac03c78a4105fa5cc560"
+  },
+  {
+   "item": "openalex:W2933877521",
+   "custom_id": "openalex-W2933877521",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 12093,
+   "basis": "full text",
+   "body_sha256": "ebe67765f6bb19a33c67df5055c082bdaacdc53e603c0dd8d8693b864d792e2f"
+  },
+  {
+   "item": "openalex:W3013120860",
+   "custom_id": "openalex-W3013120860",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 12159,
+   "basis": "full text",
+   "body_sha256": "6973c52b542a996887922f3b01a9f156b31f4cd25c39af962704600bc5cf034f"
+  },
+  {
+   "item": "openalex:W3032968634",
+   "custom_id": "openalex-W3032968634",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 12967,
+   "basis": "full text",
+   "body_sha256": "026e6655c064c6747d23e3c2386c50c243cfb30ffc580c509756438548be2fd2"
+  },
+  {
+   "item": "openalex:W3007895089",
+   "custom_id": "openalex-W3007895089",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 20365,
+   "basis": "full text",
+   "body_sha256": "c4e01d794fea415a812670c26359a805ea05b52eeacfb32264b469f8dee56ed7"
+  },
+  {
+   "item": "openalex:W2987452795",
+   "custom_id": "openalex-W2987452795",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 9116,
+   "basis": "full text",
+   "body_sha256": "fb6397019dace039f8f7c359d7e7014f0fdac765f3699a8f07661cd95049012f"
+  },
+  {
+   "item": "openalex:W2899090608",
+   "custom_id": "openalex-W2899090608",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 31215,
+   "basis": "full text",
+   "body_sha256": "8c16d0fa6d91e897f9d45e3dc89c399862042250563aaf8353cde803c84938e9"
+  },
+  {
+   "item": "openalex:W2791920842",
+   "custom_id": "openalex-W2791920842",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 14832,
+   "basis": "full text",
+   "body_sha256": "4a153c108951c2814fac21ac9cf9ab4cc0ccb1b2e6fe4755be24490a9ef2de6e"
+  },
+  {
+   "item": "openalex:W3049213978",
+   "custom_id": "openalex-W3049213978",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 15051,
+   "basis": "full text",
+   "body_sha256": "2d781b8fe7cad6979276b3356e0c7addcc32c1266fbe5bd5ca08d7aff1a610c6"
+  },
+  {
+   "item": "openalex:W2900245446",
+   "custom_id": "openalex-W2900245446",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 3959,
+   "basis": "full text",
+   "body_sha256": "ef79ebf7a461aa694450ec9308744bd0686400131b4c1bc2ed17760aa84f1f1b"
+  },
+  {
+   "item": "openalex:W2900748004",
+   "custom_id": "openalex-W2900748004",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 17533,
+   "basis": "full text",
+   "body_sha256": "1c20bfc366964bff460aaa5186f982ac914a3d033c72bd1bfaff9205151b6989"
+  },
+  {
+   "item": "openalex:W2787184475",
+   "custom_id": "openalex-W2787184475",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 13563,
+   "basis": "full text",
+   "body_sha256": "1451f43efdb70084b2644c65d38bebe53be6952270d2b2c8862c0729007f81a8"
+  },
+  {
+   "item": "openalex:W3082664913",
+   "custom_id": "openalex-W3082664913",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 11860,
+   "basis": "full text",
+   "body_sha256": "411b781ead4e96b66499e34ecfc48df098da14b321194090000521c374033682"
+  },
+  {
+   "item": "openalex:W2886981542",
+   "custom_id": "openalex-W2886981542",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 9035,
+   "basis": "full text",
+   "body_sha256": "3c96e55de9653cdb30badd636c0209ac768c3aebb16d261aa1030b6a619964a3"
+  },
+  {
+   "item": "openalex:W2811452448",
+   "custom_id": "openalex-W2811452448",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 9655,
+   "basis": "full text",
+   "body_sha256": "205fd77a365fb8ba9dcd8879a386fa7377dbe829c4b1186484781a98ea5d46a2"
+  },
+  {
+   "item": "openalex:W3033986444",
+   "custom_id": "openalex-W3033986444",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 5060,
+   "basis": "full text",
+   "body_sha256": "8d2fc989bbf7d6e32ea3bb165ab1071418b78f94879984507240afaf21161e45"
+  },
+  {
+   "item": "openalex:W2883270747",
+   "custom_id": "openalex-W2883270747",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 6561,
+   "basis": "full text",
+   "body_sha256": "14bf62e697c031d8f411dda619b0be3e20f68204ad121933638221fc92359eee"
+  },
+  {
+   "item": "openalex:W2896245592",
+   "custom_id": "openalex-W2896245592",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 4470,
+   "basis": "full text",
+   "body_sha256": "b9804413f74bc334ac9d1667df79829eb9aa7ca3bf138cd41c09b7476677a197"
+  },
+  {
+   "item": "openalex:W3047956152",
+   "custom_id": "openalex-W3047956152",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 3994,
+   "basis": "full text",
+   "body_sha256": "dbb086f132110afa04acdf2a98833813ace3b1d5eb81508a78908ab24d53a6db"
+  },
+  {
+   "item": "openalex:W3215419106",
+   "custom_id": "openalex-W3215419106",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 4765,
+   "basis": "full text",
+   "body_sha256": "584d1fec5afcad1c54af4201505946bd21ca4abff8dc0d27c21ee15dfe511c3d"
+  },
+  {
+   "item": "openalex:W2886274257",
+   "custom_id": "openalex-W2886274257",
+   "stratum": "B",
+   "source": "oa-pdf",
+   "words": 4061,
+   "basis": "full text",
+   "body_sha256": "1f93c38da2531df1c48618a5fb9248afdf39f0e0ad9e569a16aad8d957f05c17"
+  },
+  {
+   "item": "openalex:W3010198232",
+   "custom_id": "openalex-W3010198232",
+   "stratum": "A",
+   "source": "oa-pdf",
+   "words": 11221,
+   "basis": "full text",
+   "body_sha256": "3377de928b7830b2dc6075770b059846e1958d14af1b049cf568abe94ebc7783"
+  }
+ ]
+}

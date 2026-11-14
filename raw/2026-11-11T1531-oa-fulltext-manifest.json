@@ -1,0 +1,1851 @@
+{
+  "stamp": "2026-11-11T1531",
+  "seed": 20261111,
+  "pool": 108,
+  "done": 108,
+  "complete": true,
+  "population": "d",
+  "weak_sample": 40,
+  "queries": [
+    "https://api.openalex.org/works?filter=openalex_id:W7160320950|W4288293378|W3177009056|W3016569613|W4378172781|W2560940965|W2555963176|W4205670343|W3166728768|W2918475408|W3044722414|W4399811972|W4323981420|W4399177826|W4205902139|W4296117904|W2972925336|W4396506015|W4406228181|W2795557259|W3111835365|W2117014059|W1806356160|W4318822652|W4404724858|W4382402562|W3171053004|W3158054150|W2896984066|W7165866707|W7153352983|W4411014685|W646328936|W2894794116|W3194696694|W7149445485|W2598816345|W2990957667|W4385492113|W2071635717|W4391684103|W2792522571|W4387197894|W7151826548|W3082801508|W2899070037|W3158327305|W2794593333|W2258400580|W4405646596&per-page=200&select=id,doi,open_access,best_oa_location,locations",
+    "https://api.openalex.org/works?filter=openalex_id:W4378574480|W2399619033|W4416510857|W2889025470|W3208121414|W4414560220|W4401591275|W3129088219|W2913975363|W4410168781|W2967114827|W3025201329|W2345847919|W2962885513|W2056682612|W2897745667|W72756161|W7117261424|W7148364860|W3210326268|W3011632231|W3115008670|W4413796311|W4413324065|W7154974497|W2885094716|W4206179244|W4416862467|W2791696224|W2807610326|W4416955611|W4386360962|W2467367080|W3012016126|W2939986152|W3118848203|W7225335476|W2810408581|W4385668785|W4394000017|W3176250646|W2906902642|W3133715594|W7147154016|W7127616060|W2756671071|W2798965689|W7211993723|W2979435185|W2895765427&per-page=200&select=id,doi,open_access,best_oa_location,locations",
+    "https://api.openalex.org/works?filter=openalex_id:W7128905530|W3134690968|W4210939230|W7117127300|W2961757260|W4386420804|W3162923160|W4417182003&per-page=200&select=id,doi,open_access,best_oa_location,locations"
+  ],
+  "api_key_used": true,
+  "works": [
+    {
+      "openalex": "W7160320950",
+      "doi": "10.3390/app16094541",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://www.mdpi.com/2076-3417/16/9/4541/pdf?version=1777971058",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 476996,
+          "sha256": "542772fa4d52b57d2bead43ce70e95504f975a413a79e1d6b2672a8cd98dc216"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W4288293378",
+      "doi": "10.5281/zenodo.6684496",
+      "stratum": "D",
+      "oa_status": "green",
+      "tried": [],
+      "signal": "weak",
+      "outcome": "no PDF URL"
+    },
+    {
+      "openalex": "W3177009056",
+      "doi": "10.13140/rg.2.2.14940.92809",
+      "stratum": "D",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://hal-emse.ccsd.cnrs.fr/emse-03260061v1/document",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 12546
+        }
+      ],
+      "signal": "strong",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W3016569613",
+      "doi": "10.48550/arxiv.2004.08115",
+      "stratum": "D",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://arxiv.org/pdf/2004.08115",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 2177897,
+          "sha256": "a990f22d3a082e949c1588f7e64d4df9e1a5cbe8470a7ffd5bf92c59a6e724f1"
+        }
+      ],
+      "signal": "weak",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W4378172781",
+      "doi": "10.1121/10.0019416",
+      "stratum": "D",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10219683/pdf/JASMAN-000153-003100_1.pdf",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 1817
+        }
+      ],
+      "signal": "weak",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2560940965",
+      "doi": "10.1088/2040-8986/aa7b27",
+      "stratum": "D",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://arxiv.org/pdf/1612.08103",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 1300398,
+          "sha256": "ee578c51c9db2ecc66e5633bb85a28d681ec97ffa7d0218d642fa950bf7f69d2"
+        }
+      ],
+      "signal": "weak",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W2555963176",
+      "doi": "10.3390/s16111884",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://www.mdpi.com/1424-8220/16/11/1884/pdf?version=1478784563",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 3224705,
+          "sha256": "52250c5659fe1627e3fdd90d680b0f68701eeccd5af1e6940983421bcc0dc75b"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W4205670343",
+      "doi": "10.1121/10.0008980",
+      "stratum": "D",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://pubs.aip.org/asa/jasa/article-pdf/151/1/232/16522688/232_1_online.pdf",
+          "outcome": "error",
+          "error": "<HTTPError 403: 'Forbidden'>"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W3166728768",
+      "doi": "10.3390/s21113867",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://www.mdpi.com/1424-8220/21/11/3867/pdf?version=1622786263",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 6929570,
+          "sha256": "cd15dd3fe5b3e4495bb39a197971e81302ef33d07b1df17fe1d464246025a9b3"
+        }
+      ],
+      "signal": "weak",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W2918475408",
+      "doi": "10.70675/4bbd3e9ez1b5az4e71z8655zf4f411527f7a",
+      "stratum": "D",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://theses.hal.science/tel-02083973v1/document",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 12546
+        }
+      ],
+      "signal": "strong",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W3044722414",
+      "doi": "10.1039/d0ra05083k",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://pubs.rsc.org/en/content/articlepdf/2020/ra/d0ra05083k",
+          "outcome": "error",
+          "error": "<HTTPError 403: 'Forbidden'>"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4399811972",
+      "doi": "10.3390/en17123006",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://upcommons.upc.edu/bitstreams/041cb8c9-6696-4133-96ca-2ba27c9ab608/download",
+          "outcome": "error",
+          "error": "<HTTPError 418: \"I'm a teapot\">"
+        },
+        {
+          "url": "https://upcommons.upc.edu/bitstreams/4b0fcd01-23a4-4a68-86ee-1a0b69f57d00/download",
+          "outcome": "error",
+          "error": "<HTTPError 418: \"I'm a teapot\">"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4323981420",
+      "doi": "10.1186/s12966-023-01428-y",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://ijbnpa.biomedcentral.com/counter/pdf/10.1186/s12966-023-01428-y",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 2393915,
+          "sha256": "a58b32fb825c02afc760ae28c6f14a780cf8bfe7766b2b345364d7dc4ae1493e"
+        }
+      ],
+      "signal": "weak",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W4399177826",
+      "doi": "10.5194/agile-giss-5-11-2024",
+      "stratum": "D",
+      "oa_status": "diamond",
+      "tried": [
+        {
+          "url": "https://agile-giss.copernicus.org/articles/5/11/2024/agile-giss-5-11-2024.pdf",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 6575360,
+          "sha256": "5dee38bef9c6f1a06f75f9af36d47b4af04fa5da46200bbe1066a95b70f090e7"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W4205902139",
+      "doi": "10.1002/fsh.10721",
+      "stratum": "D",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/fsh.10721",
+          "outcome": "error",
+          "error": "<HTTPError 403: 'Forbidden'>"
+        }
+      ],
+      "signal": "weak",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4296117904",
+      "doi": "10.3390/membranes12090865",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://www.mdpi.com/2077-0375/12/9/865/pdf?version=1662629935",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 2922897,
+          "sha256": "a12aeb65c56a381377b320bdb62fc22bdf046dd7ea6ab30afe0797cc4fd071dc"
+        }
+      ],
+      "signal": "weak",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W2972925336",
+      "doi": "10.1029/2019sw002287",
+      "stratum": "D",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://arxiv.org/pdf/1910.09622",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 5271824,
+          "sha256": "3a17cbc4d99506b568ee28360afd7de146d8ec51262d6935d754baaf53e51405"
+        }
+      ],
+      "signal": "weak",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W4396506015",
+      "doi": "10.48550/arxiv.2404.16856",
+      "stratum": "D",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://arxiv.org/pdf/2404.16856",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 15073778,
+          "sha256": "0fedf5b4551032943916035a91e3cc4fc219d16f8564dfe737ab49423a15b5fe"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W4406228181",
+      "doi": "10.5821/dissertation-2117-421450",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://upcommons.upc.edu/bitstreams/01a40dcc-91c7-44e4-aef3-d0b87d4f3669/download",
+          "outcome": "error",
+          "error": "<HTTPError 418: \"I'm a teapot\">"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2795557259",
+      "doi": "10.1177/2331216518765379",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://journals.sagepub.com/doi/pdf/10.1177/2331216518765379",
+          "outcome": "error",
+          "error": "<HTTPError 403: 'Forbidden'>"
+        }
+      ],
+      "signal": "weak",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W3111835365",
+      "doi": "10.1016/j.enbuild.2020.110653",
+      "stratum": "D",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/am/pii/S0378778820334393",
+          "outcome": "error",
+          "error": "<HTTPError 403: 'Forbidden'>"
+        },
+        {
+          "url": "https://escholarship.org/content/qt6dj04825/qt6dj04825.pdf",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 2938880,
+          "sha256": "9582326765fd92dfcd62a0c287332819e9ffa7a7cbf65e7f249f8afbf957faab"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W2117014059",
+      "doi": "10.3389/fpsyg.2014.00639",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00639/pdf",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 1372170,
+          "sha256": "55190e2697b6f8d5c883498d28e684e271b1ca22e8c21540acc73216ef22f246"
+        }
+      ],
+      "signal": "weak",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W1806356160",
+      "doi": "10.3233/sw-120089",
+      "stratum": "D",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://content.iospress.com:443/download/semantic-web/sw089?id=semantic-web%2Fsw089",
+          "outcome": "error",
+          "error": "<HTTPError 403: 'Forbidden'>"
+        },
+        {
+          "url": "http://oa.upm.es/16418/",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 7085
+        },
+        {
+          "url": "https://repositorio.aemet.es/bitstream/20.500.11765/14870/1/SW_Atemezing_2013.pdf",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 620287,
+          "sha256": "1392a5b72dfd42e2849d1b8e1a0d83c5af8cf2d431136e8af3738c14f0b33abd"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W4318822652",
+      "doi": "10.3390/rs15030821",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://www.mdpi.com/2072-4292/15/3/821/pdf?version=1675838079",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 4986072,
+          "sha256": "9434ea28842f570402cecf0bc0878f757a3e4e7d34bbe82977fc251bd81af71d"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W4404724858",
+      "doi": "10.1007/978-3-031-77847-6_15",
+      "stratum": "D",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://hal.science/hal-04823866v1/document",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 12546
+        }
+      ],
+      "signal": "strong",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4382402562",
+      "doi": "10.3390/life13071456",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://www.mdpi.com/2075-1729/13/7/1456/pdf?version=1687933593",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 941595,
+          "sha256": "b9c6b1e7e937fd6e059fab56544339235066507eccbd749cd714376f52764f10"
+        }
+      ],
+      "signal": "weak",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W3171053004",
+      "doi": "10.1016/j.cirp.2021.04.047",
+      "stratum": "D",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S0007850621000718/pdf",
+          "outcome": "error",
+          "error": "<HTTPError 403: 'Forbidden'>"
+        },
+        {
+          "url": "https://re.public.polimi.it/bitstream/11311/1177409/4/1-s2.0-S0007850621000718-main.pdf",
+          "outcome": "error",
+          "error": "<HTTPError 403: 'Forbidden'>"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W3158054150",
+      "doi": "10.20868/upm.thesis.66728",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://oa.upm.es/66728/1/ALBA_FERNANDEZ_IZQUIERDO.pdf",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 7085
+        }
+      ],
+      "signal": "strong",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2896984066",
+      "doi": "10.7490/f1000research.1115856.1",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://f1000research.com/documents/7-1163/pdf",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 8146568,
+          "sha256": "1f73c86724847dc7ae5b6645baa4c63311f59343848b6d4789cdb23679324406"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W7165866707",
+      "doi": "10.59796/jcst.v16n3.2026.201",
+      "stratum": "D",
+      "oa_status": "diamond",
+      "tried": [
+        {
+          "url": "https://ph04.tci-thaijo.org/index.php/JCST/article/download/12187/2608",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 999866,
+          "sha256": "38b04f37100c7899c8daa84dd6aa6bc7c61638d1e1a4a85038414f04b6bff7fd"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W7153352983",
+      "doi": "10.1109/bigdata66926.2025.11478529",
+      "stratum": "D",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://arxiv.org/pdf/2510.21695",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 2377067,
+          "sha256": "f78cfb4167db9fe89568eedd79f2f12ede6d122c1f6bfc31369fad7cce1f5429"
+        }
+      ],
+      "signal": "weak",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W4411014685",
+      "doi": "10.1007/s00778-025-00927-7",
+      "stratum": "D",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/s00778-025-00927-7.pdf",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 2627874,
+          "sha256": "6bd7e79194fb188818b96d36a512211ba5a46375408bca9ee37aa21f8c75bb2f"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W646328936",
+      "doi": "10.5162/sensor2013/d8.1",
+      "stratum": "D",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://www.ama-science.org/proceedings/getFile/ZGH3AN==",
+          "outcome": "error",
+          "error": "<HTTPError 404: 'Not Found'>"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2894794116",
+      "doi": "10.1007/978-3-030-00220-6_3",
+      "stratum": "D",
+      "oa_status": "green",
+      "tried": [],
+      "signal": "strong",
+      "outcome": "no PDF URL"
+    },
+    {
+      "openalex": "W3194696694",
+      "doi": "10.13016/doky-cnjw",
+      "stratum": "D",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "http://hdl.handle.net/1903/27237",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 490846
+        }
+      ],
+      "signal": "weak",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W7149445485",
+      "doi": "10.70675/a2f31900z05fbz4d75z8504z614f4546a77e",
+      "stratum": "D",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://theses.hal.science/tel-03127288v1/file/these.pdf",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 12546
+        }
+      ],
+      "signal": "strong",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2598816345",
+      "doi": "10.17586/2226-1494-2015-15-2-285-292",
+      "stratum": "D",
+      "oa_status": "diamond",
+      "tried": [
+        {
+          "url": "https://ntv.ifmo.ru/file/article/12561.pdf",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 1893577,
+          "sha256": "1cd823e0febbd87d4de2c1d411eca421517b5dbb9a18a7ebc322681137a1a800"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W2990957667",
+      "doi": "10.13140/rg.2.2.16339.53286",
+      "stratum": "D",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "http://hdl.handle.net/11556/790",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 419252
+        }
+      ],
+      "signal": "strong",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4385492113",
+      "doi": "10.3390/rs15153842",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://www.mdpi.com/2072-4292/15/15/3842/pdf?version=1690951868",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 8006268,
+          "sha256": "1e1b7dd35a0da39b82bc85ae87ec3683db5258d864cf5166fd6cf13a9a4bb28d"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W2071635717",
+      "doi": "10.1103/physreva.90.063619",
+      "stratum": "D",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://arxiv.org/pdf/1212.2528",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 642240,
+          "sha256": "67cd7b5e785371857e2a9feb81e5e53bf14d215c7a09de787e0fa8ac7b813c2e"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W4391684103",
+      "doi": "10.3390/info15020100",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://www.mdpi.com/2078-2489/15/2/100/pdf?version=1707403246",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 3487785,
+          "sha256": "235ccd7924a81a834f7040712f6d4b85b85f7128993c9b10fc8f52bf5becdfda"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W2792522571",
+      "doi": "10.1504/ijitca.2018.090158",
+      "stratum": "D",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://doi.org/10.1504/ijitca.2018.090158",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html",
+          "bytes": 849
+        },
+        {
+          "url": "https://doi.org/10.1504/ijitca.2018.10011243",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html",
+          "bytes": 849
+        }
+      ],
+      "signal": "strong",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4387197894",
+      "doi": "10.35366/112796",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://www.medigraphic.com/pdfs/circol/cco-2023/cco233b.pdf",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 303805,
+          "sha256": "1edad9f614cb9cf2818ceef147689ea88c000b6ba892cfb905e3d47e180d9128"
+        }
+      ],
+      "signal": "weak",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W7151826548",
+      "doi": "10.70675/ae0131f7z36cfz4fdez8f7az7b043f57e6f0",
+      "stratum": "D",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://theses.hal.science/tel-04565639/document",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 12546
+        },
+        {
+          "url": "https://theses.hal.science/tel-04565639v1/document",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 12546
+        }
+      ],
+      "signal": "strong",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W3082801508",
+      "doi": "10.1016/j.xplc.2020.100106",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S2590346220301346/pdf",
+          "outcome": "error",
+          "error": "<HTTPError 403: 'Forbidden'>"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2899070037",
+      "doi": "10.1016/j.healthpol.2018.10.016",
+      "stratum": "D",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S0168851018306353",
+          "outcome": "error",
+          "error": "<HTTPError 403: 'Forbidden'>"
+        },
+        {
+          "url": "http://eprints.whiterose.ac.uk/140239/7/productivity_uk_it_Final%20draft_1_AS_biblio_ok_VA.pdf",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 595022,
+          "sha256": "4a5e96d7f30a12da0e6390063ad6a116f3a2f7cd96eb754ddb2b9aac7c0f3b1a"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W3158327305",
+      "doi": "10.1186/s12911-021-01491-0",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://bmcmedinformdecismak.biomedcentral.com/track/pdf/10.1186/s12911-021-01491-0",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 1664600,
+          "sha256": "f1f9907b58c2e1d4a6658766a4570c07496c9a802c60f97135f3194dbec03eb1"
+        }
+      ],
+      "signal": "weak",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W2794593333",
+      "doi": "10.15224/978-1-63248-082-8-15",
+      "stratum": "D",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://www.seekdl.org/assets/pdf/20160111_093213.pdf",
+          "outcome": "error",
+          "error": "URLError(TimeoutError('timed out'))"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2258400580",
+      "doi": "10.1007/978-3-642-34222-6_21",
+      "stratum": "D",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-642-34222-6_21.pdf",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 93702,
+          "sha256": "8c5c4b89693c9ac7500ae0f88291859a466c9cd43350e4795d843d43390e2057"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W4405646596",
+      "doi": "10.53555/ajbr.v27i4s.3544",
+      "stratum": "D",
+      "oa_status": "diamond",
+      "tried": [
+        {
+          "url": "https://africanjournalofbiomedicalresearch.com/index.php/AJBR/article/download/3544/4079",
+          "outcome": "error",
+          "error": "<HTTPError 404: 'Not Found'>"
+        }
+      ],
+      "signal": "weak",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4378574480",
+      "doi": "10.3390/s23115124",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://www.mdpi.com/1424-8220/23/11/5124/pdf?version=1685513291",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 1011088,
+          "sha256": "a4fecbba152d90ee5fdd02d9cc6688751a8e28146de75c53aba2f6bf93946838"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W2399619033",
+      "doi": "10.5120/ijca2016909632",
+      "stratum": "D",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://doi.org/10.5120/ijca2016909632",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 540046,
+          "sha256": "ca81ee4f6d26186de71d134c8a014e3495fc68e5613f46617d34f984959de8c4"
+        }
+      ],
+      "signal": "weak",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W4416510857",
+      "doi": "10.21203/rs.3.rs-7750783/v1",
+      "stratum": "D",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://www.researchsquare.com/article/rs-7750783/latest.pdf",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 1348627,
+          "sha256": "43a517b3e81b44a6e3199c16ecdd170b1194507332dff8f7c6d41b41c67ff617"
+        }
+      ],
+      "signal": "weak",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W2889025470",
+      "doi": "10.1111/nph.15385",
+      "stratum": "D",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://nph.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/nph.15385",
+          "outcome": "error",
+          "error": "<HTTPError 403: 'Forbidden'>"
+        },
+        {
+          "url": "https://hal.inrae.fr/hal-02627721v1/file/publis18-mistea-029_neveu_daling_1.pdf",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 12545
+        }
+      ],
+      "signal": "strong",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W3208121414",
+      "doi": "10.5281/zenodo.4621050",
+      "stratum": "D",
+      "oa_status": "green",
+      "tried": [],
+      "signal": "weak",
+      "outcome": "no PDF URL"
+    },
+    {
+      "openalex": "W4414560220",
+      "doi": "10.1016/j.jii.2025.100962",
+      "stratum": "D",
+      "oa_status": "hybrid",
+      "tried": [],
+      "signal": "strong",
+      "outcome": "no PDF URL"
+    },
+    {
+      "openalex": "W4401591275",
+      "doi": "10.18522/2311-3103-2024-1-167-180",
+      "stratum": "D",
+      "oa_status": "diamond",
+      "tried": [
+        {
+          "url": "https://izv-tn.tti.sfedu.ru/index.php/izv_tn/article/download/906/1093",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 552537,
+          "sha256": "ff8ee1fe3ab4a24b02b0be20e29e02951d15a1e3b4ac4e3d8a099635c06d48e3"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W3129088219",
+      "doi": "10.1155/2021/6625184",
+      "stratum": "D",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://downloads.hindawi.com/journals/wcmc/2021/6625184.pdf",
+          "outcome": "error",
+          "error": "<HTTPError 403: 'Forbidden'>"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2913975363",
+      "doi": "10.1121/1.5087271",
+      "stratum": "D",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://asa.scitation.org/doi/pdf/10.1121/1.5087271",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html",
+          "bytes": 1490
+        }
+      ],
+      "signal": "weak",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4410168781",
+      "doi": "10.1596/35653",
+      "stratum": "D",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "http://hdl.handle.net/10986/35653",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 1120550
+        }
+      ],
+      "signal": "weak",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2967114827",
+      "doi": "10.18293/seke2019-117",
+      "stratum": "D",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://doi.org/10.18293/seke2019-117",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 227307,
+          "sha256": "d83fb355300d9896404eecd7d5eb6f70ed961c73a746a6df5831e3ff95671858"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W3025201329",
+      "doi": "10.1016/j.cirp.2020.04.007",
+      "stratum": "D",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://re.public.polimi.it/bitstream/11311/1136953/2/0Formal%20modelling%20of%20release%20control%20policies%20as%20a%20plug-in%20for%20performance%20evaluation%20of%20manufacturing%20systems.pdf",
+          "outcome": "error",
+          "error": "<HTTPError 403: 'Forbidden'>"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2345847919",
+      "doi": "10.15781/t2xf9b",
+      "stratum": "D",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "http://hdl.handle.net/2152/35276",
+          "outcome": "not a PDF",
+          "status": 202,
+          "content_type": "text/html; charset=UTF-8",
+          "bytes": 0
+        }
+      ],
+      "signal": "weak",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2962885513",
+      "doi": "10.35490/ec3.2019.192",
+      "stratum": "D",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "http://ec-3.org/conf2019/contribution_192_final/",
+          "outcome": "error",
+          "error": "<HTTPError 404: 'Not Found'>"
+        },
+        {
+          "url": "https://biblio.ugent.be/publication/8633669/file/8633670.pdf",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 517537,
+          "sha256": "f5ae8a0bab6fb4984e96ed8e7ffd095a819dd8473b33669c26fbcf36af16e6ab"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W2056682612",
+      "doi": "10.1121/1.3652888",
+      "stratum": "D",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://asa.scitation.org/doi/pdf/10.1121/1.3652888",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html",
+          "bytes": 1468
+        }
+      ],
+      "signal": "weak",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2897745667",
+      "doi": "10.1080/17452007.2018.1530092",
+      "stratum": "D",
+      "oa_status": "green",
+      "tried": [],
+      "signal": "strong",
+      "outcome": "no PDF URL"
+    },
+    {
+      "openalex": "W72756161",
+      "doi": "10.1007/978-3-642-21064-8_20",
+      "stratum": "D",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-21064-8_20.pdf",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 449058,
+          "sha256": "3d2f35e264d4f11895b012f4483c7e8e197365bfeb318b5fb00aaeb219161f3c"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W7117261424",
+      "doi": "10.25923/t4sq-x648",
+      "stratum": "D",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://repository.library.noaa.gov/view/noaa/72255/noaa_72255_DS1.pdf",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 3614949,
+          "sha256": "85ce37dd141ea2ce151f16864102076efd1560dbe5230e62089c486888a78dba"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W7148364860",
+      "doi": "10.70675/7ce3d854z6c1bz4824zaef7z0c3b69cfd68c",
+      "stratum": "D",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://theses.hal.science/tel-01735217v1/file/TH2017TERDJIMIMEHDI.pdf",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 12546
+        }
+      ],
+      "signal": "strong",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W3210326268",
+      "doi": "10.1007/s42979-021-00860-w",
+      "stratum": "D",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/s42979-021-00860-w.pdf",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 2302522,
+          "sha256": "c33ea2b8e8c7a9d05a99d2d59e22b6c9640825fdf4240137f623b18bb2f8e6e9"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W3011632231",
+      "doi": "10.1109/access.2020.2979505",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://ieeexplore.ieee.org/ielx7/6287639/8948470/09028136.pdf",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 10206231,
+          "sha256": "8b759a7f5509893775dc5ef2e7f0c27bf360ac37e2b3b57501d3c9c92eb2fdfa"
+        }
+      ],
+      "signal": "weak",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W3115008670",
+      "doi": "10.3390/app11010289",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://www.mdpi.com/2076-3417/11/1/289/pdf?version=1609385822",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 6990358,
+          "sha256": "fe5e559cc73d965587059ece378f78ffdd5be2e70ab12d667a23604378b790af"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W4413796311",
+      "doi": "10.3233/ssw250018",
+      "stratum": "D",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://arxiv.org/pdf/2506.03826",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 751354,
+          "sha256": "aa46bce99385f515ea1d6f3d6148ce941f83e99181b94b76cfaae673571cf729"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W4413324065",
+      "doi": "10.1038/s43856-025-01013-3",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://www.nature.com/articles/s43856-025-01013-3.pdf",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 607230,
+          "sha256": "775152cc5e0f834febdcd6c25f3a35c84fa25f4434b725016799a034cf7d45b2"
+        }
+      ],
+      "signal": "weak",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W7154974497",
+      "doi": "10.1039/d5el00210a",
+      "stratum": "D",
+      "oa_status": "diamond",
+      "tried": [
+        {
+          "url": "https://pubs.rsc.org/en/content/articlepdf/2026/el/d5el00210a",
+          "outcome": "error",
+          "error": "<HTTPError 403: 'Forbidden'>"
+        }
+      ],
+      "signal": "weak",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2885094716",
+      "doi": "10.1007/978-3-319-98379-0_18",
+      "stratum": "D",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "http://hdl.handle.net/2164/11980",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 426582
+        }
+      ],
+      "signal": "strong",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4206179244",
+      "doi": "10.2196/32722",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://formative.jmir.org/2022/3/e32722/PDF",
+          "outcome": "not a PDF",
+          "status": 202,
+          "content_type": "text/html; charset=UTF-8",
+          "bytes": 0
+        }
+      ],
+      "signal": "weak",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4416862467",
+      "doi": "10.1145/3770740",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://dl.acm.org/doi/pdf/10.1145/3770740",
+          "outcome": "error",
+          "error": "<HTTPError 403: 'Forbidden'>"
+        }
+      ],
+      "signal": "weak",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2791696224",
+      "doi": "10.14257/ijca.2018.11.1.14",
+      "stratum": "D",
+      "oa_status": "bronze",
+      "tried": [
+        {
+          "url": "https://doi.org/10.14257/ijca.2018.11.1.14",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 641132,
+          "sha256": "cee09dbf12658b1123750cf774974c088ba640308912b168b07c534acd052569"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W2807610326",
+      "doi": "10.48550/arxiv.1806.02242",
+      "stratum": "D",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://arxiv.org/pdf/1806.02242",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 1607433,
+          "sha256": "23f1c02dfca7a6682c1df385565e6935289e189cfecdb8166656dfec3f1604f8"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W4416955611",
+      "doi": "10.3390/app152312803",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://www.mdpi.com/2076-3417/15/23/12803/pdf?version=1764766508",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 2903944,
+          "sha256": "6c27002912d3a2c32aeb968d6d429d1c6b87c9af8cea06b78b45da61f7e90107"
+        }
+      ],
+      "signal": "weak",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W4386360962",
+      "doi": "10.3847/25c2cfeb.1df8bf74",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://baas.aas.org/pub/2023n3i295/download/pdf",
+          "outcome": "error",
+          "error": "<HTTPError 403: 'Forbidden'>"
+        }
+      ],
+      "signal": "weak",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2467367080",
+      "doi": "10.1016/j.trpro.2016.05.050",
+      "stratum": "D",
+      "oa_status": "diamond",
+      "tried": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S2352146516300503/pdf",
+          "outcome": "error",
+          "error": "<HTTPError 403: 'Forbidden'>"
+        }
+      ],
+      "signal": "weak",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W3012016126",
+      "doi": "10.5753/bresci.2015.7207",
+      "stratum": "D",
+      "oa_status": "diamond",
+      "tried": [
+        {
+          "url": "https://sol.sbc.org.br/index.php/bresci/article/download/7207/7094",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 1232830,
+          "sha256": "c233fee29e3bf4cca734dfee03191bba3c067191ce41735320c56a9bdcd7d28f"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W2939986152",
+      "doi": "10.1049/iet-cvi.2018.5263",
+      "stratum": "D",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1049/iet-cvi.2018.5263",
+          "outcome": "error",
+          "error": "<HTTPError 403: 'Forbidden'>"
+        }
+      ],
+      "signal": "weak",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W3118848203",
+      "doi": "10.33111/iep.2020.32_33.02",
+      "stratum": "D",
+      "oa_status": "diamond",
+      "tried": [
+        {
+          "url": "https://doi.org/10.33111/iep.2020.32_33.02_eng",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 478146,
+          "sha256": "3b7756342459dce73b35733fe018971b650b44b0cd67dbe35d775d438b9138e0"
+        }
+      ],
+      "signal": "weak",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W7225335476",
+      "doi": "10.1007/978-3-032-39594-8_4",
+      "stratum": "D",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-032-39594-8_4.pdf",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 1045553,
+          "sha256": "df13f1d9bb4cfb037ed99dbf890ee90737e9661f8bf9815e94e35432de50c833"
+        }
+      ],
+      "signal": "weak",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W2810408581",
+      "doi": "10.1101/358127",
+      "stratum": "D",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://www.biorxiv.org/content/biorxiv/early/2019/02/25/358127.full.pdf",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 574605,
+          "sha256": "84c1c229e60368c67a8ed9bcd3718eb30bef155a54da8d0aae10ab11686761c2"
+        }
+      ],
+      "signal": "weak",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W4385668785",
+      "doi": "10.2196/48946",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10599284/pdf/formative_v7i1e48946.pdf",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 1817
+        }
+      ],
+      "signal": "weak",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4394000017",
+      "doi": "10.1016/j.iswa.2024.200366",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://repositorio.iscte-iul.pt/bitstream/10071/31507/1/article_103722.pdf",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 2739408,
+          "sha256": "91d100dfee951bdb13d55db62c97d36b95e16e4762468ebdcd80b169787053ff"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W3176250646",
+      "doi": "10.36785/2021111410",
+      "stratum": "D",
+      "oa_status": "diamond",
+      "tried": [
+        {
+          "url": "http://journal.buitms.edu.pk/j/index.php/bj/article/download/410/298",
+          "outcome": "error",
+          "error": "URLError(gaierror(-2, 'Name or service not known'))"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2906902642",
+      "doi": "10.5445/ir/1000061764",
+      "stratum": "D",
+      "oa_status": "green",
+      "tried": [],
+      "signal": "strong",
+      "outcome": "no PDF URL"
+    },
+    {
+      "openalex": "W3133715594",
+      "doi": "10.3389/frobt.2020.616128",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://www.frontiersin.org/articles/10.3389/frobt.2020.616128/pdf",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 2749867,
+          "sha256": "3ea420915ce12fdb3dfe25f8187bf138f0e48669213cb8fa6f54a30be7d0b868"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W7147154016",
+      "doi": "10.1007/978-3-032-03378-9_4",
+      "stratum": "D",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/978-3-032-03378-9_4.pdf",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 3131627,
+          "sha256": "e13de76d193e967a6c6c78c820b4a094088d8524a2cbf09013d691f4215a0826"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W7127616060",
+      "doi": "10.13016/m2ij9y-gdyy",
+      "stratum": "D",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://arxiv.org/pdf/2601.03587",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 1085465,
+          "sha256": "cef9e78d112ee5738afe2008cb1bf6a47ba507ee583630dd06f9084a0cee2061"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W2756671071",
+      "doi": "10.5167/uzh-149682",
+      "stratum": "D",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://www.zora.uzh.ch/id/eprint/149682/1/contribution-11.pdf",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 2266
+        }
+      ],
+      "signal": "strong",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2798965689",
+      "doi": "10.3390/fi10040036",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://cris.unibo.it/bitstream/11585/640511/1/futureinternet-10-00036.pdf",
+          "outcome": "error",
+          "error": "<HTTPError 403: 'Forbidden'>"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W7211993723",
+      "doi": "10.1121/10.0046394",
+      "stratum": "D",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://pubs.aip.org/asa/jasa/article-pdf/160/3/2090/21132859/2090_1_10.0046394.pdf",
+          "outcome": "error",
+          "error": "<HTTPError 403: 'Forbidden'>"
+        }
+      ],
+      "signal": "weak",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2979435185",
+      "doi": "10.1007/978-3-030-32327-1_6",
+      "stratum": "D",
+      "oa_status": "green",
+      "tried": [
+        {
+          "url": "https://biblio.ugent.be/publication/8632572/file/8632573.pdf",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 494041,
+          "sha256": "e96393ebb1d89dad9de2da251a66fe00c7f3af585bd012f3adc347071056b035"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W2895765427",
+      "doi": "10.3390/info9110279",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://www.preprints.org/manuscript/201810.0143/v2/download",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html",
+          "bytes": 2829
+        },
+        {
+          "url": "https://www.preprints.org/manuscript/201810.0143/v1/download",
+          "outcome": "not a PDF",
+          "status": 200,
+          "content_type": "text/html",
+          "bytes": 2709
+        },
+        {
+          "url": "https://www.mdpi.com/2078-2489/9/11/279/pdf?version=1542364126",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 2550181,
+          "sha256": "d0c3051f8b37765256c2cdfc366a14bcb10ad85041026697d924e22476006b86"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W7128905530",
+      "doi": "10.3390/audiolres16010025",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://www.mdpi.com/2039-4349/16/1/25/pdf",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 944864,
+          "sha256": "384d2ec52b91655d0bad576ea44d32963402499a0baaade42a81b46600ca3b75"
+        }
+      ],
+      "signal": "weak",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W3134690968",
+      "doi": "10.1093/pcp/pcab034",
+      "stratum": "D",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://academic.oup.com/pcp/article-pdf/62/5/752/40491828/pcab034.pdf",
+          "outcome": "error",
+          "error": "<HTTPError 403: 'Forbidden'>"
+        }
+      ],
+      "signal": "weak",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4210939230",
+      "doi": "10.1109/access.2022.3145853",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://ieeexplore.ieee.org/ielx7/6287639/9668973/09705594.pdf",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 2470175,
+          "sha256": "0dcc26fb9182a541c8624dc3e185040c76fb4017debcd4e83cc1a5b914446e79"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W7117127300",
+      "doi": "10.1145/3756681.3757054",
+      "stratum": "D",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://dl.acm.org/doi/pdf/10.1145/3756681.3757054?download=true",
+          "outcome": "error",
+          "error": "<HTTPError 403: 'Forbidden'>"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W2961757260",
+      "doi": "10.3990/1.9789402815870",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [],
+      "signal": "strong",
+      "outcome": "no PDF URL"
+    },
+    {
+      "openalex": "W4386420804",
+      "doi": "10.1038/s41538-023-00221-2",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://www.nature.com/articles/s41538-023-00221-2.pdf",
+          "outcome": "pdf",
+          "status": 200,
+          "bytes": 3791858,
+          "sha256": "0b4c55df4daa622a8698cee5305ce2edc10dfe60e012285f090e5a9de1b642e2"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "text"
+    },
+    {
+      "openalex": "W3162923160",
+      "doi": "10.1155/2021/4439861",
+      "stratum": "D",
+      "oa_status": "gold",
+      "tried": [
+        {
+          "url": "https://downloads.hindawi.com/journals/jat/2021/4439861.pdf",
+          "outcome": "error",
+          "error": "<HTTPError 403: 'Forbidden'>"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "failed"
+    },
+    {
+      "openalex": "W4417182003",
+      "doi": "10.1002/smtd.202501765",
+      "stratum": "D",
+      "oa_status": "hybrid",
+      "tried": [
+        {
+          "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smtd.202501765",
+          "outcome": "error",
+          "error": "<HTTPError 403: 'Forbidden'>"
+        }
+      ],
+      "signal": "strong",
+      "outcome": "failed"
+    }
+  ],
+  "outcomes": {
+    "text": 56,
+    "no PDF URL": 7,
+    "failed": 45
+  },
+  "hosts_failed": {
+    "hal-emse.ccsd.cnrs.fr": 1,
+    "pmc.ncbi.nlm.nih.gov": 2,
+    "pubs.aip.org": 2,
+    "theses.hal.science": 4,
+    "pubs.rsc.org": 2,
+    "upcommons.upc.edu": 2,
+    "onlinelibrary.wiley.com": 3,
+    "journals.sagepub.com": 1,
+    "hal.science": 1,
+    "re.public.polimi.it": 2,
+    "oa.upm.es": 1,
+    "www.ama-science.org": 1,
+    "hdl.handle.net": 5,
+    "doi.org": 1,
+    "www.sciencedirect.com": 2,
+    "www.seekdl.org": 1,
+    "africanjournalofbiomedicalresearch.com": 1,
+    "hal.inrae.fr": 1,
+    "downloads.hindawi.com": 2,
+    "asa.scitation.org": 2,
+    "formative.jmir.org": 1,
+    "dl.acm.org": 2,
+    "baas.aas.org": 1,
+    "journal.buitms.edu.pk": 1,
+    "www.zora.uzh.ch": 1,
+    "cris.unibo.it": 1,
+    "academic.oup.com": 1
+  }
+}

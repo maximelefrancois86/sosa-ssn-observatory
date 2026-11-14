@@ -1,0 +1,58 @@
+{
+  "stamp": "2026-11-12T1557",
+  "pass": "elsevier tdm",
+  "pool": 3,
+  "done": 3,
+  "complete": false,
+  "insttoken_used": false,
+  "works": [
+    {
+      "openalex": "W2062032918",
+      "doi": "10.1016/j.compind.2013.11.010",
+      "stratum": "A",
+      "origin": "closed",
+      "oa_status": "closed",
+      "tried": [
+        {
+          "url": "https://api.elsevier.com/content/article/entitlement/doi/10.1016/j.compind.2013.11.010",
+          "status": 403,
+          "entitled": null
+        }
+      ],
+      "outcome": "entitlement unknown"
+    },
+    {
+      "openalex": "W2212276110",
+      "doi": "10.1016/j.isprsjprs.2015.11.009",
+      "stratum": "A",
+      "origin": "closed",
+      "oa_status": "closed",
+      "tried": [
+        {
+          "url": "https://api.elsevier.com/content/article/entitlement/doi/10.1016/j.isprsjprs.2015.11.009",
+          "status": 403,
+          "entitled": null
+        }
+      ],
+      "outcome": "entitlement unknown"
+    },
+    {
+      "openalex": "W2756223929",
+      "doi": "10.1016/b978-0-12-809641-3.00008-9",
+      "stratum": "A",
+      "origin": "closed",
+      "oa_status": "closed",
+      "tried": [
+        {
+          "url": "https://api.elsevier.com/content/article/entitlement/doi/10.1016/b978-0-12-809641-3.00008-9",
+          "status": 403,
+          "entitled": null
+        }
+      ],
+      "outcome": "entitlement unknown"
+    }
+  ],
+  "outcomes": {
+    "entitlement unknown": 3
+  }
+}

@@ -1,0 +1,12 @@
+{
+ "clusters": 22,
+ "records": 45,
+ "linked": 23,
+ "after": 2281,
+ "after_by_stratum": {
+  "A": 877,
+  "B": 623,
+  "C": 781
+ },
+ "stratum_changes": {}
+}

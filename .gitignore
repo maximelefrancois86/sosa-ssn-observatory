@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+# Full texts and everything made from them: local, never committed
+fulltext/
+screening/bodies.jsonl.gz
+screening/model/
+screening/patterns/
+screening/pattern-recommendations.jsonl
+# Builds of the web application
+explorer/build/
+# The log of the monthly watch
+observatory/*.log

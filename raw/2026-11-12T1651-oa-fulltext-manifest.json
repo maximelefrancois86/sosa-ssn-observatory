@@ -1,0 +1,2626 @@
+{
+  "stamp": "2026-11-12T1651",
+  "pass": "manual",
+  "pool": 826,
+  "done": 170,
+  "complete": true,
+  "pdfs_read": 231,
+  "works": [
+    {
+      "openalex": "W4415507007",
+      "doi": "10.1007/978-3-032-08887-1_12",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "2025-ruleml-rules-agri-robots (1).pdf",
+          "bytes": 1987275,
+          "sha256": "14eee57a732bd5a9c7d54b6880fac395e33294c30848185c6e820ba6db815c1d"
+        }
+      ]
+    },
+    {
+      "openalex": "W7127082105",
+      "doi": "10.1007/978-3-032-15579-5_9",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "978-3-032-15579-5_9.pdf",
+          "bytes": 1636527,
+          "sha256": "0a42a8357dbb3805529194449ca5363b8bdef26c694ecfc7059c997abd7b5a42"
+        }
+      ]
+    },
+    {
+      "openalex": "W2972992288",
+      "doi": "10.1109/eit.2019.8834013",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "ADISTES_Ontology_for_Active_Diagnosis_of_Sensors_and_Actuators_in_Distributed_Embedded_Systems.pdf",
+          "bytes": 349422,
+          "sha256": "9b71d8162adafc25151ff23cd06c6d5b189f070e8518f211a56b0b1e7ef1df7a"
+        }
+      ]
+    },
+    {
+      "openalex": "W4379115713",
+      "doi": "10.1109/pcems58491.2023.10136071",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "AIOIML_Automatic_Integration_of_Ontologies_for_IoT_Domain_Using_Hybridized_Machine_Learning_Techniques.pdf",
+          "bytes": 521514,
+          "sha256": "cc671a26e39b53a01b85b859fc34b4d4e847ed6c09d56a75975f3a840b24ffd3"
+        }
+      ]
+    },
+    {
+      "openalex": "W7161559072",
+      "doi": "10.1080/13658816.2026.2668678",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "AVKG_IJGIS-1.pdf",
+          "bytes": 14959294,
+          "sha256": "4c41804c097e506fb5a065f75252ba259de9c098ba315d8d076565044d53d21a"
+        }
+      ]
+    },
+    {
+      "openalex": "W3208044779",
+      "doi": "10.1109/ice/itmc52061.2021.9570222",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "A_Digital_Twin_with_Runtime-Verification_for_Industrial_Development-Operation_Integration.pdf",
+          "bytes": 786442,
+          "sha256": "51f8cb47e3b98bad63b0b5a78e2ed5fff0c145b7654cfb8a4291559dd823a1f7"
+        }
+      ]
+    },
+    {
+      "openalex": "W2963594798",
+      "doi": "10.1109/wf-iot.2019.8767258",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "A_Framework_for_Efficient_and_Scalable_Service_Offloading_in_the_Mist.pdf",
+          "bytes": 351849,
+          "sha256": "3bedca27e4f41596156a42803c08e9c7d1ccc6e21f55edca361318944eb7565e"
+        }
+      ]
+    },
+    {
+      "openalex": "W3212446860",
+      "doi": "10.1109/scc53864.2021.00047",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "A_Framework_for_Enabling_Cyber-Twins_based_Industry_4.0_Application_Development.pdf",
+          "bytes": 1266502,
+          "sha256": "c0bb07e143dc6441f283149185f0925739813691adfad2b14af89e9c6ed2d9c8"
+        }
+      ]
+    },
+    {
+      "openalex": "W3005534686",
+      "doi": "10.1109/cic48465.2019.00035",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "A_Global_IoT_Device_Discovery_and_Integration_Vision.pdf",
+          "bytes": 275090,
+          "sha256": "3268891e6d3c5659e01039e2c1491becf46ebcbcbfb7a3aaf54e03872efbc37d"
+        }
+      ]
+    },
+    {
+      "openalex": "W4320802684",
+      "doi": "10.1109/ccdc55256.2022.10034336",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "A_Hybrid_Knowledge-Data_Model_to_Driving_the_Self-Evolution_of_Building_Digital_Twins.pdf",
+          "bytes": 1535447,
+          "sha256": "d962c118dc8343a88818ccd2268be5de35037c9731983b9cfc58beb7ac4e258d"
+        }
+      ]
+    },
+    {
+      "openalex": "W4410087644",
+      "doi": "10.1109/wi-iat62293.2024.00064",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "A_Knowledge-Based_Sequential_Sensor_Selection_Approach_for_Fast_Object_Classification.pdf",
+          "bytes": 349870,
+          "sha256": "977b0be25d754b791d9844e38d36e51798132d813337f55972c0506b7cb7b17e"
+        }
+      ]
+    },
+    {
+      "openalex": "W4403863514",
+      "doi": "10.1109/jiot.2024.3487578",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "A_Knowledge-Driven_Approach_for_Dynamic_Reconfiguration_of_Control_Design_in_Internet_of_Things_and_CyberPhysical_Systems.pdf",
+          "bytes": 7689977,
+          "sha256": "379ada2e772db5a31b43608bacae7c1595ae25a17ade3b05145dd13cb9986c95"
+        }
+      ]
+    },
+    {
+      "openalex": "W4414322648",
+      "doi": "10.1109/ecmr65884.2025.11163145",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "A_Legislation-Aware_Robotic_Framework_for_Autonomous_Fertilization_Near_Protected_Water_Bodies.pdf",
+          "bytes": 1271303,
+          "sha256": "87c0e4a96c651bbb2156891123f34f6a7eaab4a52d69564ffbec3b4a62713efc"
+        }
+      ]
+    },
+    {
+      "openalex": "W4414433193",
+      "doi": "10.1109/case58245.2025.11163817",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "A_Model-Agnostic_Approach_for_Semantic_Table_Augmentation_in_Digital_Twin_Government_Using_LLMs_and_Domain-Specific_Ontologies.pdf",
+          "bytes": 646478,
+          "sha256": "8ba6a0b5a408db3c6d2a8307b09768d2c92017709991200597b8edc8a89d8fb9"
+        }
+      ]
+    },
+    {
+      "openalex": "W4380591910",
+      "doi": "10.1109/icdew58674.2023.00024",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "A_Self-managed_Marketplace_for_Sharing_IoT_Sensors.pdf",
+          "bytes": 1506090,
+          "sha256": "4451134d9e55e8d47e2b1bf5bfa3c63125727fe7669940e06fcb8bbab130f124"
+        }
+      ]
+    },
+    {
+      "openalex": "W4407304492",
+      "doi": "10.1109/jiot.2025.3540086",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "A_Semantic-Based_Approach_for_Self-Configuring_Smart_Home_Systems_Using_Feedback-Based_Reinforcement_Learning.pdf",
+          "bytes": 5282643,
+          "sha256": "3457af984c5f0ac18aab1e2a9f8ef863f6f24fced899f1793b37f89edab203c7"
+        }
+      ]
+    },
+    {
+      "openalex": "W7161172633",
+      "doi": "10.1109/jiot.2026.3692807",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "A_Semantic_Digital_Twin_Framework_for_Predictive_Failure_Analytics_in_IoT.pdf",
+          "bytes": 3391853,
+          "sha256": "ed785bdc9693e5af6421d189dbbcf80351f607bb0a6d76da30d3c7ff17617c50"
+        }
+      ]
+    },
+    {
+      "openalex": "W4283753507",
+      "doi": "10.1109/codit55151.2022.9804026",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "A_Semantic_Space-Time_Event_Representation_Model_in_Production_Equipment_Monitoring_of_Technical_State_and_Utilization_Condition.pdf",
+          "bytes": 887947,
+          "sha256": "d0ee51053d7b01f33f057a1b39cd2c7998cf1b19aca68580228a0aa00599e930"
+        }
+      ]
+    },
+    {
+      "openalex": "W4323338757",
+      "doi": "10.1109/mis.2023.3235677",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "A_Semantic_Web_Approach_to_Fault_Tolerant_Autonomous_Manufacturing.pdf",
+          "bytes": 2510183,
+          "sha256": "947309095907f11e93c2eacaffc15e440de6ccdc6eaa1f05aa2b469ff2cbe6c3"
+        }
+      ]
+    },
+    {
+      "openalex": "W3082938848",
+      "doi": "10.1109/fuzz48607.2020.9177590",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "A_Situation-aware_Learning_System_based_on_Fuzzy_Cognitive_Maps_to_increase_Learner_Motivation_and_Engagement.pdf",
+          "bytes": 2237216,
+          "sha256": "caff2d3efb309e6a269eca0f6793dfd03003457f4cc8dcb2501c9a6b3757ec30"
+        }
+      ]
+    },
+    {
+      "openalex": "W4312309192",
+      "doi": "10.1109/indin51773.2022.9976183",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "A_Specification_for_a_Decentralised_Internet_of_Things.pdf",
+          "bytes": 929634,
+          "sha256": "4c8dd8e1b101a6845fb15fd7c67abc00fd4cebde65117d735b08847dfac3f970"
+        }
+      ]
+    },
+    {
+      "openalex": "W4360994933",
+      "doi": "10.1109/icct56969.2023.10076093",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "A_Study_on_Smart_Homes_And_Grids_Under_IoT_Components.pdf",
+          "bytes": 361733,
+          "sha256": "3e91afcf969f715e4363b6cc6796b13b18df82204b0b88fc69192c22592e9d46"
+        }
+      ]
+    },
+    {
+      "openalex": "W3005300128",
+      "doi": "10.1109/jiot.2020.2971773",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "A_Survey_of_Identity_Modeling_and_Identity_Addressing_in_Internet_of_Things.pdf",
+          "bytes": 1166843,
+          "sha256": "dfcdabb2c2945c6f0b2b890cad7e3977b0b796224a14f3af35ce6676a9b18a40"
+        }
+      ]
+    },
+    {
+      "openalex": "W2943201207",
+      "doi": "10.1109/tetci.2019.2907718",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "A_Survey_on_an_Emerging_Area_Deep_Learning_for_Smart_City_Data.pdf",
+          "bytes": 3342667,
+          "sha256": "f1470cb8a5042e52b3fd4a68b35c2904b746f221fbe92675a71ad0f889aca986"
+        }
+      ]
+    },
+    {
+      "openalex": "W7171351039",
+      "doi": "10.1109/yef-ece70590.2026.11614652",
+      "stratum": "A",
+      "oa_status": "hybrid",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "A_Unified_Validation_Framework_for_Heterogeneous_IoT_Data_Models (1).pdf",
+          "bytes": 344163,
+          "sha256": "e5439c29b108beebab4d00cb21602045560f2d155bb88a678e13ef3fbb47df4f"
+        }
+      ]
+    },
+    {
+      "openalex": "W2803114156",
+      "doi": "10.23919/wiopt.2018.8362879",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "A_semantic_mechanism_for_Internet-of-Things_IoT_to_implement_intelligent_interactions.pdf",
+          "bytes": 391347,
+          "sha256": "d2787ae8a86bb783eddbae7924eded46828d84169173819717e611dd4804ad6f"
+        }
+      ]
+    },
+    {
+      "openalex": "W4313224872",
+      "doi": "10.1109/upcon56432.2022.9986378",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Abandoned_Luggage_Detection_An_Ontology-based_approach_for_unusual_activity_recognition.pdf",
+          "bytes": 697429,
+          "sha256": "430c4569f3356ef6412e929d97a3599132c4a50329f20eafe9ab22794eb31633"
+        }
+      ]
+    },
+    {
+      "openalex": "W2970441885",
+      "doi": "10.1109/iciot.2019.00034",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "Advancements_towards_Global_IoT_Device_Discovery_and_Integration.pdf",
+          "bytes": 658218,
+          "sha256": "9b2636e7b232106d33805cc2dd28c39ca609c7f6b4cff710d1d7a291a11b9986"
+        }
+      ]
+    },
+    {
+      "openalex": "W3037087919",
+      "doi": "10.1109/tnsm.2020.3005307",
+      "stratum": "B",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Allocation_of_Resources_in_SAaaS_Clouds_Managing_Thing_Mashups.pdf",
+          "bytes": 1755276,
+          "sha256": "cb640677c933a5ecf78debed88f0bae4171eb7d87f44e812379e857eefcda5a1"
+        }
+      ]
+    },
+    {
+      "openalex": "W3211466183",
+      "doi": "10.1109/tsmc.2021.3119871",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "An_Automated_Metadata_Generation_Method_for_Data_Lake_of_Industrial_WoT_Applications.pdf",
+          "bytes": 4610173,
+          "sha256": "bd9a4d5311adae31e4685414c21d22985db85f08b9991b4c5ebd701e4286a4af"
+        }
+      ]
+    },
+    {
+      "openalex": "W3166314457",
+      "doi": "10.1109/vtc2021-spring51267.2021.9448884",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "An_Evolving_Ontology_for_Vehicle_Signals.pdf",
+          "bytes": 2162932,
+          "sha256": "228d6e3f6605cfaa80cd8610208b3e0efba740b53bebe345c9636c81c9ca8d6c"
+        }
+      ]
+    },
+    {
+      "openalex": "W4312939592",
+      "doi": "10.1109/healthcom54947.2022.9982769",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "An_Industrial_IoT-Based_Ontology_Development_for_Well-Being_Aging_and_Health_A_Scoping_Review.pdf",
+          "bytes": 942183,
+          "sha256": "6131c45b8c0f7c0b46da6af8053d9bc73310dadd3851f4f99cf30c7682c4eac6"
+        }
+      ]
+    },
+    {
+      "openalex": "W4386323853",
+      "doi": "10.1109/isie51358.2023.10227975",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "An_Interoperability_Middleware_for_IIoT.pdf",
+          "bytes": 956799,
+          "sha256": "2d254a7680926a92cc13678f3f0ac69843feab7db1b988e9a050b9200cf332ff"
+        }
+      ]
+    },
+    {
+      "openalex": "W4415398869",
+      "doi": "10.1109/etfa65518.2025.11205771",
+      "stratum": "B",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "An_IoE-based_Framework_Supporting_Human-Centric_Industry.pdf",
+          "bytes": 1856479,
+          "sha256": "8fca2bf1032c566e24c87493e33262a6ff4390fbe3c33a17d7015def04a59a6e"
+        }
+      ]
+    },
+    {
+      "openalex": "W3139239338",
+      "doi": "10.1109/ccnc49032.2021.9369512",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "An_IoT-based_Platform_for_Supply_Chain_Monitoring.pdf",
+          "bytes": 189289,
+          "sha256": "4b7e11af3ae3ce9e747cea669e569b4bc1af6309b9f2ca229e3752ec147f17ca"
+        }
+      ]
+    },
+    {
+      "openalex": "W3111107007",
+      "doi": "10.1109/scc49832.2020.00048",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "An_IoT-owned_Service_for_Global_IoT_Device_Discovery_Integration_and_Reuse.pdf",
+          "bytes": 713908,
+          "sha256": "637576cbeed8827508d793e392a535b708456b16cc01c395257350c267be4d08"
+        }
+      ]
+    },
+    {
+      "openalex": "W4379983155",
+      "doi": "10.1109/icit58465.2023.10143139",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "An_IoT_Oriented_Ontology_for_Physical_World_Awareness_in_Autonomous_Objects.pdf",
+          "bytes": 1683928,
+          "sha256": "39ab69f175d40ae852c5126bdf0c0c2e0a8b4d81a2356c625f93ffadd0ea0910"
+        }
+      ]
+    },
+    {
+      "openalex": "W2947283078",
+      "doi": "10.1109/jiot.2019.2919971",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "An_MQTT-Based_Context-Aware_Autonomous_System_in_oneM2M_Architecture.pdf",
+          "bytes": 2110018,
+          "sha256": "4ca2dc6b13d71cfe0b505e8337f4016a0721302a6d19a3abb630aad671fb17d0"
+        }
+      ]
+    },
+    {
+      "openalex": "W4389777427",
+      "doi": "10.1109/iisa59645.2023.10345944",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "An_Ontology-Based_Framework_for_Sports_Media_Data_Interpretation.pdf",
+          "bytes": 439674,
+          "sha256": "4bff84fad5981327b42ae8f3b107114ce3fcfb6f25b5be83ad2827bb93e18802"
+        }
+      ]
+    },
+    {
+      "openalex": "W3209869398",
+      "doi": "10.1109/itsc48978.2021.9564962",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "An_Ontology-Based_Intelligent_Traffic_Signal_Control_Model.pdf",
+          "bytes": 780219,
+          "sha256": "f0132a1367df9a0f461754f45939a5fb196cef3180b5842d283d79747cd62317"
+        }
+      ]
+    },
+    {
+      "openalex": "W2967943940",
+      "doi": "10.1109/uemcon.2018.8796782",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "An_Ontology-Based_IoT_Communication_Data_Reduction_Method.pdf",
+          "bytes": 4253454,
+          "sha256": "a94b315695a243f73a1a2978aec4f78b542ea3399eefe11728d2a303824f33c3"
+        }
+      ]
+    },
+    {
+      "openalex": "W3092442218",
+      "doi": "10.1109/etfa46521.2020.9212104",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "An_Ontology-based_Metamodel_for_Capability_Descriptions.pdf",
+          "bytes": 815484,
+          "sha256": "e3730fa1708a9f4867254f75f6a18a120324bb78db39b7da19e3c2d2f94b848e"
+        }
+      ]
+    },
+    {
+      "openalex": "W4285328224",
+      "doi": "10.1109/hpcc-dss-smartcity-dependsys53884.2021.00292",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "An_Ontology_for_an_IoT-enabled_Smart_Library_in_a_University_Campus.pdf",
+          "bytes": 1013102,
+          "sha256": "a6391b1eefc8634ba1bbd86a8e646a8a6f3f620c50858a34d761e48a0c927015"
+        }
+      ]
+    },
+    {
+      "openalex": "W2908120732",
+      "doi": "10.1109/pais.2018.8598506",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "An_approach_for_Semantic_Enrichment_of_Sensor_Data.pdf",
+          "bytes": 559703,
+          "sha256": "57295d2231b592b8bdf274d73da9afe98c576eb7017fb27f04ff349f8c319284"
+        }
+      ]
+    },
+    {
+      "openalex": "W2758824304",
+      "doi": "10.1109/agro-geoinformatics.2017.8047046",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "An_interoperable_approach_for_Sensor_Web_provenance.pdf",
+          "bytes": 384939,
+          "sha256": "591acfa2c3f42ca11075f52324ce71a04dfa3ed845c448b4bda6cb90f1211ce7"
+        }
+      ]
+    },
+    {
+      "openalex": "W4386702053",
+      "doi": "10.1109/geoinformatics60313.2023.10247995",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "An_observation_capability_spatio-temporal_data_model_for_cognition_and_expression_of_observation_process.pdf",
+          "bytes": 3771090,
+          "sha256": "705b87f979c26f1c838b3995f530b4d1c5722ecce52c1d8792f29aea7cc0f7a7"
+        }
+      ]
+    },
+    {
+      "openalex": "W3047498279",
+      "doi": "10.1109/ie49459.2020.9155023",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "An_ontology-based_framework_for_a_Less_Invasive_Domestic_Management_System_LIDoMS.pdf",
+          "bytes": 937206,
+          "sha256": "bf96d050eb4c374469feb18880de612b2851021e08e64efc171b3823eeaf2a0e"
+        }
+      ]
+    },
+    {
+      "openalex": "W2945125411",
+      "doi": "10.1109/jiot.2019.2918327",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Automatic_Knowledge_Extraction_to_Build_Semantic_Web_of_Things_Applications.pdf",
+          "bytes": 1403138,
+          "sha256": "8b89f737f111d3cd5eb79ff1f7cd321fcd4faa72819a5596d2f48d4ae7292d52"
+        }
+      ]
+    },
+    {
+      "openalex": "W2951278088",
+      "doi": "10.1109/tkde.2019.2923638",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Automating_IoT_Data-Intensive_Application_Allocation_in_Clustered_Edge_Computing.pdf",
+          "bytes": 1032752,
+          "sha256": "9f33ed26920c3915ffafc9226f1edd1db74907dd7a1b3f7eb29158e688aa2529"
+        }
+      ]
+    },
+    {
+      "openalex": "W7204787473",
+      "doi": "10.1109/sse72781.2026.00032",
+      "stratum": "A",
+      "oa_status": "hybrid",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "BPACC_A_Business_Process_Aware_Architecture_for_Intent-Based_Orchestration_Across_the_Compute_Continuum.pdf",
+          "bytes": 1301680,
+          "sha256": "58b437915c46de917172fdd311163820de784ce0d920d228bc6b05e21941c4e5"
+        }
+      ]
+    },
+    {
+      "openalex": "W4400727839",
+      "doi": "10.1109/mdm61037.2024.00070",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Blockchain-based_Solution_for_Sharing_IoT_Devices.pdf",
+          "bytes": 1041123,
+          "sha256": "3b8de674b5be08b7d5ed0308d39f8f04a971cfcd5fcdd87e2e48bcb28575836b"
+        }
+      ]
+    },
+    {
+      "openalex": "W3110720739",
+      "doi": "10.1109/scc49832.2020.00011",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "Bringing_Semantics_to_Support_Ocean_FAIR_Data_Services_with_Ontologies.pdf",
+          "bytes": 803811,
+          "sha256": "75335bc2fef7dcc42c252dde31f7eeaa671c99de68741c9700659eb0d098d8ae"
+        }
+      ]
+    },
+    {
+      "openalex": "W4415398083",
+      "doi": "10.1109/etfa65518.2025.11205604",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "CPSWatch_Lightweight_Ontology_for_System_Description_and_Diagnosis.pdf",
+          "bytes": 473519,
+          "sha256": "e46fee9a70192b0cd0d062b7ebef1a9a2db2b59727ca3d179e46172c7d57366a"
+        }
+      ]
+    },
+    {
+      "openalex": "W2974677520",
+      "doi": "10.1109/icmcis.2019.8842749",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "CRISIS_Integrating_AIS_and_Ocean_Data_Streams_Using_Semantic_Web_Standards_for_Event_Detection.pdf",
+          "bytes": 1512528,
+          "sha256": "63a5fd1c0156cc85ae1a06c1fe457c4b9f241e92e71d23ffb66945335395f1b6"
+        }
+      ]
+    },
+    {
+      "openalex": "W4379620086",
+      "doi": "10.1109/iconstem56934.2023.10142774",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Clogging-Free_and_Shortest-Safe_Path_Evacuation_System_Using_IoT_Devices.pdf",
+          "bytes": 3701689,
+          "sha256": "b40ea421740320e1cf0007f546d107e58ccff132fecdd41484d4df7f30764ce2"
+        }
+      ]
+    },
+    {
+      "openalex": "W7206199967",
+      "doi": "10.1109/mmar70562.2026.11667860",
+      "stratum": "B",
+      "oa_status": "hybrid",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Comparing_ISO_19848_Sensor_Naming_Conventions_Interoperability_Barriers_and_Tool-Assisted_Standardization.pdf",
+          "bytes": 758519,
+          "sha256": "7ccab8e0ea2cb03e936546b91267b1e7769d9672df70399dc4241a13046ce25f"
+        }
+      ]
+    },
+    {
+      "openalex": "W4362653111",
+      "doi": "10.1109/icsca57840.2023.10087783",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Complexity_of_IoT_world_-_Review_of_challenges_and_opportunities_in_application_development.pdf",
+          "bytes": 445367,
+          "sha256": "1e4c8ab6ee6025fc2c27f008d89f7cde1d789b9c50a5bad601cd1c63ebb9c861"
+        }
+      ]
+    },
+    {
+      "openalex": "W2974197489",
+      "doi": "10.1109/iri.2019.00056",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "Context-Based_Knowledge_Discovery_and_Querying_for_Social_Media_Data.pdf",
+          "bytes": 258829,
+          "sha256": "464822bcfd84a94fc47138e4d8a8c05e414465a692192b4775b35ca18924c315"
+        }
+      ]
+    },
+    {
+      "openalex": "W4381746754",
+      "doi": "10.1109/percomworkshops56833.2023.10150217",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Context-aware_Outlier_Detection_for_Sensor_Data_Stream_Processing.pdf",
+          "bytes": 911206,
+          "sha256": "8936bd42e5f28b25ee888dc8bd061465f568061ba0f010b53bc455949a436619"
+        }
+      ]
+    },
+    {
+      "openalex": "W3005234145",
+      "doi": "10.1109/iotais47347.2019.8980411",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "Cutting_a_Path_Through_the_IoT_Ontology_Jungle_-_A_Meta-Survey.pdf",
+          "bytes": 585360,
+          "sha256": "a506f15f63de4b4fcb64cb3d6b7faeb8794fa3040c833d952444dc4c64015dca"
+        }
+      ]
+    },
+    {
+      "openalex": "W4412939649",
+      "doi": "10.1109/jiot.2025.3595556",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "DeepMetaIoT_A_Multimodal_Deep_Learning_Framework_Harnessing_Metadata_for_IoT_Sensor_Data_Classification.pdf",
+          "bytes": 2576602,
+          "sha256": "a7909401a1071d76aa18dc29f79c81fbe95b13dc4c44e76727923e14b0571d2d"
+        }
+      ]
+    },
+    {
+      "openalex": "W4387544247",
+      "doi": "10.1109/icdcs57875.2023.00122",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Demo_SenShaMart_-_A_Sensor_Sharing_Marketplace_for_IoT.pdf",
+          "bytes": 561199,
+          "sha256": "aea2643f64a4d46b32ad7f701bd3e0d8a28cf46eb9282830ad6453e53e1a2b0e"
+        }
+      ]
+    },
+    {
+      "openalex": "W4212991789",
+      "doi": "10.1109/iscon52037.2021.9702334",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Design_and_Development_of_IoT_based_Smart_Dynamic_Energy_Management_for_the_Built_Environment.pdf",
+          "bytes": 917108,
+          "sha256": "0b65d0e570621a349d5b8cad82fc6a5c0a3d0c73f405f5ebce67c4723aaef183"
+        }
+      ]
+    },
+    {
+      "openalex": "W4213182572",
+      "doi": "10.23919/oceans44145.2021.9705662",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "Developing_a_Robotic_Hybrid_Network_for_Coastal_Surveillance_the_INFORE_Experience.pdf",
+          "bytes": 3578459,
+          "sha256": "f97f2d41a010f5dc428ded3bc47f8618bd6497682561df6f9fa7d494c465d4be"
+        }
+      ]
+    },
+    {
+      "openalex": "W4405908343",
+      "doi": "10.1109/wf-iot62078.2024.10811267",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Digital_Twin_Framework_for_Personalized_Building_Management_in_Ambient_Assisted_Living.pdf",
+          "bytes": 1050236,
+          "sha256": "961d34f1aefedb5cc1754c3b2924d5a4be2982a2f250dcb8c1b4284050e289f5"
+        }
+      ]
+    },
+    {
+      "openalex": "W2900649881",
+      "doi": "10.1109/igarss.2018.8519025",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "Discovering_and_Linking_Spatio-Temporal_Big_Linked_Data.pdf",
+          "bytes": 307217,
+          "sha256": "8e52b6fe6795d20f6528b9678352c749ce70a9fbacbabb67b471520831dd9518"
+        }
+      ]
+    },
+    {
+      "openalex": "W2082670328",
+      "doi": "10.1109/ntms.2014.6814015",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "Distributed_Semantic_Discovery_for_Web-of-Things_Enabled_Smart_Buildings.pdf",
+          "bytes": 273528,
+          "sha256": "a1d64aeb9d16cb6ab0a6a3b9779118dd042f216255a7efab49f191042e84db29"
+        }
+      ]
+    },
+    {
+      "openalex": "W4388720837",
+      "doi": "10.1109/icise60366.2023.00062",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Domain_Ontology_Modeling_of_Communication_Base_Station_Energy_Consumption.pdf",
+          "bytes": 1422197,
+          "sha256": "cc25c0414829c519d7300ceaae36d1d8e841de96ac631d9b7ac652c575d95150"
+        }
+      ]
+    },
+    {
+      "openalex": "W7135053521",
+      "doi": "10.1109/icot68409.2025.11425392",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Edge-Cloud_Collaborative_AIoT_Framework_for_Sustainable_6G-Ready_Smart_Homes.pdf",
+          "bytes": 913186,
+          "sha256": "9574283ad6d856cc2479b19a86c5fd5ca97d46e9b3779c9772219e3eb92dfa3c"
+        }
+      ]
+    },
+    {
+      "openalex": "W3035839863",
+      "doi": "10.1109/giots49054.2020.9119535",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "Enabling_Context-Aware_Search_using_Extracted_Insights_from_IoT_Data_Streams.pdf",
+          "bytes": 678008,
+          "sha256": "704e062606dac8cfb485d57fcced2a3566643669ec68f5d92a1d86d7c6675a07"
+        }
+      ]
+    },
+    {
+      "openalex": "W2979616985",
+      "doi": "10.1109/camad.2019.8858501",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "End-to-End_Semantic_Interoperability_Mechanisms_for_IoT.pdf",
+          "bytes": 1001446,
+          "sha256": "16f4648baad209222b1a23a95e255205c78e819577cfcc8b66484889d471e36a"
+        }
+      ]
+    },
+    {
+      "openalex": "W4405522807",
+      "doi": "10.1109/iisa62523.2024.10786663",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Enhancing_Cardiac_AI_Explainability_Through_Ontology-Based_Evaluation.pdf",
+          "bytes": 235687,
+          "sha256": "8d1ae445653c6891cad37a42c05a3f66f962feb2edb120d33fad3fdc8d3b0e1c"
+        }
+      ]
+    },
+    {
+      "openalex": "W4395054512",
+      "doi": "10.1109/percomworkshops59983.2024.10502897",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Enhancing_Data_Quality_and_Collaboration_in_Participatory_Climate_Data_Crowdsensing.pdf",
+          "bytes": 242222,
+          "sha256": "ca9f027901fb924b0e8422a577652a4ca12d5f33e66aa2942c61b896b99e98f6"
+        }
+      ]
+    },
+    {
+      "openalex": "W7125611573",
+      "doi": "10.1109/c366505.2025.11340361",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Enhancing_ONT_and_OLT_Management_with_Smart-Manager_A_Multi-Tenant_Multi-User_Platform__Deployment_Outcomes.pdf",
+          "bytes": 1937890,
+          "sha256": "28d7a623ed15a397a88cbc7e6fc0939e6984b88f515e7bb20540076f6f33f762"
+        }
+      ]
+    },
+    {
+      "openalex": "W4415047747",
+      "doi": "10.1109/miot.2025.3609047",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title pairs 1.00",
+      "tried": [
+        {
+          "file": "Enhancing_Semantic_Coordination_for_Edge-AI_Enabled_Robotic_Systems_via_Evolutionary_Generative_Adversarial_Mechanism.pdf",
+          "bytes": 1040461,
+          "sha256": "d7f447bf0092d763b64a670f284d7eea700be504eb9c3733e73d75af8436e894"
+        }
+      ]
+    },
+    {
+      "openalex": "W4415398934",
+      "doi": "10.1109/etfa65518.2025.11205684",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Ensuring_Data_Quality_in_FIWARE-Based_Air_Quality_Monitoring_Systems_A_Step-by-Step_Approach.pdf",
+          "bytes": 309421,
+          "sha256": "8e2ebceb9bd18aa29ae13a126ccb2a67362a35260d850346bb18d9350c8903bc"
+        }
+      ]
+    },
+    {
+      "openalex": "W3159099070",
+      "doi": "10.1109/iccike51210.2021.9410759",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Evaluation_of_Response_Time_for_Linked_Data_applications_using_CoAP_and_HTTP.pdf",
+          "bytes": 1258674,
+          "sha256": "47004d732213c15138b456c3485a14f3a4a08ceaafe59771ef5e78e88c0f02fc"
+        }
+      ]
+    },
+    {
+      "openalex": "W3214988970",
+      "doi": "10.1109/ccdc52312.2021.9602241",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Event_Representation_and_Research_on_Formalizing_Representation_Model_Based_on_Ontology.pdf",
+          "bytes": 518159,
+          "sha256": "5f69ec5fcd73229f6ffd4b4d3effd1128296c1dd789502f247b24c2dd0ecca99"
+        }
+      ]
+    },
+    {
+      "openalex": "W3199909248",
+      "doi": "10.1109/icsecs52883.2021.00011",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Existing_Semantic_Ontology_and_its_Challenges_for_Enhancing_Interoperability_in_IoT_Environment.pdf",
+          "bytes": 943590,
+          "sha256": "350a6f14d0fbbe57da069af0fa81b633b83376c101cc969b553c7deb44f7dc43"
+        }
+      ]
+    },
+    {
+      "openalex": "W3047418204",
+      "doi": "10.1109/tcc.2020.3014110",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "FADA_A_Cloud-Fog-Edge_Architecture_and_Ontology_for_Data_Acquisition.pdf",
+          "bytes": 2381814,
+          "sha256": "16882560f092b6169473f0f7512dfd6f5fa1c4fe76d641dd102f1edc696c10e1"
+        }
+      ]
+    },
+    {
+      "openalex": "W4405785718",
+      "doi": "10.1109/issatk62463.2024.10808950",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Fog_Computing_Architecture_for_an_IoT_enabled_smart_parking_system.pdf",
+          "bytes": 742224,
+          "sha256": "c18b710fbd8ade2183034f8ed017b26c5bbd4b69313a8e231d1fa8a1715a124d"
+        }
+      ]
+    },
+    {
+      "openalex": "W7118161186",
+      "doi": "10.1109/aiccsa66935.2025.11315369",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "ForenSys_Semantic_Assistant_for_Expressive_Cyber_Forensics_in_Connected_Vehicles.pdf",
+          "bytes": 15798158,
+          "sha256": "49039317a263425085db81afa482c025dbeb52dccd68ee007aba45b492060ca1"
+        }
+      ]
+    },
+    {
+      "openalex": "W7206217561",
+      "doi": "10.1109/noms69089.2026.11668228",
+      "stratum": "B",
+      "oa_status": "hybrid",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Gateway-X_Llm-Based_Autonomous_Adaptive_Semantic_and_Syntactic_Protocol_Translation.pdf",
+          "bytes": 180906,
+          "sha256": "3b74eba6458fbbb0a720f2cbd5c265a4795c430bac75b1b3b426263cdb70188d"
+        }
+      ]
+    },
+    {
+      "openalex": "W3046995747",
+      "doi": "10.1109/tsc.2020.3000844",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Holistic_Technologies_for_Managing_Internet_of_Things_Services.pdf",
+          "bytes": 197343,
+          "sha256": "86fd147c829650401ec9a143b035d930cf673cfb551e2224b9e0038be2c67a37"
+        }
+      ]
+    },
+    {
+      "openalex": "W3092440533",
+      "doi": "10.1109/etfa46521.2020.9211924",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "How_to_Play_Tag_A_Formalization_of_Semantic_Interoperability_to_Catch_Semantics_in_Building_Automation.pdf",
+          "bytes": 739908,
+          "sha256": "9135409e465fca122524a9686178ee7332042ea17ab48abf23135fd09f81b6a6"
+        }
+      ]
+    },
+    {
+      "openalex": "W4408281915",
+      "doi": "10.1109/iecon55916.2024.10905970",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "IEEE_1451.0-based_Web_of_Thing_WoT_Ontology.pdf",
+          "bytes": 3536503,
+          "sha256": "d473153311f872cb5433322223bf95cc2e3625aa81ee979db10747fd2d98430f"
+        }
+      ]
+    },
+    {
+      "openalex": "W3211361416",
+      "doi": "10.1109/wf-iot51360.2021.9594994",
+      "stratum": "B",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "INFORM_A_Tool_for_Classification_and_Semantic_Annotation_of_IoT_Datastreams.pdf",
+          "bytes": 1409581,
+          "sha256": "cc74fa8da5994cb8dd5c2ee4be1bc264f9eece778fa09f6b945d5fa683670b83"
+        }
+      ]
+    },
+    {
+      "openalex": "W3016691472",
+      "doi": "10.1109/isacs48493.2019.9068912",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "ITO_Intelligent_Traceability_Ontology (1).pdf",
+          "bytes": 635672,
+          "sha256": "a3042661eb2ee41a7ee28927e30d9642cfe2e3ccfeb1a361b6f8aeec00c54ce2"
+        }
+      ]
+    },
+    {
+      "openalex": "W4211158916",
+      "doi": "10.1109/iotsms53705.2021.9704980",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Improving_Health_Disabled_People_through_Smart_Wheelchair_based_on_Fuzzy_Ontology.pdf",
+          "bytes": 608523,
+          "sha256": "4cb5b8d2a6f1c1b2f2e0da77657c0e07a4a0fac8fc8b51c3c1abd1daf655f357"
+        }
+      ]
+    },
+    {
+      "openalex": "W2970985082",
+      "doi": "10.1109/hpcs48598.2019.9188197",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "Integration_of_Ontologies_to_Support_Control_as_a_Service_in_an_Industry_4.0_Context.pdf",
+          "bytes": 1598377,
+          "sha256": "3f684c2b80bff5d0aa1537642c610cbe57ab547c68b046d955c61da2d58e2307"
+        }
+      ]
+    },
+    {
+      "openalex": "W4408861321",
+      "doi": "10.1109/icce63647.2025.10929978",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Introduction_of_Guidelines_for_Maintaining_Personal_Data.pdf",
+          "bytes": 116668,
+          "sha256": "fc179faadf4d685376bb5c16716db529832f9bf0de21160e565d2a537d38dc50"
+        }
+      ]
+    },
+    {
+      "openalex": "W2944761494",
+      "doi": "10.1109/sose.2019.00024",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title pairs 0.86",
+      "tried": [
+        {
+          "file": "Invited_Paper_Semantic_IoT_Data_Description_and_Discovery_in_the_IoT-Edge-Fog-Cloud_Infrastructure.pdf",
+          "bytes": 1471229,
+          "sha256": "78a4c5d5ae72b31a65480ecbcfa344ff28710ba9d461f1bae014b1f87a70e06c"
+        }
+      ]
+    },
+    {
+      "openalex": "W3080782420",
+      "doi": "10.1109/jiot.2020.3019662",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "IoT-Enabled_Automatic_Synthesis_of_Distributed_Feedback_Control_Schemes_in_Smart_Buildings.pdf",
+          "bytes": 2418788,
+          "sha256": "4b15ed164d84c651fad5ac00f73901170ae6483d23901b5446d08c93174026fc"
+        }
+      ]
+    },
+    {
+      "openalex": "W4403212816",
+      "doi": "10.1109/clei64178.2024.10700398",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "IoTO_An_Enhanced_Interoperability_Based_on_Semantic_for_IoT_Environments.pdf",
+          "bytes": 440222,
+          "sha256": "5fc0e94eea6f1a3c97fefd7f02cfdf9d214f1063839b7d4e6d202fc5cb98c2e3"
+        }
+      ]
+    },
+    {
+      "openalex": "W4405306282",
+      "doi": "10.1109/indin58382.2024.10774266",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Knowledge-Enhanced_Digital_Twin_for_Industrial_Production_Process.pdf",
+          "bytes": 2901821,
+          "sha256": "bf354f9ca5a7e3e354aafd662067b5aebae13c23d29321ff4bab15dd3986aa64"
+        }
+      ]
+    },
+    {
+      "openalex": "W4313164937",
+      "doi": "10.1109/aike55402.2022.00023",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Knowledge_Graphs_for_Automated_Driving.pdf",
+          "bytes": 809539,
+          "sha256": "bb1bf9a70003661909edbac88518921d1cfb483ba6144386a783a34cd6b70ec4"
+        }
+      ]
+    },
+    {
+      "openalex": "W3120914367",
+      "doi": "10.1109/siu49456.2020.9302490",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "Knowledge_Management_System_for_Semantic_Sensor_Data.pdf",
+          "bytes": 701189,
+          "sha256": "4f0f148384a809a7b621a72ed8ed58ed07755da0e77d265cb8945c2d24de1d23"
+        }
+      ]
+    },
+    {
+      "openalex": "W2951388996",
+      "doi": "10.1109/icdcs.2019.00178",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title pairs 0.90",
+      "tried": [
+        {
+          "file": "LATTICE_A_Framework_for_Optimizing_IoT_System_Configurations_at_the_Edge.pdf",
+          "bytes": 711162,
+          "sha256": "d034491b37292b8bd10e614cbe771077c4c83d64f89125bf8c9a80567d7a754a"
+        }
+      ]
+    },
+    {
+      "openalex": "W3215556764",
+      "doi": "10.23919/fruct53335.2021.9599964",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Large_Scale_Multimodal_Data_Processing_Middleware_for_Intelligent_Transport_Systems.pdf",
+          "bytes": 1738878,
+          "sha256": "5fb4d880a8ba35955096b6fb79689d8abf5399a49c772884d830f860f7b52d21"
+        }
+      ]
+    },
+    {
+      "openalex": "W4229713728",
+      "doi": "10.1109/trustcom53373.2021.00206",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Matching_Sensor_Ontologies_with_Neural_Network.pdf",
+          "bytes": 367520,
+          "sha256": "55f97130ebbfc734418db984f7519cc56edd9b7cfed5c87a5be9a1ed027ae340"
+        }
+      ]
+    },
+    {
+      "openalex": "W7154697599",
+      "doi": "10.1109/iccbdc67784.2025.00023",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "MicroMaps_Ontology-Driven_Semantic_Geospatial_Data_Fusion_Approach_for_IoT_Integration_and_Decision_Making_in_Smart_Cities.pdf",
+          "bytes": 546363,
+          "sha256": "00800fc93028e5e96d461c5aa0164826d77daa27cf2513df7f20dac83a734f3b"
+        }
+      ]
+    },
+    {
+      "openalex": "W3213130324",
+      "doi": "10.1109/iecon48115.2021.9589278",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Middleware_Architecture_for_Application_Layer_Interoperability_of_Standardized_Digital_Representations.pdf",
+          "bytes": 984762,
+          "sha256": "6feefa83122e68cbce81c2ca099ea54078802df9805f21618ac473bfdc6cd57d"
+        }
+      ]
+    },
+    {
+      "openalex": "W3026882161",
+      "doi": "10.1109/seaa51224.2020.00091",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "Model-Driven_Engineering_of_Monitoring_Application_for_Sensors_and_Actuators_Networks.pdf",
+          "bytes": 811396,
+          "sha256": "f3980dec4a35ac67dd7e434a0eed8593b45cdddb5da1df47f6d74a7be39075b5"
+        }
+      ]
+    },
+    {
+      "openalex": "W4414898762",
+      "doi": "10.1109/escience65000.2025.00018",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Modeling_Remote_Sensing_Data_Relationships_with_Spatiotemporal_Knowledge_Graphs.pdf",
+          "bytes": 1653613,
+          "sha256": "0c54c4cda6ef9af1d9356941056234ebb9297f9e40cdb8ebf3a7d653adf10bbb"
+        }
+      ]
+    },
+    {
+      "openalex": "W4404740265",
+      "doi": "10.1109/rtsi61910.2024.10761601",
+      "stratum": "B",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Monitoring_Data_Streams_in_Industry_5.0_a_Knowledge_Graph_Approach.pdf",
+          "bytes": 534351,
+          "sha256": "f72aad79665668867ef984ef1e08a0710de0085c34e08d51d270f61eb2c1b153"
+        }
+      ]
+    },
+    {
+      "openalex": "W4316659945",
+      "doi": "10.1109/nca57778.2022.10013515",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Never_Alone_a_Quality_of_Context-aware_Monitoring_System_for_Aging_in_Place_Smart_Home.pdf",
+          "bytes": 1856352,
+          "sha256": "d41eb07671d7ef29af318b721ce98d9342e923fc89a284e8bba609852f613776"
+        }
+      ]
+    },
+    {
+      "openalex": "W2971226668",
+      "doi": "10.1109/iciot.2019.00039",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "On_the_Bulk_Ingestion_of_IoT_Devices_from_Heterogeneous_IoT_Brokers.pdf",
+          "bytes": 591611,
+          "sha256": "faa8d5f2000b1df1c26e9e361fad593b42045ef06186e2d509cf6dfc5bfffd6a"
+        }
+      ]
+    },
+    {
+      "openalex": "W4405907770",
+      "doi": "10.1109/wf-iot62078.2024.10811412",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "OntoSmartDCU_A_Multi-Agent_Microservice_Based_Automated_Dynamic_Ontology_and_Knowledge_Graph_Creation_Framework_From_Real-Time_Sensor_Data_for_the_Smart_DCU_Digital_Twin.pdf",
+          "bytes": 1088599,
+          "sha256": "2f621182741b26fd3f34d5952a6d57d0bd5860e6b52835a35ea6cae35b27c15b"
+        }
+      ]
+    },
+    {
+      "openalex": "W4206048267",
+      "doi": "10.1109/idaacs53288.2021.9661045",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Ontological-based_ABAC_and_Blockchain_Organizational_Cooperation_Framework_for_Security_Management_in_AmI_environments.pdf",
+          "bytes": 526435,
+          "sha256": "458a8b1c1fbfbea56eb47ffb48b7e522dd70ca2609b7891ce0b9b44e40b1dbda"
+        }
+      ]
+    },
+    {
+      "openalex": "W2999380148",
+      "doi": "10.1109/tii.2020.2967561",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Ontologies-Based_Domain_Knowledge_Modeling_and_Heterogeneous_Sensor_Data_Integration_for_Bridge_Health_Monitoring_Systems.pdf",
+          "bytes": 5321248,
+          "sha256": "acf1592121389a05501cd1b4a29a7f2e3576e1f9212438a1327ae606c44b2e22"
+        }
+      ]
+    },
+    {
+      "openalex": "W2569320133",
+      "doi": "10.1109/iecon.2016.7793744",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "Ontologies_and_Semantic_Web_for_the_Internet_of_Things_-_a_survey.pdf",
+          "bytes": 1102120,
+          "sha256": "9dab84fe7f6c6ccdd53b6e7525aa6fb0a56d800a189aa5247ac6af33f544b905"
+        }
+      ]
+    },
+    {
+      "openalex": "W3135271042",
+      "doi": "10.1109/icsc50631.2021.00078",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Ontology-Based_Integration_of_Vehicle-Related_Data.pdf",
+          "bytes": 750194,
+          "sha256": "7506f70cb13b00eeafc4823fc7dc70276d5b7e194359341d1dc5468249248090"
+        }
+      ]
+    },
+    {
+      "openalex": "W7116827776",
+      "doi": "10.1109/isc266238.2025.11293328",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Ontology-Driven_Building_Operating_System_Integrated_with_Large_Language_Models_for_Intuitive_Building_Operations.pdf",
+          "bytes": 278386,
+          "sha256": "f0091086f8054f280b8fdffc5e58826cc2d3aeade162d247d43c229aaf9cd2e5"
+        }
+      ]
+    },
+    {
+      "openalex": "W4416213222",
+      "doi": "10.1109/wi-iat67162.2025.00061",
+      "stratum": "A",
+      "oa_status": "hybrid",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Ontology-Driven_Conversion_of_Business_Intents_in_Smart_Industry_Transformer-Based_Extraction_vs._Prompt-Based_LLMs.pdf",
+          "bytes": 554688,
+          "sha256": "80d4decf8312405a7079ec2749fc6f3d3cc422bc47c02ad9e64c2a1395830434"
+        }
+      ]
+    },
+    {
+      "openalex": "W2783299365",
+      "doi": "10.1109/etfa.2017.8247688",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "Ontology-based_information_modelling_in_the_industrial_data_space.pdf",
+          "bytes": 418068,
+          "sha256": "8ea25ea1f107a3bbf1749415cd87f74536f813c81a20b2eb1b83ba7c5a39d5fa"
+        }
+      ]
+    },
+    {
+      "openalex": "W2901822845",
+      "doi": "10.1109/giots.2018.8534569",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "Ontology-driven_Device_Descriptions_for_IoT_Network_Management.pdf",
+          "bytes": 436203,
+          "sha256": "2e28ce2de00269d34fa2c74804778af4d64779eb783d7513090b387cde9f8c07"
+        }
+      ]
+    },
+    {
+      "openalex": "W4404915463",
+      "doi": "10.1109/apcc62576.2024.10767997",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Ontology_Development_for_Sustainable_Intelligent_Transportation_Systems.pdf",
+          "bytes": 775162,
+          "sha256": "85584aca709b6ecc205ef271d60a01691de6870fc82be09cf75ae53262061fb4"
+        }
+      ]
+    },
+    {
+      "openalex": "W3113081138",
+      "doi": "10.1109/sbesc51047.2020.9277856",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "Ontology_and_Rules_for_Characterization_of_Sensors_and_Actuators_Devices_in_AADL_Models.pdf",
+          "bytes": 5156580,
+          "sha256": "d10dc1e73b0b2c3f566556ac5cc964bc48689dced2e6e8e62fb358bfada3c745"
+        }
+      ]
+    },
+    {
+      "openalex": "W4200424421",
+      "doi": "10.1109/ictai52525.2021.00220",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "OpenAPI_Thing_Descriptions_for_the_Web_of_Things.pdf",
+          "bytes": 788951,
+          "sha256": "e4c94f69253e1142ff7f651f8d50c00a47aaac2abf5d021932afb172d78ad2d8"
+        }
+      ]
+    },
+    {
+      "openalex": "W4366959036",
+      "doi": "10.1109/wi-iat55865.2022.00026",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "POWoT__a_Privacy_Ontology_for_the_Web_of_Things.pdf",
+          "bytes": 1465506,
+          "sha256": "1ec49917955b325372c06001647340ee273d779c9c9b724a1a67723f7ade9eae"
+        }
+      ]
+    },
+    {
+      "openalex": "W3093138486",
+      "doi": "10.23919/fruct49677.2020.9210986",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "Populating_the_Smart_Musical_Instruments_Ontology_with_Data.pdf",
+          "bytes": 170996,
+          "sha256": "7355e28df676c0384bd8099f03d45b4020315a0b64c1c1c6c965b67f6d552ea0"
+        }
+      ]
+    },
+    {
+      "openalex": "W4200455613",
+      "doi": "10.1109/metroagrifor52389.2021.9628475",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Predict_soil_moisture_into_the_future_on_the_integration_of_CRITERIA-1D_into_ZENTRA_cloud (1).pdf",
+          "bytes": 3081940,
+          "sha256": "94e778bc3238fac6e247419c896dd39cd0ae17dd51a25090561de757ce208338"
+        }
+      ]
+    },
+    {
+      "openalex": "W2908118374",
+      "doi": "10.1109/milcom.2018.8599838",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "Provisioning_Robust_and_Interpretable_AI_ML-Based_Service_Bundles.pdf",
+          "bytes": 3614000,
+          "sha256": "aba5d1adbd4547e26582aa39ab5b0560b921bde08460ed855ab0476c86bcb7ee"
+        }
+      ]
+    },
+    {
+      "openalex": "W2970970031",
+      "doi": "10.1109/iotsms48152.2019.8939250",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "Recording_Provenance_of_Food_Delivery_Using_IoT_Semantics_and_Business_Blockchain_Networks.pdf",
+          "bytes": 703150,
+          "sha256": "e217213c2439c5f8304f62039e5c513701dd7893dec39416d5b783696b0b1c5f"
+        }
+      ]
+    },
+    {
+      "openalex": "W3214742825",
+      "doi": "10.1109/ccdc52312.2021.9602210",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Research_and_Application_of_Complex_Event_Processing_Method_Based_on_RDF_Stream.pdf",
+          "bytes": 598850,
+          "sha256": "b23b5fc76c2e83ce34d24b645bb6512547135cc06a569aee88d21b8fd7211fd6"
+        }
+      ]
+    },
+    {
+      "openalex": "W2995271153",
+      "doi": "10.1109/issrew.2019.00069",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "Resilient_Reactive_Systems_Based_on_Runtime_Semantic_Models.pdf",
+          "bytes": 632460,
+          "sha256": "96087b7bb41bbcca6c65a746b80ad2c5eb6e860d94af109c00f1980165cc3a5a"
+        }
+      ]
+    },
+    {
+      "openalex": "W2963954789",
+      "doi": "10.1109/giots.2019.8766377",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "Review_of_Standard_Ontologies_for_the_Web_of_Things.pdf",
+          "bytes": 996838,
+          "sha256": "76942435516e275c1bcb768f4312915e514a93c72b3775b93cafa06fd43e5e69"
+        }
+      ]
+    },
+    {
+      "openalex": "W2768705617",
+      "doi": "10.1109/jiot.2017.2773200",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "SEMIoTICS_Semantically_Enhanced_IoT-Enabled_Intelligent_Control_Systems.pdf",
+          "bytes": 1373455,
+          "sha256": "6b36c0283b4544af5ab945df39b19c9f9800c0578b4d3220f305e1a899c71b1b"
+        }
+      ]
+    },
+    {
+      "openalex": "W4224235693",
+      "doi": "10.1109/vrw55335.2022.00166",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "STARE_Semantic_Augmented_Reality_Decision_Support_in_Smart_Environments.pdf",
+          "bytes": 349024,
+          "sha256": "2bf6f297a03a57d2e96675df36207fa696ea68221a38659cafb43ce399c59649"
+        }
+      ]
+    },
+    {
+      "openalex": "W2904012735",
+      "doi": "10.1109/geoinformatics.2018.8557157",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "SWRO-DDPM_A_Sensor_Web_Resource_Ontology_for_the_Dynamic_Disaster_Process_Monitoring.pdf",
+          "bytes": 3770493,
+          "sha256": "006cf01ccee48e00365c96f39fe28b3bbdcb8f395db217bf3154b5922d05d66d"
+        }
+      ]
+    },
+    {
+      "openalex": "W4415398051",
+      "doi": "10.1109/etfa65518.2025.11205645",
+      "stratum": "B",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Securing_IoE_Environments_with_Semantic_Data_Stream_Analysis_and_Behavioral_Fingerprinting.pdf",
+          "bytes": 292554,
+          "sha256": "b872610aeeeb409731683ccb3393549cb7979e7a998e2b31421a25a6cd7131d3"
+        }
+      ]
+    },
+    {
+      "openalex": "W2989739206",
+      "doi": "10.1109/iscit.2019.8905178",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "SemIDEA_Towards_a_Semantic_IoT_Data_Analytic_Framework_for_Facilitating_Environmental_Protection.pdf",
+          "bytes": 771085,
+          "sha256": "b44ee8de2ff7d1efb8b4bf78e55d71780894531ca7dd71e2ee2c2ac835ef64c4"
+        }
+      ]
+    },
+    {
+      "openalex": "W7117991961",
+      "doi": "10.1109/isgtmiddleeast65737.2025.11314206",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Semantic-Aware_Interoperability_for_Digital_Twins_A_Case_Study_on_Hydrogen_Power_Plants.pdf",
+          "bytes": 16047863,
+          "sha256": "c3a9d6cae0aceacea61f0f5fd1c9fb03fb9f477f05df3d16e23b59f5781ff631"
+        }
+      ]
+    },
+    {
+      "openalex": "W3090953489",
+      "doi": "10.1109/ichms49158.2020.9209469",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "Semantic_Framework_for_Creating_an_Instance_of_the_IoE_in_Urban_Transport_A_Study_of_Traffic_Management_with_Driverless_Vehicles.pdf",
+          "bytes": 201045,
+          "sha256": "a99052c7017a513252a00ad5fc000b06a142c5f034209c0a4a0429a799f6aa8d"
+        }
+      ]
+    },
+    {
+      "openalex": "W3041094324",
+      "doi": "10.1109/metroind4.0iot48571.2020.9138282",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "Semantic_Information_in_Sensor_Networks_How_to_Combine_Existing_Ontologies_Vocabularies_and_Data_Schemes_to_Fit_a_Metrology_Use_Case.pdf",
+          "bytes": 1810609,
+          "sha256": "5d38402e177fe952a34ac2ae2fa934564a86bcc3055f8c559527065c49243194"
+        }
+      ]
+    },
+    {
+      "openalex": "W4310972098",
+      "doi": "10.1109/iecon49645.2022.9968883",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Semantic_Level_of_Interoperability_by_Proposing_an_IEEE_1451_Family_of_Standards_Ontology.pdf",
+          "bytes": 2481959,
+          "sha256": "c913a2e1a3235d35ce1caa5adcf5612e6ff831eade34e12e9ece607f9cce67e2"
+        }
+      ]
+    },
+    {
+      "openalex": "W2059054714",
+      "doi": "10.1109/jstars.2013.2269027",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Semantic_Matchmaking_amp_Mediation_for_Sensors_on_the_Sensor_Web.pdf",
+          "bytes": 579732,
+          "sha256": "539adf64b1670e196f740bb5e72fe54e1215985d83590892461d36b810b426d3"
+        }
+      ]
+    },
+    {
+      "openalex": "W4200036868",
+      "doi": "10.1109/iotais53735.2021.9628719",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Semantic_Search_System_For_Real_Time_Occupancy.pdf",
+          "bytes": 765634,
+          "sha256": "6308107ad5b17ccfe5d2013b98bf677705e48ecbd4dcb2c56535d2aa5d5b4413"
+        }
+      ]
+    },
+    {
+      "openalex": "W4409495790",
+      "doi": "10.1109/ic363308.2025.10957683",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Semantic_Sensor_Network_Ontology_for_Forest_Fire_Management_Decision_Support.pdf",
+          "bytes": 361444,
+          "sha256": "81bb292bf36c9383f1cea910087b7fb0fe408459f65209af2fe790ac5a90f85d"
+        }
+      ]
+    },
+    {
+      "openalex": "W2961974912",
+      "doi": "10.1109/compsac.2019.10188",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Semantic_Stream_Management_Framework_for_Data_Consistency_in_Smart_Spaces.pdf",
+          "bytes": 453012,
+          "sha256": "1af052a0891b1c322d2070f456d7302beaaaa93d432e8ca6369e2fffe413318e"
+        }
+      ]
+    },
+    {
+      "openalex": "W3184451757",
+      "doi": "10.1109/metroind4.0iot51437.2021.9488554",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Semantics_in_Sensor_Networks_An_Ontology_for_Dynamic_Transfer_Behavior_in_Calibrated_Sensors.pdf",
+          "bytes": 156344,
+          "sha256": "4a7125c118c1f9fdca7516ab3897406ae77559a5f8b6d84a74936543529d21b0"
+        }
+      ]
+    },
+    {
+      "openalex": "W3122945518",
+      "doi": "10.1109/cic50333.2020.00012",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "SenShaMart_A_Trusted_loT_Marketplace_for_Sensor_Sharing.pdf",
+          "bytes": 442277,
+          "sha256": "63937ae22ee86578ab203ec5b2b19bc91b1f2046a0df98d163ac0e1fe1d72dcf"
+        }
+      ]
+    },
+    {
+      "openalex": "W4402475428",
+      "doi": "10.1109/jsen.2024.3450895",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Sensor_Ontology_Matching_With_Compact_Firework_Algorithm.pdf",
+          "bytes": 6299949,
+          "sha256": "00abbdaacc1423ec68429f2119c5e76ea3c66f44181b046c1c8a4d613facfe39"
+        }
+      ]
+    },
+    {
+      "openalex": "W2970064150",
+      "doi": "10.1109/ivs.2019.8813884",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "Service_Discovery_for_the_Connected_Car_with_Semantic_Accessors.pdf",
+          "bytes": 1867938,
+          "sha256": "db7fe4947255037e76ba0d65d461fc5e424fc40204e61c215e505e9283d8bb7d"
+        }
+      ]
+    },
+    {
+      "openalex": "W4392207586",
+      "doi": "10.1109/jiot.2024.3370610",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Similarity_Feature_Construction_for_Semantic_Sensor_Ontology_Integration_via_Light_Genetic_Programming.pdf",
+          "bytes": 1187516,
+          "sha256": "c2e4d943e966f117730c518a2cd23dedffd88c25bd74d1a953014a7a82225c62"
+        }
+      ]
+    },
+    {
+      "openalex": "W4200131824",
+      "doi": "10.1109/ictai52525.2021.00192",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Smart_Data_for_Goods_and_Vehicle_Monitoring__Practical_Considerations_on_Data_Semantization.pdf",
+          "bytes": 645289,
+          "sha256": "777f582d4f909dd352015b9cf034d5bd8f6ec9b9233e40c801719660b0c9582a"
+        }
+      ]
+    },
+    {
+      "openalex": "W3214231364",
+      "doi": "10.1109/wf-iot51360.2021.9595417",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Smart_Musical_Instruments_preset_sharing_an_ontology-based_data_access_approach.pdf",
+          "bytes": 1043968,
+          "sha256": "ceca211d60c71ccd561bf186388a86c98fd99de3dc01ce1b5db8866ad60a1ab0"
+        }
+      ]
+    },
+    {
+      "openalex": "W4409659885",
+      "doi": "10.1109/icit63637.2025.10965221",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Smart_Transducers_Robotics_and_Artificial_Intelligence_in_Industry_4.0.pdf",
+          "bytes": 812590,
+          "sha256": "77409f5bf609b8dabd8aac74bcad25f5c55269898b98f18e919b0c05c3de897a"
+        }
+      ]
+    },
+    {
+      "openalex": "W7163058424",
+      "doi": "10.1109/arso68304.2026.11536115",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "SoBots_A_Domain_Ontology_for_Social_Robotics.pdf",
+          "bytes": 1272352,
+          "sha256": "526918a361d82055e196b70f9779e014b80ba355c52657e52076b60bf1ff258e"
+        }
+      ]
+    },
+    {
+      "openalex": "W7124907443",
+      "doi": "10.1109/ic2sda68097.2025.11331515",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Standardized_Semantic_Mapping_and_Legacy_Data_Integration_in_Blockchain_Based_EHR_System_A_Survey.pdf",
+          "bytes": 530415,
+          "sha256": "d05ca8e82f32ce80094e14774c6b5cec77e11afa71c69ffdde1203fa6f1c1ca5"
+        }
+      ]
+    },
+    {
+      "openalex": "W4404238720",
+      "doi": "10.1109/icstcc62912.2024.10744661",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Study_of_Ontologies_and_Rule_Engine_Integration_Applied_to_Sensor_Networks.pdf",
+          "bytes": 559126,
+          "sha256": "e7968972e2e6d6278699bc6072cd571e2460c8b6bd526d72c3e2e2508318a155"
+        }
+      ]
+    },
+    {
+      "openalex": "W7223710283",
+      "doi": "10.1109/idap71869.2026.11727987",
+      "stratum": "A",
+      "oa_status": "hybrid",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "TeleGovX_Deterministic_Ontology-Governed_Semantic_Mapping_of_TON_IoT_Telemetry.pdf",
+          "bytes": 374290,
+          "sha256": "92b4b338a270be01f7dc86c104babb05c61d30ad7f317abcf709f47bbcef92bc"
+        }
+      ]
+    },
+    {
+      "openalex": "W4312313934",
+      "doi": "10.1109/iisa56318.2022.9904401",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Thing_Ontologies_for_the_Semantic_Web_of_Things.pdf",
+          "bytes": 191594,
+          "sha256": "63c0746bd4204e0516f3dd675af875185e7d83f5965e33279669e19d0057d8fb"
+        }
+      ]
+    },
+    {
+      "openalex": "W2996773210",
+      "doi": "10.1109/jiot.2019.2962630",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Things2Vec_Semantic_Modeling_in_the_Internet_of_Things_With_Graph_Representation_Learning.pdf",
+          "bytes": 1492721,
+          "sha256": "9b1d8081000e4aa99a9174a80629a2c1f5f430909dacb492ce80b33b7514c3ed"
+        }
+      ]
+    },
+    {
+      "openalex": "W7124919146",
+      "doi": "10.1109/seeda-cecnsm68644.2025.11329714",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Toward_the_Development_of_an_Ontology_for_Supervisory_Control_and_Fault_Diagnosis_in_Water_Distribution_Networks.pdf",
+          "bytes": 498355,
+          "sha256": "01dc3d65c87d19bc52aec9d6acc473baa2d33bf3fb5bf6145c4bd7ea2d1c332d"
+        }
+      ]
+    },
+    {
+      "openalex": "W3047553428",
+      "doi": "10.1109/percomworkshops48775.2020.9156173",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "Towards_Adaptive_Sensor_Data_Quality_Improvement_based_on_Context_Models.pdf",
+          "bytes": 233647,
+          "sha256": "2f5aebec37523c76c9f09d60ce423fd80e4c5e7d7ea5ce5f726d198fe214d72d"
+        }
+      ]
+    },
+    {
+      "openalex": "W4386361525",
+      "doi": "10.1109/edge60047.2023.00033",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Towards_Autonomous_Anomaly_Management_Using_Semantic_Technologies_at_the_Edge.pdf",
+          "bytes": 1240652,
+          "sha256": "5a831996cdb6064714eb01d47226cc3b9d82e8b611c122daea3cad2e1d845947"
+        }
+      ]
+    },
+    {
+      "openalex": "W2951974123",
+      "doi": "10.1109/cfec.2019.8733145",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "Towards_Context-Aware_and_Dynamic_Management_of_Stream_Processing_Pipelines_for_Fog_Computing.pdf",
+          "bytes": 4988036,
+          "sha256": "d6239b4a823a3b131eb58b9182a246d9e6e3dd152fd22870b71af264dce282f5"
+        }
+      ]
+    },
+    {
+      "openalex": "W4387678014",
+      "doi": "10.1109/icac57885.2023.10275182",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Towards_Industry_Data_Governance_Construction_of_An_Industrial_Data_Decentralized_Distributed_Symbiotic_Sharing_Space_Based_on_Tensor.pdf",
+          "bytes": 6129447,
+          "sha256": "e10288f9f8882e3e26b6bc729f8e632d6f1017870caafe2396673258181e81d2"
+        }
+      ]
+    },
+    {
+      "openalex": "W2981050658",
+      "doi": "10.1109/etfa.2019.8869368",
+      "stratum": "B",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "Towards_a_KPI-based_Ontology_for_Condition_Monitoring_of_Automation_Systems.pdf",
+          "bytes": 190218,
+          "sha256": "c8f4e444660a6def304d324047aca54dc81352e7a1de7fe53dbb6218699ceb76"
+        }
+      ]
+    },
+    {
+      "openalex": "W4200035707",
+      "doi": "10.1109/edocw52865.2021.00051",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Towards_a_data_provenance_model_for_private_data_sharing_management_in_IoT.pdf",
+          "bytes": 902914,
+          "sha256": "7f106de3e85f58359874fadf6416cef37190b573cdb2b4b05e9f400a60b78723"
+        }
+      ]
+    },
+    {
+      "openalex": "W4387914416",
+      "doi": "10.1109/codit58514.2023.10284094",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Towards_an_Ontology-Based_Fault_Detection_and_Diagnosis_Framework_-_A_Semantic_Approach.pdf",
+          "bytes": 1681512,
+          "sha256": "66a16120a10eaf4fb87ba52a8f409d1d6ebe76738a6041b2a9e1681b05301730"
+        }
+      ]
+    },
+    {
+      "openalex": "W4205494988",
+      "doi": "10.1109/jiot.2022.3141112",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "TupperwareEarth_Bringing_Intelligent_User_Assistance_to_the_Internet_of_Kitchen_Things.pdf",
+          "bytes": 5638342,
+          "sha256": "916278fab2fd3bbe6882e895482abf46708bf9533bf9048b207892463e7804fd"
+        }
+      ]
+    },
+    {
+      "openalex": "W4406416456",
+      "doi": "10.1109/cic62241.2024.00014",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Ubiquitous_IoT_Sensor_Sharing_via_an_Open_Self-Manged_Marketplace.pdf",
+          "bytes": 2116659,
+          "sha256": "092ecdc1c8722849353f1c63ec70482aaed46b4601c1eca65a4d9056f0bf1790"
+        }
+      ]
+    },
+    {
+      "openalex": "W3200254165",
+      "doi": "10.1109/ijcnn52387.2021.9533544",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Using_Expert_Knowledge_for_Masking_Irrelevant_Data_Streams_in_Siamese_Networks_for_the_Detection_and_Prediction_of_Faults.pdf",
+          "bytes": 1558287,
+          "sha256": "909979f713775cd0c6435e2008e0d33a019b80da33a36abcbd9126ac810d076b"
+        }
+      ]
+    },
+    {
+      "openalex": "W4381786701",
+      "doi": "10.1109/wf-iot54382.2022.10152138",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "WISE_A_Semantic_and_Interoperable_Web_of_Things_Architecture_for_Smart_Environments.pdf",
+          "bytes": 469937,
+          "sha256": "e7139586cf7de95e4b7fe4e90f1661eb82b1b2af64c40cdeadc92eeab60cc417"
+        }
+      ]
+    },
+    {
+      "openalex": "W3205050525",
+      "doi": "10.1109/iisa52424.2021.9555578",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "Web_of_Things_Functionality_in_IoT_A_Service_Oriented_Perspective.pdf",
+          "bytes": 223140,
+          "sha256": "c8f166938931d48f5ed49b53d1ebff6672b62d4196473fbbd3885fa74f5460c7"
+        }
+      ]
+    },
+    {
+      "openalex": "W4296913163",
+      "doi": "10.1109/icws55610.2022.00050",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "doi",
+      "tried": [
+        {
+          "file": "WoR_Ontology_Modeling_Resources_in_Web_Connected_Environments.pdf",
+          "bytes": 1060014,
+          "sha256": "4ffb02528f1acafb8b3c34f75eb9eacc36118b61266e8273ba50168f7ec64601"
+        }
+      ]
+    },
+    {
+      "openalex": "W3034727723",
+      "doi": "10.1109/wfcs47810.2020.9114503",
+      "stratum": "A",
+      "oa_status": "closed",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "Work-in-Progress_Towards_an_International_Data_Spaces_Connector_for_the_Internet_of_Things.pdf",
+          "bytes": 187685,
+          "sha256": "631e9264042a2aae4f37341ca63fb09300a4a152e8aa92ec91c8fd27b7332b37"
+        }
+      ]
+    },
+    {
+      "openalex": "W2898839322",
+      "doi": "10.3233/978-1-61499-894-5-163",
+      "stratum": "A",
+      "oa_status": "green",
+      "outcome": "text",
+      "matched_by": "title",
+      "tried": [
+        {
+          "file": "best-paper-1-preprint.pdf",
+          "bytes": 785634,
+          "sha256": "060ebc5ef338bbb4b971bfb8cbb5894e5392af83873023d3f139d44f11c0c9fe"
+        }
+      ]
+    }
+  ],
+  "outcomes": {
+    "text": 170
+  },
+  "unmatched": [
+    "2025-ruleml-rules-agri-robots.pdf: second PDF of W4415507007",
+    "ASOM-CNN_A_Semantic-Weighted_Convolutional_Method_for_Adaptive_Sensor_Ontology_Matching_in_IoT_Environments.pdf: already taken in",
+    "A_Car_as_a_Semantic_Web_Thing_Motivation_and_Demonstration.pdf: already taken in",
+    "A_Cognitive_Loop_for_Assistive_Robots_-_Connecting_Reasoning_on_Sensed_Data_to_Acting.pdf: already taken in",
+    "A_Novel_Sensing_as_a_Service_Model_Based_on_SSN_Ontology_and_Android_Automotive.pdf: already taken in",
+    "A_Review_of_Intelligent_Interactions_Using_Knowledge-Base_for_Internet-of-Things_IoT.pdf: already taken in",
+    "A_Semantic_Model_for_Service_Description_in_the_Internet_of_Things.pdf: already taken in",
+    "A_Trust_Model_for_Lightweight_Semantic_Annotation_of_Sensor_Data_in_Pervasive_Environment.pdf: already taken in",
+    "A_Unified_Validation_Framework_for_Heterogeneous_IoT_Data_Models.pdf: second PDF of W7171351039",
+    "A_semantic_sensor_mashup_platform_for_Internet_of_Things.pdf: already taken in",
+    "An_Overview_of_Semantic_Interoperability_Ontologies_and_Frameworks_for_IoT.pdf: already taken in",
+    "Applying_semantics_into_Service-oriented_IoT_Framework.pdf: already taken in",
+    "Building_Semantic-Based_Applications_in_IoT_Environments_With_IoTO.pdf: already taken in",
+    "Cloud_of_things_based_on_linked_data.pdf: already taken in",
+    "Configurator_module_to_integrate_different_protocols_for_IoT_solution.pdf: already taken in",
+    "Cyberlogic_A_Foundational_Framework_for_Cross-Space_Logic_in_the_Cyber-Physical-Social-Thinking_Hyperspace.pdf: already taken in",
+    "Delivering_IoT_Smart_Services_through_Collective_Awareness_Mobile_Crowdsensing_and_Open_Data.pdf: already taken in",
+    "Draft_Content_371880018-239-4387-document.pdf: already taken in",
+    "E_MALEKI.pdf: already taken in",
+    "Efficiency_analysis_of_ontology_servers.pdf: already taken in",
+    "Enabling_data_interoperability_for_federated_IoT_experimentation_infrastructures.pdf: already taken in",
+    "Enrichment_of_Semantic_Sensor_Network_Ontology_Description_Logics_based_approach.pdf: already taken in",
+    "Essentiality_of_Resource_and_Service-Task_Characterization_in_the_Coordinated_Fog-to-Cloud_Paradigm.pdf: already taken in",
+    "Explainable_Human-in-the-Loop_Decision_Support_for_Preventing_Client_Disengagement_in_Smart_Cities.pdf: already taken in",
+    "Fuzzy-Based_Fine-Grained_Human_Activity_Recognition_within_Smart_Environments.pdf: already taken in",
+    "I2oTegrator_a_Service-Oriented_IoT_Middleware_for_Intelligent_Object_Management.pdf: already taken in",
+    "ITO_Intelligent_Traceability_Ontology.pdf: second PDF of W3016691472",
+    "Internet_of_Things_Ontology_for_Digital_Twin_in_Cyber_Physical_Systems.pdf: already taken in",
+    "IoT-Stream_A_Lightweight_Ontology_for_Internet_of_Things_Data_Streams.pdf: already taken in",
+    "Jabla - Towards an approach for intelligent adaptation decision-making of pervasive middleware (1).pdf: already taken in",
+    "Jabla - Towards an approach for intelligent adaptation decision-making of pervasive middleware.pdf: already taken in",
+    "Monitoring_Data_Management_Services_on_the_Edge_Using_Enhanced_TSDBs.pdf: already taken in",
+    "OPC_UA_Realization_Of_Cloud_Cyber-Physical_System.pdf: already taken in",
+    "Observation-Metadata-Centric_Digital_Twin_Ontology_for_Heterogeneous_MultiSensor_Data_in_Smart_Cities.pdf: already taken in",
+    "Ontology-Based_Framework_Enabling_Smart_Product-Service_Systems_Application_of_Sensing_Systems_for_Machine_Health_Monitoring.pdf: already taken in",
+    "Ontology-Based_Multi-agent_Smart_Bike_Sharing_System_SBSS.pdf: already taken in",
+    "PANOPTES_A_Digital_Twin_Ontology_for_Cultural_Asset_Management (1).pdf: already taken in",
+    "PANOPTES_A_Digital_Twin_Ontology_for_Cultural_Asset_Management.pdf: already taken in",
+    "Predict_soil_moisture_into_the_future_on_the_integration_of_CRITERIA-1D_into_ZENTRA_cloud.pdf: second PDF of W4200455613",
+    "Proactive_Mobile_CARS_in_Action_A_First_Step_Towards_Making_Sense_of_Context_Rules.pdf: already taken in",
+    "RAISO_RAilway_Infrastructures_and_Signaling_Ontology_for_Configuration_Management_Verification_and_Validation.pdf: no work still without a text (already taken in, or not a candidate)",
+    "Risks_and_Benefits_of_Side-Channels_in_Battlefields.pdf: already taken in",
+    "Rule-Based_Model_for_Smart_Building_Supervision_and_Management.pdf: already taken in",
+    "Searching_for_the_IoT_Resources_Fundamentals_Requirements_Comprehensive_Review_and_Future_Directions.pdf: already taken in",
+    "Semantic-Driven_Secured_Data_Access_in_Distributed_IoT_Systems.pdf: already taken in",
+    "Semantic_Device_and_System_Modeling_for_Automation_Systems_and_Sensor_Networks.pdf: already taken in",
+    "Semantic_Enrichment_of_IoT_Stream_Data_On-demand.pdf: already taken in",
+    "Semantic_Internet_of_Things_Platforms-Examples_of_Two_Different_Approaches_for_Cloud_Environment.pdf: no work still without a text (already taken in, or not a candidate)",
+    "Semantic_Interoperability_for_Real-Time_Industrial_Applications.pdf: already taken in",
+    "Semantically_Enhanced_IoT-Oriented_Seismic_Event_Detection_An_Application_to_Colima_and_Vesuvius_Volcanoes.pdf: already taken in",
+    "Sensing_as_a_Service_Middleware_Architecture.pdf: already taken in",
+    "Smart_Interconnected_Infrastructure_for_Security_and_Safety_in_Public_Places.pdf: no work still without a text (already taken in, or not a candidate)",
+    "Snap4City_A_Scalable_IOT_IOE_Platform_for_Developing_Smart_City_Applications.pdf: already taken in",
+    "Supporting_Digital_Twins_Systems_Integrating_the_MERODE_Approach.pdf: already taken in",
+    "TDeX_A_Description_Model_for_Heterogeneous_Smart_Devices_and_GUI_Generation.pdf: already taken in",
+    "TFSBDM1de1.pdf: already taken in",
+    "The_introduction_of_ontology_model_based_on_SSO_design_pattern_to_the_intelligent_space_for_home_service_robots.pdf: already taken in",
+    "Towards_Modelling_and_Reasoning_About_Uncertain_Data_of_Sensor_Measurements_for_Decision_Support_in_Smart_Spaces.pdf: already taken in",
+    "Towards_a_semantic_model_for_IoT-based_seismic_event_detection_and_classification.pdf: already taken in",
+    "Towards_the_internet_of_everything_Deployment_scenarios_for_a_QoO-aware_integration_platform.pdf: already taken in",
+    "VITAL-OS_An_Open_Source_IoT_Operating_System_for_Smart_Cities.pdf: already taken in"
+  ]
+}
